@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4222.epgdata.ontvjapan">
+    <display-name lang="ja_JP">TwellV</display-name>
+  </channel>
+  <programme start="20130924215500 +0900" stop="20130924220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">時の散歩道　＃１１「相模の名城　小田原城」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ファッションワードローブ</title>
+    <desc lang="ja_JP">カジュアルからエレガントまで。最新のトレンドを盛り込んだ、さまざまなファッション・アイテムをセレクトしました。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130925000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　スビニエ</title>
+    <desc lang="ja_JP">人気デザイナー、ノ・スビンさんが提案する「スビニエ」のコレクション。旬をつかまえた、装いをレベルアップするアイテムが届きました。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　24Kスペシャルジュエリー コレクション</title>
+    <desc lang="ja_JP">純金ならではの美しい輝きと存在感をご堪能いただけるコレクション。特別な日の装いをより一層華やかに演出してくれます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Bose プレミアムサウンド</title>
+    <desc lang="ja_JP">面倒な配線もなく、電源につなぐだけ。「Bose」から小さなスペースでお洒落に楽しめる「ウェーブミュージックシステム」が登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925023000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ドラマ　クルマのふたり〜TOKYO DRIVE STORIES　＃６　同級生</title>
+    <desc lang="ja_JP">２人のキャストがクルマの中で繰り広げる、人生の一片を切り取ったショートストーリー。限定された空間で展開する先の読めない会話劇の行方は？　出演：菊川怜、佐藤祐基</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925023000 +0900" stop="20130925030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">実感　発毛・育毛体験レポート！</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925033000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃９　ハワイ２</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925033000 +0900" stop="20130925040000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１０　ハワイ３</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925040000 +0900" stop="20130925043000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ｉｎ　ｃｉｔｙ　＃８　ヴェネツィア</title>
+    <desc lang="ja_JP">世界各地の都市や街を、お洒落なサウンドにのせてお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925043000 +0900" stop="20130925050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８５　ミシェル・カミロ</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回はドミニカ共和国出身のジャズピアニスト、ミシェル・カミロを特集します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925050000 +0900" stop="20130925053000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">免疫力アップで健康促進！　今、注目の免疫ミルク　パート２</title>
+    <desc lang="ja_JP">「免疫力」はちょっとした工夫や気遣いで高めていくことができます。今回は免疫力アップに役立つ食品をご紹介。また、母乳の力を参考に開発された「免疫ミルク」に注目！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925053000 +0900" stop="20130925060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　アクアスケープ　＃２４　コスメル　メキシコ・カリブ海</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925063000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ＥＣＯ　ＭＵＳＩＣ　ＣＯＬＯＲＳ　Ｖｏｌ．８８５</title>
+    <desc lang="ja_JP">心安らぐ音楽と美しい風景映像をお送りするリラクゼーション・プログラム。今回は、メキシコ９　〜ｉｍｐｒｅｓｓｉｖｅ　ｃｉｔｙ〜</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925063000 +0900" stop="20130925070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ネイチャートレッキング　＃１７　残雪の北八ヶ岳</title>
+    <desc lang="ja_JP">トレッキング（山歩き）を通じて、そこで見る、感じる、さまざまな自然の姿を紹介。長野県北八ヶ岳を代表する通称「北横岳」と、南隣する縞枯山を２日間に渡って歩きます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925073000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０６</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925073000 +0900" stop="20130925074500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｗｈａｔ’ｓ　ｕｐ　宝塚　＃１５２</title>
+    <desc lang="ja_JP">宝塚歌劇のホットな情報をお届けするエンターテインメント情報番組。間もなく幕を開ける公演の最新情報を、稽古場風景などの貴重な映像を交えてご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925074500 +0900" stop="20130925080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">いにしえ逍遥・旅タカラジェンヌ　＃２２「近松・なにわ路②」</title>
+    <desc lang="ja_JP">今回は花組の実咲凜音が、浄瑠璃作家・近松門左衛門の作品世界をめぐる大阪の旅ををご紹介します。まず「国立文楽劇場」で人形遣いの豊松清十郎さんにお話を伺い・・・</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　24Kスペシャルジュエリー コレクション</title>
+    <desc lang="ja_JP">純金ならではの美しい輝きと存在感をご堪能いただけるコレクション。特別な日の装いをより一層華やかに演出してくれます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　特選カシミヤ</title>
+    <desc lang="ja_JP">肌ざわりがよく、暖かな上質のカシミア。コート・カーディガン・マフラーなど、お求めやすい価格のアイテムを厳選しました。カシミアでトータルコーディネートを！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　アサイーベリーの恵み「クロワール アイ」</title>
+    <desc lang="ja_JP">アフリカの植物“カメリアシネンシス”にアサイーベリーエキス末、マリーゴールドを配合の栄養機能食品（ビタミンA）「クロワール アイネオ」。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925110000 +0900" stop="20130925120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　24Kスペシャルジュエリー コレクション</title>
+    <desc lang="ja_JP">純金ならではの美しい輝きと存在感をご堪能いただけるコレクション。特別な日の装いをより一層華やかに演出してくれます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　スキーネペッレイタリアシームレスインナー</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　女性自身ｘQVC</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925140000 +0900" stop="20130925150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ムーミン タオルグッズコレクション</title>
+    <desc lang="ja_JP">ムーミンのホームグッズが登場。おなじみの“ムーミン”や、人気キャラクター“ミイ”の可愛らしいアイテムの数々にご期待ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925150000 +0900" stop="20130925160000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Q SELECTION</title>
+    <desc lang="ja_JP">売れ筋やナビゲーターのイチオシなど、オールカテゴリーで注目商品をピックアップします。お買い得商品もあるので、要チェック！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】【字】韓流12　冬のソナタ　第１８話</title>
+    <desc lang="ja_JP">トラックにひかれそうになったユジンをかばってはねられたミニョンは、意識不明の重体に。そんなミニョンのそばを離れようとしないユジン。しばらくしたある日・・・</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ライフデザインラボ　エディテッドバイエルデコ　＃７　もっと暮らしにデザインを！編</title>
+    <desc lang="ja_JP">今回は、ＩＤＣ大塚家具新宿ショールームからお届け。ゲストは新進気鋭のプロダクトデザイナー・佐藤オオキ氏。ライフデザイン・インテリアの楽しみ方を紐解いていきます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925173000 +0900" stop="20130925175900 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０６</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925175900 +0900" stop="20130925210000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ１２　プロ野球中継２０１３　「福岡ソフトバンク×オリックス」</title>
+    <desc lang="ja_JP">BS12ch TwellVでパ・リーグ「千葉ロッテマリーンズ」「東北楽天ゴールデンイーグルス」「埼玉西武ライオンズ」「福岡ソフトバンクホークス」主催の約６５試合を生中継！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925213000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハワイに恋して３０　＃２３</title>
+    <desc lang="ja_JP">オアフ島の最新情報・マニアックな情報は勿論、ビックアイランド、マウイ、カウアイといった島にも注目！　大自然＆人々とのふれあいに癒されること間違いなし！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925213000 +0900" stop="20130925220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の子どもの日常生活</title>
+    <desc lang="ja_JP">貧困に苦しむ途上国の子どもたちを支援する国際ＮＧＯ団体ワールド・ビジョンによる、世界の子どもたちの現状レポート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ジュエリースタイル</title>
+    <desc lang="ja_JP">至高のハイジュエリーから、トレンド感溢れるファッションジュエリーまで、様々な輝きをお届けいたします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130926000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　卵殻膜パワーコスメ</title>
+    <desc lang="ja_JP">“卵殻膜”を配合したコスメをご紹介。話題のアイテムをぜひご覧ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926000000 +0900" stop="20130926010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ベニーバード コレクション</title>
+    <desc lang="ja_JP">ファーやコート、ジャケット等の魅力を楽しんで頂く為、デザイン、そしてプライスにもこだわりが。今シーズンの新作も次々登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ヴィーナスアローダイヤ エスプレーシボ</title>
+    <desc lang="ja_JP">一粒の石に106もの面を作り出す、ヴィーナスアローカットの輝き。16本の女神の矢が織り成す、表情豊かな輝きをご堪能ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926020000 +0900" stop="20130926023000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">実感　発毛・育毛体験レポート！</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926023000 +0900" stop="20130926030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８４　ブラッド・メルドー</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回は、アメリカのジャズピアニソト、ブラッド・メルドーを特集。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926033000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃９　ハワイ２</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926033000 +0900" stop="20130926040000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１０　ハワイ３</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926040000 +0900" stop="20130926043000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ｉｎ　ｃｉｔｙ　＃８　ヴェネツィア</title>
+    <desc lang="ja_JP">世界各地の都市や街を、お洒落なサウンドにのせてお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926043000 +0900" stop="20130926050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８５　ミシェル・カミロ</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回はドミニカ共和国出身のジャズピアニスト、ミシェル・カミロを特集します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926050000 +0900" stop="20130926053000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　アクアスケープ ＃２３ カンクン・コスメル　メキシコ・カリブ海</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926053000 +0900" stop="20130926060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　アクアスケープ　＃２４　コスメル　メキシコ・カリブ海</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926063000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ＥＣＯ　ＭＵＳＩＣ　ＣＯＬＯＲＳ　Ｖｏｌ．８８５</title>
+    <desc lang="ja_JP">心安らぐ音楽と美しい風景映像をお送りするリラクゼーション・プログラム。今回は、メキシコ９　〜ｉｍｐｒｅｓｓｉｖｅ　ｃｉｔｙ〜</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926063000 +0900" stop="20130926070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ネイチャートレッキング　＃１７　残雪の北八ヶ岳</title>
+    <desc lang="ja_JP">トレッキング（山歩き）を通じて、そこで見る、感じる、さまざまな自然の姿を紹介。長野県北八ヶ岳を代表する通称「北横岳」と、南隣する縞枯山を２日間に渡って歩きます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926073000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０７</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926073000 +0900" stop="20130926080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">マリーンズ・ベースボール・アカデミー　＃４７</title>
+    <desc lang="ja_JP">マリーンズ・アカデミーのコーチ陣が、「バッティング」「ピッチング」などのテーマごとに、子供達にも分かりやすく、野球の指導を行います。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ベニーバード コレクション</title>
+    <desc lang="ja_JP">ファーやコート、ジャケット等の魅力を楽しんで頂く為、デザイン、そしてプライスにもこだわりが。今シーズンの新作も次々登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Masumi Kasahara ジュエリー</title>
+    <desc lang="ja_JP">国内外で活躍するジュエリーデザイナー笠原真寿美さんが手がける、繊細でフェミニンなジュエリーコレクションをご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926100000 +0900" stop="20130926110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　肌にエネルギー エレクトーレ</title>
+    <desc lang="ja_JP">ミネラルオーレ（鉱泥）を配合したフェイスソープやトリートメントなどをご紹介。みずみずしく透明感のある肌へ導きます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ベニーバード コレクション</title>
+    <desc lang="ja_JP">ファーやコート、ジャケット等の魅力を楽しんで頂く為、デザイン、そしてプライスにもこだわりが。今シーズンの新作も次々登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ピエログイディ -ファンタジーバッグ-</title>
+    <desc lang="ja_JP">芸術家たちが集まる美しい町、イタリア・ウルビノで誕生したブランド。流行に左右されることないアーティスティックな作品をお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ディズニー/素敵なライフスタイル／足湯で温泉気分!「フットバス檜うたせ湯」</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926140000 +0900" stop="20130926150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　マジカル コスメ ジーニー</title>
+    <desc lang="ja_JP">まぶたがたるむ、ほうれい線がくっきり。そんな肌にひと塗りでハリを与えます。ビタミンＡ・Ｃ・Ｅやコラーゲンが肌の弾力をキープ。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926150000 +0900" stop="20130926160000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Peｒmore 真珠のジュエリー</title>
+    <desc lang="ja_JP">上品な光沢や艶が、装いに気品を添える真珠のコレクション。その優美な輝きをぜひご覧ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】【字】韓流12　冬のソナタ　第１９話</title>
+    <desc lang="ja_JP">退院したチュンサンは、アパートを借りてユジンとのつかの間の幸せを楽しむ。ソウルへやって来て、ユジンら生徒を呼び出した高校時代の恩師パク先生を驚かせようと・・・</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">失敗しない家の選び方　注文住宅＆新築マンション編</title>
+    <desc lang="ja_JP">「人生で一番高い買い物」となる「家づくり」でお悩みの方必見！第三者目線でアドバイスをくれる素敵なサービスをご紹介します。「家の選び方」失敗させません。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926173000 +0900" stop="20130926180000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０７</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926183000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">リラックス・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１２　ロスカボス</title>
+    <desc lang="ja_JP">世界各地のパラダイスな風景を、海風のように気持ちよい音楽ともにお楽しみください。今回は、ロスカボス（メキシコ）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926183000 +0900" stop="20130926190000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">リラックス・タイム　アクアスケープ　＃１３　西オーストラリア１</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926193000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">これからの資産形成　〜「儲け」から「守り」へ発想を転換しよう！〜</title>
+    <desc lang="ja_JP">株式や為替の値動きが激しくなっている昨今。差益を狙った投資は大変難しくなっている。今取り組むべきバランスの取れた資産構築法とは何なのか。専門家と共に考えた。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926193000 +0900" stop="20130926200000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ・ニッポン起業化宣言Ｐａｒｔ２　〜トータルリペア”手に職”起業の魅力！〜</title>
+    <desc lang="ja_JP">自動車の補修ビジネス「トータルリペア」。そのフランチャイズで起業した人々の仕事に密着し、職人として、また起業家として新しい人生を歩む前向きな姿を紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926200000 +0900" stop="20130926203000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">イタリア・一度は行きたい街巡り　＃１２　ドロミーティ絶景紀行</title>
+    <desc lang="ja_JP">荒々しい岩肌が剥き出しの山並みで、雄々しい魅力に富んだ世界遺産「ドロミーティ」。今回は景勝地が続くボルツァーノからコルティナ・ダンペッツォの区間を巡ります。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926203000 +0900" stop="20130926210000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">まだ見ぬスペイン　古の都巡り８０００キロ　＃１２「コスタ・デル・ソル」</title>
+    <desc lang="ja_JP">コスタ・デル・ソルは世界的に有名な高級リゾート地。まばゆい太陽に照らし出される白い家々、スペインならではの美しい風景がここには広がります。この地域の見所は・・・</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926215400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">水野真紀の魔法のレストラン　＃１５「石ちゃんの大阪デパートまいう〜秋の陣！！」</title>
+    <desc lang="ja_JP">関西一円の「食」を紹介する料理バラエティ。水野真紀のナビゲーションで明るく楽しくお送りします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926215400 +0900" stop="20130926220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２１「鴨川のミラクルなドンブリ」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ファッションワードローブ</title>
+    <desc lang="ja_JP">今季注目のアイテムを取り揃えてご紹介！デイリー使いから様々なシーンでお使いいただけるラインナップにご期待ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130927000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ブラデリス NY インナーコレクション</title>
+    <desc lang="ja_JP">サポート力に優れたデザインで理想のボディをつくる補正下着ブランド。履き心地の良さは口コミでも好評です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927000000 +0900" stop="20130927010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Celebista 「セレビスタ」 by AHN MIKA</title>
+    <desc lang="ja_JP">モデル・タレントとして活躍中のアンミカさんが美容法を伝授。韓国コスメブランド「エンプラニ」とのコラボアイテムもお見逃しなく。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　イザベラコペッティ ファッショングッズ</title>
+    <desc lang="ja_JP">鮮やかなカラー使いと、遊び心溢れるデザインが魅力のコレクションです。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927020000 +0900" stop="20130927023000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">免疫力Ｑ＆Ａ　今、注目の免疫ミルクパート３</title>
+    <desc lang="ja_JP">私たちの健康維持のために重要な「免疫力」。免疫力下がってしまったら？免疫力をキープする方法とは？？そんな免疫力に関する疑問にお答えします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927023000 +0900" stop="20130927030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">実感　発毛・育毛体験レポート！</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927033000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">鷹の爪団の楽しいテレビ　＃１７</title>
+    <desc lang="ja_JP">「秘密結社鷹の爪」でお馴染みのアニメスタジオＤＬＥがお送りする豪華な３０分！　まるでおもちゃ箱をひっくり かえしたような盛りだくさんの内容でお届けします。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927033000 +0900" stop="20130927040000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１０　ハワイ３</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927040000 +0900" stop="20130927043000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ｉｎ　ｃｉｔｙ　＃８　ヴェネツィア</title>
+    <desc lang="ja_JP">世界各地の都市や街を、お洒落なサウンドにのせてお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927043000 +0900" stop="20130927050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８５　ミシェル・カミロ</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回はドミニカ共和国出身のジャズピアニスト、ミシェル・カミロを特集します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927050000 +0900" stop="20130927053000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　アクアスケープ ＃２３ カンクン・コスメル　メキシコ・カリブ海</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927053000 +0900" stop="20130927060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　アクアスケープ　＃２４　コスメル　メキシコ・カリブ海</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927063000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ＥＣＯ　ＭＵＳＩＣ　ＣＯＬＯＲＳ　Ｖｏｌ．８８５</title>
+    <desc lang="ja_JP">心安らぐ音楽と美しい風景映像をお送りするリラクゼーション・プログラム。今回は、メキシコ９　〜ｉｍｐｒｅｓｓｉｖｅ　ｃｉｔｙ〜</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927063000 +0900" stop="20130927070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ネイチャートレッキング　＃１７　残雪の北八ヶ岳</title>
+    <desc lang="ja_JP">トレッキング（山歩き）を通じて、そこで見る、感じる、さまざまな自然の姿を紹介。長野県北八ヶ岳を代表する通称「北横岳」と、南隣する縞枯山を２日間に渡って歩きます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927073000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０８</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927073000 +0900" stop="20130927074500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｗｈａｔ’ｓ　ｕｐ　宝塚　＃１５２</title>
+    <desc lang="ja_JP">宝塚歌劇のホットな情報をお届けするエンターテインメント情報番組。間もなく幕を開ける公演の最新情報を、稽古場風景などの貴重な映像を交えてご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927074500 +0900" stop="20130927080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">いにしえ逍遥・旅タカラジェンヌ　＃２２「近松・なにわ路②」</title>
+    <desc lang="ja_JP">今回は花組の実咲凜音が、浄瑠璃作家・近松門左衛門の作品世界をめぐる大阪の旅ををご紹介します。まず「国立文楽劇場」で人形遣いの豊松清十郎さんにお話を伺い・・・</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Celebista 「セレビスタ」 by AHN MIKA</title>
+    <desc lang="ja_JP">モデル・タレントとして活躍中のアンミカさんが美容法を伝授。韓国コスメブランド「エンプラニ」とのコラボアイテムもお見逃しなく。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　イザベラコペッティ ファッショングッズ</title>
+    <desc lang="ja_JP">鮮やかなカラー使いと、遊び心溢れるデザインが魅力のコレクションです。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　キプリング カジュアルバッグ</title>
+    <desc lang="ja_JP">アクティブで機能的、キュートなデザインでファンを魅了する「キプリング」。シーズンのカラーなど、様々なアイテムが登場。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Celebista 「セレビスタ」 by AHN MIKA</title>
+    <desc lang="ja_JP">モデル・タレントとして活躍中のアンミカさんが美容法を伝授。韓国コスメブランド「エンプラニ」とのコラボアイテムもお見逃しなく。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　収納達人！圧縮袋in box</title>
+    <desc lang="ja_JP">掃除機で吸い込むだけで、布団や衣類を簡単圧縮！圧縮した後は重ね置きできる収納boxに入れて押入れにすっきりきれいに整理できます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ギャラリエ ストーンカメオ</title>
+    <desc lang="ja_JP">美しい色合いが印象的なストーンカメオのコレクション。幻想的で絵画のような趣きをお楽しみください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927140000 +0900" stop="20130927150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　高濃度プラセンタサプリ</title>
+    <desc lang="ja_JP">注目の成分「プラセンタ」。番組では、高濃度のプラセンタエキス末を使用したサプリメントをご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927150000 +0900" stop="20130927160000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　アンジュ ド ヴェール</title>
+    <desc lang="ja_JP">毎日のコーディネートをもっと楽しく。上質で洗練された大人のスィートエレガンスをお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】【字】韓流12　冬のソナタ　第２０話</title>
+    <desc lang="ja_JP">高校時代の記憶を取り戻しはじめたチュンサンだったが、まだ思い出せない記憶に漠然とした不安を感じていた。自分の誕生日が明日であることを思い出したチュンサンは・・・</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">沖縄にみんなで別荘を持とう</title>
+    <desc lang="ja_JP">リゾートビギナーのためのシンプルでわかりやすいリゾートライフ講座。みんなでなら沖縄にも、いや、同時に全国のリゾート地に第二の我が家を持つことができるんです！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927173000 +0900" stop="20130927180000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０８</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927183000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">リラックス・タイム　ＥＣＯ　ＭＵＳＩＣ　ＣＯＬＯＲＳ　Ｖｏｌ．８８４</title>
+    <desc lang="ja_JP">心安らぐ音楽と美しい風景映像をお送りするリラクゼーション・プログラム。今回は、　メキシコ８　〜ｒｅｌａｘ　ｔｉｍｅ〜</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927183000 +0900" stop="20130927190000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">リラックス・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８６　寺井尚子</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回は日本のジャズ・バイオリニスト、寺井尚子をお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927193000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">フィッシング倶楽部　＃３９</title>
+    <desc lang="ja_JP">かつてない新しい釣り番組『フィッシング倶楽部』。憧れのプロアングラーの指導を受けながら、釣り好きタレントが最新の釣り情報とと共に釣りの楽しさをお届けします！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927193000 +0900" stop="20130927200000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ライフデザインラボ　エディテッドバイエルデコ　＃７　もっと暮らしにデザインを！編</title>
+    <desc lang="ja_JP">今回は、ＩＤＣ大塚家具新宿ショールームからお届け。ゲストは新進気鋭のプロダクトデザイナー・佐藤オオキ氏。ライフデザイン・インテリアの楽しみ方を紐解いていきます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927203000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">鷹の爪団の楽しいテレビ　＃１８</title>
+    <desc lang="ja_JP">「秘密結社鷹の爪」でお馴染みのアニメスタジオＤＬＥがお送りする豪華な３０分！　まるでおもちゃ箱をひっくり かえしたような盛りだくさんの内容でお届けします。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130927203000 +0900" stop="20130927210000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">北の自然と野生　日本最北　彩りの浮島　〜利尻島・礼文島〜</title>
+    <desc lang="ja_JP">日本海に浮かぶ列島最北の浮島・利尻島で、初夏の風物詩ともいえるホッケの大群が作る豪壮な“ホッケ柱”。一方の礼文島では、海岸近くから咲き誇る花の素顔に迫ります。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927213000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ドラマ　カウンターのふたり　＃１９　月光浴</title>
+    <desc lang="ja_JP">閉店後の高級クラブのカウンターで一人飲む女と、カウンター内には顧客名簿を整理する黒服。店のナンバー1ホステスである女は、この日ミスを…　出演：石川梨華，土屋裕一</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927213000 +0900" stop="20130927215400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">極上の京都　〜京都人の案内する本物の京都〜　＃３８</title>
+    <desc lang="ja_JP">京都を拠点に作品を発表している写真家・稲岡亜里子さんにとって極上の場所が、近年パワースポットとして人気の鞍馬山。緑豊かな自然に囲まれて癒しの時間を過ごします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927215400 +0900" stop="20130927220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">時の散歩道　＃１２「小田原　北条兄弟の墓所」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ビューティー＆コスメ</title>
+    <desc lang="ja_JP">忙しくても、毎日のケアは怠らない。それが美しさへの近道。コスメフリーク絶賛のブランドや、美と健康を追求するアイテムをセレクトしました。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130928000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　マダムシンコ ワールド</title>
+    <desc lang="ja_JP">巷で話題！「マダムシンコ」のセカンドブランド「マダム」が登場。“スイーツのある素敵な時間”をお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　麻布プロバドール カシミヤグッズ／マダムグレ ラグジュアリーバッグ</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　毎日使えるプレミアムマスク</title>
+    <desc lang="ja_JP">目元の乾燥やハリ・弾力が気になる方におすすめの「エッセンスアイマスク」をご紹介。厳選した33種類の美容成分を配合しています。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928020000 +0900" stop="20130928023000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">九州だんじ</title>
+    <desc lang="ja_JP">九州一の歓楽街中州の風物詩「屋台」を舞台に、毎回九州にゆかりのあるゲストを迎えて「酒」「料理」「文化」などについて語り合う九州密着人情トークバラエティ。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928023000 +0900" stop="20130928030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８４　ブラッド・メルドー</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回は、アメリカのジャズピアニソト、ブラッド・メルドーを特集。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928030000 +0900" stop="20130928033000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">実感　発毛・育毛体験レポート！</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928033000 +0900" stop="20130928040000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１０　ハワイ３</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928040000 +0900" stop="20130928043000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ｉｎ　ｃｉｔｙ　＃８　ヴェネツィア</title>
+    <desc lang="ja_JP">世界各地の都市や街を、お洒落なサウンドにのせてお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928043000 +0900" stop="20130928050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８５　ミシェル・カミロ</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回はドミニカ共和国出身のジャズピアニスト、ミシェル・カミロを特集します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928053000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">歌謡最前線</title>
+    <desc lang="ja_JP">司会は「浜博也」「司洋人」の２人、「野上こうじ」「梓夕子」の２人が隔週でお送りします。話題のゲストを招いて近況、新曲のPV、思い出の曲を紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928053000 +0900" stop="20130928060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">唄声チャチャチャ</title>
+    <desc lang="ja_JP">楽しい仲間の集まるリビングに、毎週ビッグなゲストがふらりと遊びにやってくる・・・気取らないトークを楽しみながら、新曲や話題曲のＰＶをしっかりお見せします！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928061500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｗｈａｔ’ｓ　ｕｐ　宝塚　＃１５２</title>
+    <desc lang="ja_JP">宝塚歌劇のホットな情報をお届けするエンターテインメント情報番組。間もなく幕を開ける公演の最新情報を、稽古場風景などの貴重な映像を交えてご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928061500 +0900" stop="20130928070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">岡崎・鈴木のマーケット・アナライズ</title>
+    <desc lang="ja_JP">一週間のマーケットの動きを捉え、翌週以降の投資戦略をじっくりと考えるための情報を提供する本格派マーケット番組です。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Dカラーダイヤモンド スペシャル</title>
+    <desc lang="ja_JP">最高峰のカラーグレード、Ｄカラーダイヤモンド。その中でもグレードの高いものや、大粒の石など、特別な輝きを集めてお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　麻布プロバドール カシミヤグッズ／マダムグレ ラグジュアリーバッグ</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928090000 +0900" stop="20130928100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ロクシタン＜L'OCCITANE＞</title>
+    <desc lang="ja_JP">南仏プロヴァンスから香りと一緒にライフスタイルをお届けするブランド。自然豊かな香りの商品をつくりだしています。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Celebista「セレビスタ」 by HARUKO</title>
+    <desc lang="ja_JP">人気モデル達のライフスタイルやお気に入りを紹介する「セレビスタ」。今回はVERY等で活躍中のHARUKOさんが登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　麻布プロバドール カシミヤグッズ／マダムグレ ラグジュアリーバッグ</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Dカラーダイヤモンド スペシャル</title>
+    <desc lang="ja_JP">最高峰のカラーグレード、Ｄカラーダイヤモンド。その中でもグレードの高いものや、大粒の石など、特別な輝きを集めてお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928130000 +0900" stop="20130928133000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">桂雀々の大判小判がじゃくじゃく〜ＢＳ１２お宝噺〜　＃２４　総集編③</title>
+    <desc lang="ja_JP">ミスユニバースジャパン埼玉代表と彩の国さいたまの面白スポットを巡った＃６、四谷荒木町でお宝感たっぷりの人々に出会った＃１２・１３など、名場面を抜粋してお届け！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928133000 +0900" stop="20130928140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">創造！ニッポンの元気　＃７　産業を続々と創出！Iターンの若者が活躍する離島</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928140000 +0900" stop="20130928143000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">中川家礼二の鉄学の時間　＃８「鉄道整備／グランクラスを清掃！」</title>
+    <desc lang="ja_JP">芸能界屈指の鉄道好きである中川家礼二が、鉄道に関する様々なギモンを解決！！「中川家礼二号を走らせる」という密かな夢を叶えるべく、鉄道関連施設等にお邪魔する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928143000 +0900" stop="20130928150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">北海道物産展ですけど何か？　＃４「アイスランドで「まりもっこり」を広めよ！！」</title>
+    <desc lang="ja_JP">北海道の素晴らしさをアピールするため、北海道に縁がある若手タレント・芸人が世界を旅をする。どうやって使命を果たすのか？仕込み一切なしのガチな旅が始まります！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928150000 +0900" stop="20130928161500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">宝塚ドリーミング・シアター　レ・ビジュー・ブリアン（</title>
+    <desc lang="ja_JP">宝石のもつイメージをテーマに、人生の瞬間を感覚的にドラマティックに取り上げ構成した豪華レビュー。'06年月組／宝塚／出演：轟悠／瀬奈じゅん、彩乃かなみ　他（47分）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928161500 +0900" stop="20130928163000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｗｈａｔ’ｓ　ｕｐ　宝塚　＃１５２</title>
+    <desc lang="ja_JP">宝塚歌劇のホットな情報をお届けするエンターテインメント情報番組。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928163000 +0900" stop="20130928170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">海を望み森に包まれるリゾートホテル　〜熱海伊豆山の会員制リゾートホテル〜</title>
+    <desc lang="ja_JP">絶好のアクセスを誇る熱海は伊豆山の地に新しいリゾートホテルが誕生。海、緑、温泉と自然の恵みに満たされた羨望のロケーション、その魅力を余すところなく紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928170000 +0900" stop="20130928173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の子どもの日常生活</title>
+    <desc lang="ja_JP">貧困に苦しむ途上国の子どもたちを支援する国際ＮＧＯ団体ワールド・ビジョンによる、世界の子どもたちの現状レポート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928173000 +0900" stop="20130928180000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">失敗しない家の選び方　注文住宅編</title>
+    <desc lang="ja_JP">「人生で一番高い買い物」となる「家づくり」でお悩みの方必見！第三者目線でアドバイスをくれる素敵なサービスをご紹介します。「家の選び方」失敗させません。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928185500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダイドードリンコスペシャル　日本の祭り　＃２６　灘のけんか祭り</title>
+    <desc lang="ja_JP">日本に数ある“けんか祭り”の中でも最大級と言われる松原八幡神社の例大祭「灘のけんか祭り」。“ヨーイヤサー”勇ましい掛け声と太鼓の音で播州の秋は祭り一色に染まる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928185500 +0900" stop="20130928190000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２２「森下の桜鍋」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928195500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">グローバル・ビジョン　ｖｏｌ．３５「世界の格闘技」“Ｍａｒｔｉａｌ－Ａｒｔ”</title>
+    <desc lang="ja_JP">なじみ深いテーマにスポットを当て、世界の多様な文化や価値観を知るドキュメンタリー。今回は「世界の格闘技」。ナビゲーター知花くららが、世界各国にご案内します！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928195500 +0900" stop="20130928200000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">時の散歩道　＃１３「伝説の城　太閤一夜城」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928200000 +0900" stop="20130928203000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　タッチ　＃７４「遂にきた！南と由加のクッキング大戦争」</title>
+    <desc lang="ja_JP">あだち充原作の青春アニメの決定版！！　双子の達也と和也、幼なじみの南の恋を野球を通して描く青春物語。ＢＳ放送では初のＨＤリマスター版でお届けします！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928203000 +0900" stop="20130928210000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　タッチ　＃７５「お料理騒動完結！？隠し味は南のスパイス」</title>
+    <desc lang="ja_JP">あだち充原作の青春アニメの決定版！！　双子の達也と和也、幼なじみの南の恋を野球を通して描く青春物語。ＢＳ放送では初のＨＤリマスター版でお届けします！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928215400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハワイに恋して 〜ＣＲＡＺＹ　ＦＯＲ　ＨＡＷＡＩＩ〜　＃５８ エヴァ＆カポレイ特集</title>
+    <desc lang="ja_JP">今回は人気俳優の中尾明慶と一緒に、エヴァ＆カポレイ地区を散策。ロコ御用達のサーフィンアウトレットショップやハワイが誇る麺料理など、一味違うハワイをご紹介！！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928215400 +0900" stop="20130928220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２３「小田原名物あじずし」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ファッションワードローブ</title>
+    <desc lang="ja_JP">カジュアルからエレガントまで。最新のトレンドを盛り込んだ、さまざまなファッション・アイテムをセレクトしました。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130929000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Makana na Kathy</title>
+    <desc lang="ja_JP">キャシー中島さんプロデュースのファッションブランド。艶やかなカラーとゆったり豊富なサイズ展開が魅力です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　低速で搾り出すジューサー HUROM／訳ありグルメ 広島県産スチームかき</title>
+    <desc lang="ja_JP">従来のミキサーのように、素材を高速で粉砕したり、切り刻むのではなく“搾り出す”タイプのジューサーが登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929010000 +0900" stop="20130929020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トロピカルマリア！フローズンデザート／ヘルシーワイン「ソレイユ」</title>
+    <desc lang="ja_JP">アップルマンゴーをフレッシュなまま冷凍した“マンゴーチャンク”や果肉をすりつぶした“マンゴーピューレー”で南国の味を存分に。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929020000 +0900" stop="20130929030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　キッチンウェア コレクション</title>
+    <desc lang="ja_JP">まるで妖精のように愛らしく、魅力的なキッチンウェアをご紹介。キッチンライフを楽しく演出します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929030000 +0900" stop="20130929040000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">復興支援ドキュメント　未来への教科書 〜Ｆｏｒ　Ｏｕｒ　Ｃｈｉｌｄｒｅｎ〜 ＃５７</title>
+    <desc lang="ja_JP">地域のキーパーソンの言葉をそのまま届け、大震災を乗り越え、立ち上がろうとする東北の人々の力強い姿を広くお伝えします。言葉から浮かび上がる真実を発信していきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929040000 +0900" stop="20130929043000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ｉｎ　ｃｉｔｙ　＃８　ヴェネツィア</title>
+    <desc lang="ja_JP">世界各地の都市や街を、お洒落なサウンドにのせてお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929043000 +0900" stop="20130929050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８５　ミシェル・カミロ</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回はドミニカ共和国出身のジャズピアニスト、ミシェル・カミロを特集します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929053000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ歌の宅配便</title>
+    <desc lang="ja_JP">〜全国公開録画歌謡番組〜各県市町村を巡り、各地方の、出身歌手の皆様と優良企業・観光地・特産品も紹介する歌謡番組。まさしく「歌の宅配便」です。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929053000 +0900" stop="20130929060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">玉ちゃんのいきいき青春歌謡塾</title>
+    <desc lang="ja_JP">「シルバーエイジ熟年世代に贈る人生応援歌」をテーマに、主に演歌と高度経済成長期の歌謡曲を取り上げます。司会は「玉ちゃん」こと玉村静一郎と梓夕子がお送りします。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　にこにこクッキング</title>
+    <desc lang="ja_JP">お料理といえば、にこにこクッキング。にこにこといえば名物デモンストレーターの秋田晋仁さん。今日も愛情を込め美味しいコツを伝授します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トロピカルマリア！フローズンデザート／今日もおやつは 黒糖ドーナツ棒</title>
+    <desc lang="ja_JP">アップルマンゴーをフレッシュなまま冷凍した“マンゴーチャンク”や果肉をすりつぶした“マンゴーピューレー”で南国の味を存分に。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　低速で搾り出すジューサー HUROM／訳ありグルメ 広島県産スチームかき</title>
+    <desc lang="ja_JP">従来のミキサーのように、素材を高速で粉砕したり、切り刻むのではなく“搾り出す”タイプのジューサーが登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トロピカルマリア！フローズンデザート／ふっくら、おいしい うなぎの蒲焼</title>
+    <desc lang="ja_JP">アップルマンゴーをフレッシュなまま冷凍した“マンゴーチャンク”や果肉をすりつぶした“マンゴーピューレー”で南国の味を存分に。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　キッチンウェア コレクション</title>
+    <desc lang="ja_JP">まるで妖精のように愛らしく、魅力的なキッチンウェアをご紹介。キッチンライフを楽しく演出します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929110000 +0900" stop="20130929120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　低速で搾り出すジューサー HUROM／訳ありグルメ 広島県産スチームかき</title>
+    <desc lang="ja_JP">従来のミキサーのように、素材を高速で粉砕したり、切り刻むのではなく“搾り出す”タイプのジューサーが登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トロピカルマリア！フローズンデザート／ふっくら、おいしい うなぎの蒲焼</title>
+    <desc lang="ja_JP">アップルマンゴーをフレッシュなまま冷凍した“マンゴーチャンク”や果肉をすりつぶした“マンゴーピューレー”で南国の味を存分に。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929130000 +0900" stop="20130929135400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">賢者の選択　Ｌｅａｄｅｒｓ　＃２６</title>
+    <desc lang="ja_JP">沸騰するアジアを核に、今ビジネスはグローバリズムの真只中にある。日本,アジア、そして世界へ展開するビジネスリーダーに、その核心を訊く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929135400 +0900" stop="20130929140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２４「巣鴨の金太郎飴」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929143000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">マリーンズ・ベースボール・アカデミー　＃４７</title>
+    <desc lang="ja_JP">マリーンズ・アカデミーのコーチ陣が、「バッティング」「ピッチング」などのテーマごとに、子供達にも分かりやすく、野球の指導を行います。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929143000 +0900" stop="20130929150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｄ！アンビシャス　熱きどさんこ魂　＃９７旅で町の魅力を発信 旅行プランナー 林克郎</title>
+    <desc lang="ja_JP">北海道にまつわる人・食べもの・風景・歴史・物語をじっくりと追いかける３０分番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929155500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">鉄道写真物語〜１枚にかける旅〜　＃１６　身延線・中央本線</title>
+    <desc lang="ja_JP">鉄道ファンの有名人が、己の”鉄道愛”と”プライド”をかけて、１枚の写真に挑みます。出演：山本昌邦</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929155500 +0900" stop="20130929160000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２５「蕎麦遊び」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929163000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界市場紀行　ワールドバザール２１　＃４０「セスヴェテフリーマーケット」</title>
+    <desc lang="ja_JP">「〜世界市場紀行〜　異国の生活、文化、人との出会い。旅人はあなたです。」を番組テーマとし、世界各国の市場の模様や働く人々の喜びや感動をお送りします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929163000 +0900" stop="20130929164500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｗｈａｔ’ｓ　ｕｐ　宝塚　＃１５２</title>
+    <desc lang="ja_JP">宝塚歌劇のホットな情報をお届けするエンターテインメント情報番組。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929164500 +0900" stop="20130929170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">いにしえ逍遥・旅タカラジェンヌ　＃２２「近松・なにわ路②」</title>
+    <desc lang="ja_JP">花組の実咲凜音が、浄瑠璃作家・近松門左衛門の作品世界をご紹介します。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929170000 +0900" stop="20130929172400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">極上の京都　〜京都人の案内する本物の京都〜　＃１９</title>
+    <desc lang="ja_JP">ヴァイオリニスト・功刀丈弘さんのとっておきの場所は、パワースポットとしても有名な太秦の神社。「ゾクっとくる」形容しがたい感覚を失っていないかを確かめるのだとか？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929172400 +0900" stop="20130929173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">時の散歩道　＃１４「伊達政宗の霊屋　瑞鳳殿」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929173000 +0900" stop="20130929175900 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の子どもの日常生活</title>
+    <desc lang="ja_JP">貧困に苦しむ途上国の子どもたちを支援する国際ＮＧＯ団体ワールド・ビジョンによる、世界の子どもたちの現状レポート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929175900 +0900" stop="20130929210000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ１２　プロ野球中継２０１３　「福岡ソフトバンク×東北楽天」</title>
+    <desc lang="ja_JP">〜ヤフオクドーム　＊最大延長10時まで</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929213000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハワイに恋して３０　＃２４</title>
+    <desc lang="ja_JP">オアフ島の最新情報・マニアックな情報は勿論、ビックアイランド、マウイ、カウアイといった島にも注目！　大自然＆人々とのふれあいに癒されること間違いなし！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929213000 +0900" stop="20130929220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">海を望み森に包まれるリゾートホテル　〜熱海伊豆山の会員制リゾートホテル〜</title>
+    <desc lang="ja_JP">絶好のアクセスを誇る熱海は伊豆山の地に新しいリゾートホテルが誕生。海、緑、温泉と自然の恵みに満たされた羨望のロケーション、その魅力を余すところなく紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　グルメタイム</title>
+    <desc lang="ja_JP">グルメに人気のレストラン、ホテルのレシピや世界のプレミアム・ワインに銘酒の数々。グルメなあなたもきっと大満足。QVCセレクトの美味しい逸品を、ご堪能ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130930000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　低速で搾り出すジューサー HUROM</title>
+    <desc lang="ja_JP">従来のミキサーのように、素材を高速で粉砕したり、切り刻むのではなく“搾り出す”タイプのジューサーが登場！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トラベルウォーキングパンツ ピタッツ</title>
+    <desc lang="ja_JP">タテ・ヨコ・斜め360度の伸縮性に優れた素材を使用。シワになりにくくラクチンで、旅行にもおすすめのパンツ「ピタッツ」をご紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930010000 +0900" stop="20130930020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　大人の自信肌へ。贅沢リンクルケアゲル／はじける泡でクレンジング CHOOICE</title>
+    <desc lang="ja_JP">驚きの商品が、つぎつぎ登場しますので、欲しい商品を見つけたらスグにお電話ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930020000 +0900" stop="20130930030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ファッションワードローブ</title>
+    <desc lang="ja_JP">今季注目のアイテムを取り揃えてご紹介！デイリー使いから様々なシーンでお使いいただけるラインナップにご期待ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930030000 +0900" stop="20130930033000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃９　ハワイ２</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930033000 +0900" stop="20130930034000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930034000 +0900" stop="20130930045000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">放送休止</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930045000 +0900" stop="20130930050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">オープニング</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930050000 +0900" stop="20130930060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ラグジュアリークラシック　Ｖｏｌ．１２　サン＝サーンス</title>
+    <desc lang="ja_JP">大自然やヨーロッパの街並みなど、美しい風景とともにクラシック音楽をお届けします。作曲家別にセレクトされたクラシックで、優雅なひとときをお過ごしください。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930063000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">免疫力Ｑ＆Ａ　今、注目の免疫ミルクパート３</title>
+    <desc lang="ja_JP">私たちの健康維持のために重要な「免疫力」。免疫力下がってしまったら？免疫力をキープする方法とは？？そんな免疫力に関する疑問にお答えします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930063000 +0900" stop="20130930070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ネイチャートレッキング　＃１６　雪中の西穂高岳　独標</title>
+    <desc lang="ja_JP">トレッキング（山歩き）を通じて、そこで見る、感じる、さまざまな自然の姿をご紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930073000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０９</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930073000 +0900" stop="20130930074500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｗｈａｔ’ｓ　ｕｐ　宝塚　＃１５３</title>
+    <desc lang="ja_JP">宝塚歌劇のホットな情報をお届けするエンターテインメント情報番組。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930074500 +0900" stop="20130930080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">いにしえ逍遥・旅タカラジェンヌ　＃２２「近松・なにわ路②」</title>
+    <desc lang="ja_JP">今回は花組の実咲凜音が、浄瑠璃作家・近松門左衛門の作品世界をめぐる大阪の旅ををご紹介します。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トラベルウォーキングパンツ ピタッツ</title>
+    <desc lang="ja_JP">タテ・ヨコ・斜め360度の伸縮性に優れた素材を使用。シワになりにくくラクチンで、旅行にもおすすめのパンツ「ピタッツ」をご紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　青山ジュエリーコレクション</title>
+    <desc lang="ja_JP">Yukiko Okuraさんのジュエリーコレクション。都会的でスタイリッシュなジュエリーの数々にご期待ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930100000 +0900" stop="20130930110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　耐火防水保管ボックス</title>
+    <desc lang="ja_JP">いざという時のために備えませんか？大切な書類や、データなどを守ってくれる耐火防水保管ボックスをご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930110000 +0900" stop="20130930120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　トラベルウォーキングパンツ ピタッツ</title>
+    <desc lang="ja_JP">タテ・ヨコ・斜め360度の伸縮性に優れた素材を使用。シワになりにくくラクチンで、旅行にもおすすめのパンツ「ピタッツ」をご紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ドクター シーラボ</title>
+    <desc lang="ja_JP">長年、女性の肌を見つめてきた皮膚の専門家が開発する「ドクターシーラボ」。シンプルステップで美しい肌をサポートします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　エヴァーキューブ</title>
+    <desc lang="ja_JP">旬を感じる大人の女性のためのブランド「evercube（エヴァーキューブ）」。上品で華やかな、エレガンスカジュアルにご期待ください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　お掃除楽々スターファイバー</title>
+    <desc lang="ja_JP">コレでお掃除が楽々！髪の毛の約100分の１の超極細繊維が、凸凹にひそむホコリやヨゴレをキャッチします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930160000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　イヤークリップ ジュエリー</title>
+    <desc lang="ja_JP">耳元を優美な輝きで包みこむイヤークリップ。上品なデザインが揃い、耳に挟むようにつける手軽さも人気のポイントです。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930160000 +0900" stop="20130930170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】【字】韓流12　冬のソナタ　第２１話</title>
+    <desc lang="ja_JP">ユジンとチュンサンは結婚の許しをもらうためユジンの母に会いに行くが、結婚を反対されすぐに追い返されてしまう。ひとり残ったユジンは、母から・・・</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">躍動する企業たち　ライジングカンパニー３００</title>
+    <desc lang="ja_JP">「企業家、技術、サービス、商品、社員」さまざまな魅力を持った躍動する企業たち。そんな日本が誇るライジングカンパニー（成長企業）を紹介していきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930173000 +0900" stop="20130930180000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１０９</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930183000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">リラックス・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１２　ロスカボス</title>
+    <desc lang="ja_JP">世界各地のパラダイスな風景を、海風のように気持ちよい音楽ともにお楽しみください。今回は、ロスカボス（メキシコ）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930183000 +0900" stop="20130930190000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">リラックス・タイム　アクアスケープ　＃１３　西オーストラリア１</title>
+    <desc lang="ja_JP">ゆったりと流れる海中風景、心地よいＢＧＭは、ゆりかごのような極上の浮遊感。アクア（水）スケープ（景観）、今その青い世界へ飛び込んでみよう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930193000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">海を望み森に包まれるリゾートホテル　〜熱海伊豆山の会員制リゾートホテル〜</title>
+    <desc lang="ja_JP">絶好のアクセスを誇る熱海は伊豆山の地に新しいリゾートホテルが誕生。海、緑、温泉と自然の恵みに満たされた羨望のロケーション、その魅力を余すところなく紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930193000 +0900" stop="20130930200000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">これからの資産形成　〜「儲け」から「守り」へ発想を転換しよう！〜</title>
+    <desc lang="ja_JP">株式や為替の値動きが激しくなっている昨今。差益を狙った投資は大変難しくなっている。今取り組むべきバランスの取れた資産構築法とは何なのか。専門家と共に考えた。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930205400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">全日本ロードレース選手権２０１３　第５戦</title>
+    <desc lang="ja_JP">年間を通してタイトルを争う、日本最高峰のロードレース「全日本ロードレース選手権」。今回は栃木・ツインリンクもてぎでの第５戦の模様をダイジェストでお届けします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930205400 +0900" stop="20130930210000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２６「鯖街道の鯖寿し」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930215400 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】就職を機に世界と人生を考える！ＢＳ寺島　月９トーク　＃１１</title>
+    <desc lang="ja_JP">京都大学アメリカンフットボール部の前監督・水野氏は、万年弱小と言われたチームを４度も日本一の座に導いた。現在、水野氏が何に注目しどんな仕事を展開しているのか？</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930215400 +0900" stop="20130930220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">時の散歩道　＃１５「天狗の山　仙台愛宕神社」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930220000 +0900" stop="20130930230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ファッションワードローブ</title>
+    <desc lang="ja_JP">カジュアルからエレガントまで。最新のトレンドを盛り込んだ、さまざまなファッション・アイテムをセレクトしました。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20131001000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　Gold Skin</title>
+    <desc lang="ja_JP">白蝶真珠（南洋真珠）の中でもやわらかなゴールドカラーにこだわったゴールドスキン。自然の恵みから生まれたナチュラルな美しさです。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001000000 +0900" stop="20131001010000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ホームリビング</title>
+    <desc lang="ja_JP">雑貨、家具やインテリアなどで、バラエティ豊かなライフスタイルをご提案。どうぞお楽しみに。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001010000 +0900" stop="20131001020000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　澤崎 隆人のドラマティックファッション</title>
+    <desc lang="ja_JP">澤崎隆人さんが女性をより美しく魅せるアイテムを提案。メリハリがありながら優しくフィットする着心地は澤崎さんならでは！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001020000 +0900" stop="20131001023000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハワイに恋して３０　＃２９</title>
+    <desc lang="ja_JP">オアフ島の最新情報・マニアックな情報は勿論、ビックアイランド、マウイ、カウアイといった島にも注目！　大自然＆人々とのふれあいに癒されること間違いなし！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001023000 +0900" stop="20131001030000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハワイに恋して３０　＃３０</title>
+    <desc lang="ja_JP">オアフ島の最新情報・マニアックな情報は勿論、ビックアイランド、マウイ、カウアイといった島にも注目！　大自然＆人々とのふれあいに癒されること間違いなし！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001030000 +0900" stop="20131001033000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">実感　発毛・育毛体験レポート！</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001033000 +0900" stop="20131001040000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｂｅａｃｈ　Ｔｉｍｅ　〜ゆとりの空間〜　＃１０　ハワイ３</title>
+    <desc lang="ja_JP">美しい砂浜、青い海の待つ楽園へショートトリップ。心と身体をリフレッシュしよう！ひとときの安らぎを求めて旅をするなら、やはりビーチリゾート。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001040000 +0900" stop="20131001043000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ｉｎ　ｃｉｔｙ　＃８　ヴェネツィア</title>
+    <desc lang="ja_JP">世界各地の都市や街を、お洒落なサウンドにのせてお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001043000 +0900" stop="20131001050000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　Ｌｉｖｉｎｇ　Ｊａｚｚ　Ｖｏｌ．８５　ミシェル・カミロ</title>
+    <desc lang="ja_JP">気持ちを落ち着かせ心を穏やかにしてくれるジャズの名曲をお届けします。今回はドミニカ共和国出身のジャズピアニスト、ミシェル・カミロを特集します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001050000 +0900" stop="20131001060000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ラグジュアリークラシック　Ｖｏｌ．１３　メンデルスゾーン</title>
+    <desc lang="ja_JP">大自然やヨーロッパの街並みなど、美しい風景とともにクラシック音楽をお届けします。作曲家別にセレクトされたクラシックで、優雅なひとときをお過ごしください。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001060000 +0900" stop="20131001063000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム ｍｏｒｎｉｎｇ ｍｅｌｏｄｙ Ｃｌａｓｓｉｃ ＃３くるみ割り人形</title>
+    <desc lang="ja_JP">朝の目覚めにふさわしい、心を穏やかにするメロディーと美しいの風景をお届けします。曲目は「Ｇ線上のアリア」、「バレエ＜くるみ割り人形＞〜行進曲」他</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001063000 +0900" stop="20131001070000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒーリング・タイム　ＥＣＯ　ＭＵＳＩＣ　ＣＯＬＯＲＳ　Ｖｏｌ．９０８</title>
+    <desc lang="ja_JP">心安らぐ音楽と美しい風景映像をお送りするリラクゼーション・プログラム。今回は、　マケドニア２</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001070000 +0900" stop="20131001073000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１１０</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20131001073000 +0900" stop="20131001080000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">今、日本を最も面白くする企業家たち　第１４回企業家賞　前編</title>
+    <desc lang="ja_JP">困難に立ち向かい、いまを生き抜く企業家たちの熱き血潮、熱き鼓動を紹介していく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001080000 +0900" stop="20131001090000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ホームリビング</title>
+    <desc lang="ja_JP">雑貨、家具やインテリアなどで、バラエティ豊かなライフスタイルをご提案。どうぞお楽しみに。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001090000 +0900" stop="20131001100000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　SHINNOSUKE コレクション</title>
+    <desc lang="ja_JP">ピーターさんプロデュースのファッションブランド。シーンに応じたアレンジを楽しめる、ハイセンスなアイテムをお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001100000 +0900" stop="20131001110000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　パッチリ二重 アイリッドボーテ</title>
+    <desc lang="ja_JP">ぱっちり美しい二重まぶたを作る「アイリッドボーテ」。一重、奥二重の目元はもちろん、たるんだまぶたや左右のアンバランスも整えます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001110000 +0900" stop="20131001120000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ホームリビング</title>
+    <desc lang="ja_JP">雑貨、家具やインテリアなどで、バラエティ豊かなライフスタイルをご提案。どうぞお楽しみに。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001120000 +0900" stop="20131001130000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ローズ ユミ ローズby Yumi Katsura</title>
+    <desc lang="ja_JP">桂由美監修ブランド「ローズユミローズ」。オリジナルのバラモチーフをふんだんに使ったラインナップが日常に華やかさを添えてくれます。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001130000 +0900" stop="20131001140000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　CDやDVDも切れるコンパクトシュレッダー</title>
+    <desc lang="ja_JP">大切な情報が入った書類はもちろん、CDやDVDもカットできる「コンパクトシュレッダー」をご紹介。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001140000 +0900" stop="20131001150000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ヘアボーテ Ｂｙ 仁くすのき</title>
+    <desc lang="ja_JP">頭皮と髪、両方のケアに着目した「ヘアボーテ」のアイテム。スカルプケアのシャンプーやヘッドスパブラシなどをご紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001150000 +0900" stop="20131001160000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　アンコール!! ヒットアイテム</title>
+    <desc lang="ja_JP">ＱＶＣで反響の高かったヒットアイテムをご紹介。人気商品の数々をぜひお見逃しなく。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001160000 +0900" stop="20131001170000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】【字】韓流12　冬のソナタ　第２２話</title>
+    <desc lang="ja_JP">サンヒョクの父チヌが二人の結婚を反対していることを聞き、自分のせいかと詰め寄るサンヒョクは、そのチヌから思いもよらない真実を聞かされる。母から自分の父が・・・</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001170000 +0900" stop="20131001173000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハワイに暮らす１週間　２０１３</title>
+    <desc lang="ja_JP">日本人が大好きなハワイ。そのハワイにおいて、過ごし方の選択肢が広がる『タイムシェア』というシステムをご紹介します。ハワイでの素敵な生活イメージしてみませんか？</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001173000 +0900" stop="20131001180000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ベイビーＴＶ　＃１１０</title>
+    <desc lang="ja_JP">世界９０カ国以上で放送されているお子さまのための教育番組。音楽・お絵描き・なぞなぞなど、楽しみながら学べるラインナップが盛りだくさん！</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20131001180000 +0900" stop="20131001190000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">復興支援ドキュメント　未来への教科書 〜Ｆｏｒ　Ｏｕｒ　Ｃｈｉｌｄｒｅｎ〜 ＃５８</title>
+    <desc lang="ja_JP">地域のキーパーソンの言葉をそのまま届け、大震災を乗り越え、立ち上がろうとする東北の人々の力強い姿を広くお伝えします。言葉から浮かび上がる真実を発信していきます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001190000 +0900" stop="20131001192900 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">福田健次の花鳥風月</title>
+    <desc lang="ja_JP">旅人「福田健次」が様々な場所に訪れ現地の人々とふれあい、その場所ならではの「生活・文化・歴史・自然」を紹介します。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001192900 +0900" stop="20131001195600 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">【新】【字】セリエＡライバルズ　＃１</title>
+    <desc lang="ja_JP">セリエＡ2003/2004シーズンのユヴェントスＶＳＡＣミランの試合をお届け！　シェフチェンコ、カカ、インザーギ、セードルフ、ネドヴェド、ブッフォンらが出場。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001195600 +0900" stop="20131001215500 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＣミラン・チャンネル2011/2012　セリエＡ　第２５節 ＡＣミラン ＶＳ ユヴェントス</title>
+    <desc lang="ja_JP">ＡＣミランとユヴェントスの優勝争いを占う大事な一戦！　イブラヒモヴィッチが出場停止のミランはロビーニョとパトの２トップ。中盤のムンタリが勝負のカギを握る・・・</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001215500 +0900" stop="20131001220000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ふるさと発！味自慢　＃２７「巣鴨の行列あんぱん」</title>
+    <desc lang="ja_JP">　</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001220000 +0900" stop="20131001230000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　ホームリビング</title>
+    <desc lang="ja_JP">雑貨、家具やインテリアなどで、バラエティ豊かなライフスタイルをご提案。どうぞお楽しみに。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001230000 +0900" stop="20131002000000 +0900" channel="4222.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＱＶＣ　イワタニキッチンコレクション</title>
+    <desc lang="ja_JP">電動スライサーやミルサーなど、数々のキッチングッズを展開するイワタニ。使う程にお料理が楽しくなる、スマートな便利さを実感してください。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+</tv>

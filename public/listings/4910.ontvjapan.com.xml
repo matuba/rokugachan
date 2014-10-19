@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4910.ontvjapan.com">
+    <display-name lang="ja_JP">WNI</display-name>
+  </channel>
+  <programme start="20130924220000 +0900" stop="20130925000000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　ナイト</title>
+    <desc lang="ja_JP">ｗｅａｔｈｅｒｎｅｗｓの今と日本一早い天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925010000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　ナイト</title>
+    <desc lang="ja_JP">ｗｅａｔｈｅｒｎｅｗｓの今と日本一早い天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925040000 +0900" stop="20130925060000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　トワイライト</title>
+    <desc lang="ja_JP">太陽をお出迎えする時間</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925090000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　モーニング</title>
+    <desc lang="ja_JP">朝のお出かけ＆通勤通学に</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925100000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　Ｈａｎｇｏｕｔ</title>
+    <desc lang="ja_JP">参加できる天気予報</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925130000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　サンシャイン</title>
+    <desc lang="ja_JP">天気と元気を笑顔でお届け</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925160000 +0900" channel="4910.ontvjapan.com" >
+    <title lang="ja_JP">ＳＯＬｉＶＥ　コーヒータイム</title>
+    <desc lang="ja_JP">午後の優雅なひと時を</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+</tv>

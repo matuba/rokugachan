@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4193.epgdata.ontvjapan">
+    <display-name lang="ja_JP">WOWOWシネマ</display-name>
+  </channel>
+  <programme start="20130924210000 +0900" stop="20130924230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】グスコーブドリの伝記【SS】</title>
+    <desc lang="ja_JP">名作「銀河鉄道の夜」から２７年を経て、杉井ギサブロー監督が再び宮沢賢治の童話をアニメ化。天災で家族を失った主人公ブドリの出会いと成長を、美しい映像とともに描く。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130925003000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】［アパートメント：１４３］【字】【SS】</title>
+    <desc lang="ja_JP">奇妙な現象が多発するアパートの一室を舞台に、原因を探る科学者チームがやがて恐るべき恐怖に遭遇する。「［リミット］」のＲ・コルテス脚本のシチュエーションホラー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925003000 +0900" stop="20130925020000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ザ・チャイルド：悪魔の起源[R15+指定相当]【字】【SS】</title>
+    <desc lang="ja_JP">ホラー小説の帝王、Ｓ・キングの短編「トウモロコシ畑の子供たち」を新たな解釈を加えて映画化。車の故障で田舎町に立ち寄った旅行者夫婦が、想像を絶した恐怖を体験する。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925034500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】籠の中の乙女［Ｒ１５＋指定版］[R15+指定]【字】【Ｓ】</title>
+    <desc lang="ja_JP">家の外に出たことがない子ども３人が成人になり……。カンヌ国際映画祭ある視点部門グランプリに輝き、アカデミー賞で外国語映画賞にノミネートされた、ギリシャの衝撃作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925034500 +0900" stop="20130925051500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ギャンブラー　ニコラス・ウィンディング・レフンの苦悩【字】【Ｓ】</title>
+    <desc lang="ja_JP">後に「ドライヴ」が世界的に評価されるデンマークの鬼才Ｎ・Ｗ・レフン監督だが、ある時期は銀行口座の残高がゼロになるほど経済的に苦しんだ……というドキュメンタリー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925051500 +0900" stop="20130925070000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】プロジェクト・ニム【字】【Ｓ】</title>
+    <desc lang="ja_JP">２０１１年の大ヒット映画「猿の惑星：創世記（ジェネシス）」の下敷きになったという声もある実話を、ドキュメンタリー映画化。手話を覚えたチンパンジー、ニムの運命は？</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925083000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】吼えろ！ドラゴン　起て！ジャガー【字】</title>
+    <desc lang="ja_JP">非道な日本人の空手家たちを相手に、主人公の中国拳法が炸裂！　“天皇巨星”ことＪ・ウォングが主演と初監督も務め、その後の映画界にも多大な影響を与えたカンフー映画。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925083000 +0900" stop="20130925101500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】我らの生活【字】【Ｓ】</title>
+    <desc lang="ja_JP">不慮の事故で愛妻を突然失った主人公が子どもたちを抱えながら懸命に奮闘する姿を感動的に描き、第６３回カンヌ国際映画祭男優賞ほか数多くの賞に輝いた秀作イタリア映画。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925101500 +0900" stop="20130925103000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９１【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925103000 +0900" stop="20130925130000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】大統領の陰謀【字】</title>
+    <desc lang="ja_JP">アカデミー賞４部門に輝く社会派サスペンス。現職大統領一派による盗聴という、米政治史に残る汚点“ウォーターゲート事件”の真相を暴露した新聞記者コンビの実話を再現。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925144500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ラスト・ライド〜最後の旅立ち〜【字】【Ｓ】</title>
+    <desc lang="ja_JP">オーストラリアを舞台に、罪を犯した父親と幼い息子の逃避行を通じて親子の絆と葛藤を描いたヒューマンロードムービー。Ｈ・ウィーヴィングが人生に不器用な父を好演。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925144500 +0900" stop="20130925164500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】トールマン【字】【SS】</title>
+    <desc lang="ja_JP">町から子どもがいなくなる……。謎の男《トールマン》が子どもを隠すという噂のある田舎町で、消えたわが子を捜す母親の奔走を描く。気鋭監督Ｐ・ロジェが放つ衝撃作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925164500 +0900" stop="20130925184500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ハロー！？ゴースト【字】【Ｓ】</title>
+    <desc lang="ja_JP">生きる希望を失った男性の前に現われた４人のゴースト。男性は彼らを成仏させられるか……。韓国で大ヒットし、ハリウッドリメイクも決まった感動のコミカルファンタジー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925184500 +0900" stop="20130925210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】鳥【字】</title>
+    <desc lang="ja_JP">ある日突然、ありふれた鳥が群れをなして人間を襲い出す……。動物パニックの原典にして頂点という名作。今なお色あせないＡ・ヒッチコック監督のスリラー演出が冴え渡る。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】わさお【SS】</title>
+    <desc lang="ja_JP">ブサイクだけどかわいい《ブサかわ》犬として話題を呼んだ秋田犬・わさおが自らを演じたハートウォーミング作。迷い犬となったわさおと周囲の人々の温かい絆を描く。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130926004500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】グレイヴ・エンカウンターズ２【字】【SS】</title>
+    <desc lang="ja_JP">超常現象ヤラセ番組のスタッフが、心霊スポットの廃病院で本当の怪現象に遭遇した前作から数年。映画監督志望の青年が、事件の真相を探るべく再び現場へと乗り込んでいく。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926004500 +0900" stop="20130926023000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】遊星からの物体Ｘ　ファーストコンタクト[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">生命体の調査のため、ノルウェー観測隊の基地へ降り立った女性古生物学者。彼女はそこで何を見たのか？　ジョン・カーペンター監督の傑作ホラー映画の前日談を描く新作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926023000 +0900" stop="20130926044500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】パリ警視庁：未成年保護部隊【字】【Ｓ】</title>
+    <desc lang="ja_JP">パリの警察で未成年を犯罪から守るために働く、刑事のチーム。彼らの公私を俳優たちのリアルな演技で描ききり、カンヌ国際映画祭で審査員賞に輝いた、異色の社会派ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926044500 +0900" stop="20130926050000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９１【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926050000 +0900" stop="20130926070000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】白い恋人たち【字】</title>
+    <desc lang="ja_JP">１９６８年、フランスのグルノーブルで開かれた第１０回冬季オリンピック。その様子を「男と女」のＣ・ルルーシュ監督が記録した、主題曲も有名な美しいドキュメンタリー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926090000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】片腕必殺剣【字】</title>
+    <desc lang="ja_JP">右腕を失った悲運の青年剣士の活躍を描いて大旋風を巻き起こし、東南アジア諸国の興行記録を塗り替える大ヒットを飛ばしたカンフー映画の記念碑的名作。Ｊ・ウォング主演。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926104500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ジャックはしゃべれま１，０００（せん）【字】【SS】</title>
+    <desc lang="ja_JP">口先だけで世の中を渡ってきた敏腕出版エージェントが、ひと言しゃべるごとに命を縮める呪いをかけられて……。Ｅ・マーフィが３年ぶりに主演したファンタジーコメディ。　</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926104500 +0900" stop="20130926130000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】アンカーウーマン【字】【SS】</title>
+    <desc lang="ja_JP">全米ネットのニュース番組の花形、アンカーウーマンを目指すヒロインの仕事と恋愛を描くロマンティックサクセスストーリー。主演はＲ・レッドフォードとＭ・ファイファー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926150000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】過速スキャンダル【字】【Ｓ】</title>
+    <desc lang="ja_JP">続くヒット作「サニー　永遠の仲間たち」も絶賛された、韓国のカン・ヒョンチョル監督によるハートウォーミングコメディ。突然、娘や孫と暮らすことになる人気ＤＪだが！？</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926150000 +0900" stop="20130926164500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ル・アーヴルの靴みがき【字】【SS】</title>
+    <desc lang="ja_JP">心をみがけば、奇跡はおこる。フィンランドが生んだ世界的名匠Ａ・カウリスマキ監督が、北フランスの港町ル・アーヴルを舞台に紡ぎ出した、心あたたまる珠玉の感動ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926164500 +0900" stop="20130926190000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】サニー　永遠の仲間たち[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">韓国でのヒットに続いて２０１２年、日本でも評判がＳＮＳなどで広く伝わった、泣ける秀作。２５年前のなかよし少女７人組の友情と、現在の彼女たちの再会を感動的に描写。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926204500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】見知らぬ乗客【字】</title>
+    <desc lang="ja_JP">“サスペンスの神様”Ａ・ヒッチコック監督の代表作の１本。列車に乗り合わせた見知らぬ乗客から、思いがけず“交換殺人”の話を持ちかけられたテニスプレーヤーだが……。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926204500 +0900" stop="20130926210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９１【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926231500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】釣りキチ三平【SS】</title>
+    <desc lang="ja_JP">「おくりびと」の滝田洋二郎監督が、矢口高雄の名作マンガを実写映画化した話題作。釣りの天才少年・三平が、亡き父親の悲願だった伝説の巨大イワナを釣るために奮闘する。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926231500 +0900" stop="20130927011500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】トロール・ハンター【字】【SS】</title>
+    <desc lang="ja_JP">北欧に伝わる妖精トロールの伝承を下敷きにしたホラーファンタジー。政府に雇われてトロールの存在を隠蔽するハンターの活動を、ドキュメンタリータッチで描く。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927011500 +0900" stop="20130927030000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】シャーク・ナイト[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">バカンスを楽しもうと湖畔にやって来た若者たち。だが、湖には、数十種類にも及ぶ人食いザメが解き放たれていた。戦慄の水中殺戮ショーが展開するアニマルパニックホラー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927050000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】プッシャー[R-15指定]【字】【Ｓ】</title>
+    <desc lang="ja_JP">コペンハーゲンを舞台に、麻薬密売人（プッシャー）の男が追い詰められていく犯罪スリラー。後に「ドライヴ」が世界的に評価される、鬼才Ｎ・Ｗ・レフン監督のデビュー作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927050000 +0900" stop="20130927070000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】夢追い【字】【Ｓ】</title>
+    <desc lang="ja_JP">１組の男女が強盗を働きながら必死の逃避行を続ける様子を、流麗なタッチで描写。「男と女」のＣ・ルルーシュ監督版「俺たちに明日はない」ともいうべきラブサスペンス。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927084500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】続・片腕必殺剣【字】</title>
+    <desc lang="ja_JP">かつて一大ブームを巻き起こした香港カンフー映画の名作の待望の続編。Ｊ・ウォング扮するヒーローは“八大刀王”を名乗る邪悪な武芸者集団を相手に颯爽とした活躍を披露！</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927084500 +0900" stop="20130927104500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】風にそよぐ草【字】【SS】</title>
+    <desc lang="ja_JP">１組の男女がとんだすれ違いのドラマを繰り広げるさまを、フランスの巨匠Ａ・レネ監督が軽妙洒脱に描き、第６２回カンヌ国際映画祭審査員特別賞に輝いた爆笑恋愛喜劇。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927104500 +0900" stop="20130927130000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】クイズ・ショウ【字】【SS】</title>
+    <desc lang="ja_JP">１９５０年代、全米を揺るがせたＴＶのクイズ番組の八百長スキャンダル、“２１（トゥエンティ・ワン）事件”。その全容をＲ・レッドフォード監督が再現した社会派ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927144500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】“アイデンティティー”[PG-12指定]【字】【SS】</title>
+    <desc lang="ja_JP">嵐の晩、１軒のモーテルに寄り集まった男女が、次々と不可解な死を遂げていくはめに。そんな彼らを待ち受ける意外な運命をスリル満点に綴った、衝撃のホラーサスペンス。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927144500 +0900" stop="20130927162000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ダーケストアワー　消滅【字】【SS】</title>
+    <desc lang="ja_JP">姿なきエイリアンに占領されたモスクワ。わずかに生き残った５人の男女は、人類の存亡をかけて決死の脱出を試みる。絶望的な状況下で展開するＳＦサバイバルアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927162000 +0900" stop="20130927190000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】キリング・フィールド【字】【Ｓ】</title>
+    <desc lang="ja_JP">１９７０年代、内乱で揺れ動くカンボジアを舞台に、米国人記者と現地人ガイドの友情をドラマチックに描写。第５７回アカデミー賞で３部門に輝く、衝撃と感動の実録ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】間違えられた男【字】</title>
+    <desc lang="ja_JP">“サスペンスの神様”Ａ・ヒッチコック監督が、珍しく実話に基づいたストーリーに挑戦。主演は名優Ｈ・フォンダ。強盗の濡れ衣を着せられた主人公の苦悩を生々しく描いた。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927224500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】エージェント・マロリー【字】【SS】</title>
+    <desc lang="ja_JP">アメリカ女子総合格闘技界を代表するスター、Ｇ・カラーノを主役に迎え、「オーシャンズ」シリーズのＳ・ソダーバーグ監督が新たな趣向で放った本格派スパイアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927224500 +0900" stop="20130927230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９１【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130928010000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】テイク・ディス・ワルツ　[R15+指定]【字】【SS】</title>
+    <desc lang="ja_JP">不自由ない結婚生活に物足りなさを感じる、子どもがいない主婦が、いつしか不倫を意識し……。「マリリン　７日間の恋」のＭ・ウィリアムズが主演したシリアス女性ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928024500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】マンイーター【字】【SS】</title>
+    <desc lang="ja_JP">野生のワニを見物する観光クルーズ船に、凶悪な人食いワニが襲いかかる。オーストラリアを舞台に、Ｓ・ワーシントンら地元出身スターが豪華共演したアニマルパニック。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928024500 +0900" stop="20130928043000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ダーク・フェアリー【字】【SS】</title>
+    <desc lang="ja_JP">古い屋敷に越してきた幼い少女が、封印されていた地下室で得体の知れない何かの存在に気付く。製作・脚本を「パンズ・ラビリンス」のＧ・デル・トロが手がけた戦慄ホラー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928043000 +0900" stop="20130928061500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ビッグ・ボーイズ　しあわせの鳥を探して【字】【SS】</title>
+    <desc lang="ja_JP">１年間でどれだけ多くの種類の鳥を見ることができるかを競い合う、大人のバードウォッチャー３人を描いたヒューマンコメディ。Ｊ・ブラックら３大コメディスター豪華共演。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928061500 +0900" stop="20130928081500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】あらしのよるに【SS】</title>
+    <desc lang="ja_JP">ヤギとオオカミのコンビの間に友情が芽生える。きむらゆういちのベストセラー絵本シリーズを杉井ギサブロー監督がアニメ映画化。中村獅童、成宮寛貴ら豪華声優陣も話題に。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928081500 +0900" stop="20130928103000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】リーサル・ウェポン４【字】【SS】</title>
+    <desc lang="ja_JP">ロサンゼルス市警の刑事コンビ、リッグスとマータフが悪と戦う大人気のポリスアクション、「リーサル・ウェポン」シリーズの６年ぶりの続編で、その完結編となった第４作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928103000 +0900" stop="20130928110000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】Ｈｏｌｌｙｗｏｏｄ　Ｅｘｐｒｅｓｓ　＃５３８【二】【Ｓ】</title>
+    <desc lang="ja_JP">ハリウッドニュースが満載の映画情報番組。新作映画の舞台裏から最新興行ランキングまで、ホットな話題をお届けする。ナビゲーターは、山寺宏一とクリス智子。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928131500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】トレーニング　デイ【字】【SS】</title>
+    <desc lang="ja_JP">人気男優Ｄ・ワシントンが新人の相棒を恐れさせる悪徳刑事に扮し、圧巻というべき熱演を披露。第７４回アカデミー賞で悲願の主演男優賞に輝いた、息詰まる刑事サスペンス。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928131500 +0900" stop="20130928151500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】デンジャラス・ラン[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">ＣＩＡの隠れ家に連行されたのは最強エージェント。何者かに命を狙われる彼と護衛する管理人、２人の危険な逃避行が始まる。Ｄ・ワシントン主演のサスペンスアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928151500 +0900" stop="20130928164500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ハッピーニート　おちこぼれ兄弟の小さな奇跡【字】【SS】</title>
+    <desc lang="ja_JP">実家で引きこもる３０歳のニート男と、妻の浮気を疑う兄、そして謎の告白メールを受け取った母。奇妙な家族の奇跡かもしれない騒動を綴ったハートウォーミングコメディ。　</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928164500 +0900" stop="20130928190000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】シャーロック・ホームズ　シャドウ　ゲーム【字】【SS】</title>
+    <desc lang="ja_JP">スケールとアクションが魅力的な新生“シャーロック・ホームズ”シリーズ第２弾。名探偵ホームズの前にもうひとりの天才でライバルとなるモリアーティ教授が立ちはだかる。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】メン・イン・ブラック３【字】【SS】</title>
+    <desc lang="ja_JP">Ｗ・スミスとＴ・Ｌ・ジョーンズの名コンビにＪ・ブローリンが加わった人気ＳＦコメディ第３作。エージェント“Ｋ”が突然姿を消す。事件の謎を解く鍵は１９６９年に……？</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】最強のふたり[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">事故に遭い、首から下が不自由になった大富豪を、スラム街出身の青年が介護することに……。２０１２年、日本を含む世界で大ヒットした、フランスのヒューマンコメディ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130929000000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ドキュメンタリー：最強のふたり【字】【SS】</title>
+    <desc lang="ja_JP">ヒット映画「最強のふたり」で主要キャラになった実在の２人と、主演２男優や監督コンビにインタビュー。これを見るとさらに「最強のふたり」を楽しめるドキュメンタリー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929014500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ＨＥＳＯＭＯＲＩ－ヘソモリ－【Ｓ】</title>
+    <desc lang="ja_JP">現在と過去を結ぶ不思議な穴《へそ》の守人、《ヘソモリ》たちが、その秘密を悪用しようとする陰謀に立ち向かう。和紙発祥の地、福井県越前市を舞台にしたファンタジー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929014500 +0900" stop="20130929033000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ゾンビ革命　－フアン・オブ・ザ・デッド－[R15+指定]【字】【SS】</title>
+    <desc lang="ja_JP">キューバの首都ハバナにゾンビの群れが出現。中年男性のフアンとおバカな仲間たちは、生き残ることができるのか……。スリルとブラックユーモアを満載したホラーコメディ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929033000 +0900" stop="20130929050000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ムースの隠遁【字】【Ｓ】</title>
+    <desc lang="ja_JP">ドラッグ中毒によって急死した恋人の子をお腹に宿していることを知った女性が、田舎で隠遁生活を送るさまを異才Ｆ・オゾン監督が静かに見つめた、本邦劇場未公開の注目作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929071500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】素晴らしきヒコーキ野郎【字】【SS】</title>
+    <desc lang="ja_JP">古き良き時代、世界各国の命知らずのヒコーキ野郎たちが一堂に集ってロンドンーパリ間の国際飛行レースを競い合う様子を、大らかなタッチで描いた娯楽アドベンチャー大作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929071500 +0900" stop="20130929090000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】モンスター・イン・パリ　響け！僕らの歌声【字】【SS】</title>
+    <desc lang="ja_JP">１匹のモンスターと２人の若者、そして美しい歌姫が奇跡を起こす。２０世紀初頭のパリを舞台に、歌が好きなモンスターをめぐる騒動を描いたＬ・ベッソン製作のＣＧアニメ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929113000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ヘルプ〜心がつなぐストーリー〜【字】【SS】</title>
+    <desc lang="ja_JP">人種差別が根強く残った１９６０年代の米南部を舞台に、アフリカ系女性のメイドたちの友情を描いた感動のドラマ。第８４回アカデミー賞でＯ・スペンサーが助演女優賞受賞。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929113000 +0900" stop="20130929133500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】アルゴ【字】【SS】</title>
+    <desc lang="ja_JP">第８５回アカデミー賞で作品賞など３部門受賞。イランで起きた米大使館人質事件で、人質救出のためにＣＩＡが映画製作を偽装したという実話をスリリングに再現した痛快編。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929133500 +0900" stop="20130929140000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】Ｈｏｌｌｙｗｏｏｄ　Ｅｘｐｒｅｓｓ　＃５３８【二】【Ｓ】</title>
+    <desc lang="ja_JP">ハリウッドニュースが満載の映画情報番組。新作映画の舞台裏から最新興行ランキングまで、ホットな話題をお届けする。ナビゲーターは、山寺宏一とクリス智子。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929163000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】フォックスファイア　少女たちの告白【字】【Ｓ】</title>
+    <desc lang="ja_JP">「パリ２０区、僕たちのクラス」でカンヌ国際映画祭パルムドールに輝くＬ・カンテ監督が、１９５０年代の米国で数奇な運命をたどった少女たちを描く、青春群像劇の野心作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929163000 +0900" stop="20130929184500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】プロメテウス[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">ＳＦホラーの大ヒット作「エイリアン」シリーズ。第１作より過去にさかのぼり、未知の惑星に旅立った宇宙船が惨劇に襲われる前日譚。監督は第１作も手がけたＲ・スコット。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929184500 +0900" stop="20130929190000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９１【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】コロンビアーナ[PG12指定]【字】【Ｓ】</title>
+    <desc lang="ja_JP">南米のコロンビアで両親を殺された少女カトレアは渡米し、最強の殺し屋になる……。Ｌ・ベッソンが製作・脚本に参加し、「アバター」のＺ・サルダナが主演したアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929224500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】恋のベビーカー大作戦【字】【Ｓ】</title>
+    <desc lang="ja_JP">同じアパートで暮らす女性からかわいい赤ちゃんを預かった男性は元恋人に協力を仰ぎ……。「旅するＷ座」で日本初公開となったフランス産の子育てロマンティックコメディ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929224500 +0900" stop="20130929230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９１【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130930003000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ディクテーター　身元不明でニューヨーク[R15+指定]【字】【SS】</title>
+    <desc lang="ja_JP">北アフリカ某国の独裁者がＮＹに行くが、トレードマークのひげをそり落とされたせいで無名の人物と誤解され……。過激コメディスター、Ｓ・Ｂ・コーエンが主演した爆笑編。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930003000 +0900" stop="20130930020000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ヘルレイザー：レベレーション[R15+指定相当]【字】【SS】</title>
+    <desc lang="ja_JP">奇怪なパズルボックスを解いたとき、魔界の扉が開かれる。Ｃ・バーカー原作によるサディスティックホラー「ヘルレイザー」第９作。物語を一新した新章が幕を開ける。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930020000 +0900" stop="20130930031500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】美しすぎる漁師[R15+指定相当]【Ｓ】</title>
+    <desc lang="ja_JP">都会生活に疲れたヒロインが漁師だった亡き父の後を継ごうと故郷へ帰ってくるが、懐かしい港町にはよからぬ陰謀が渦巻いていた。セクシー女優・杏樹紗奈主演の官能ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930031500 +0900" stop="20130930050000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】人狼村　史上最悪の田舎[R15+指定]【字】【SS】</title>
+    <desc lang="ja_JP">小説を執筆するため久しぶりに故郷の田舎町へ戻った青年作家が、村に伝わる人狼の呪いに直面する。シッチェス映画祭で作品賞にノミネートされた注目のアクションホラー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930050000 +0900" stop="20130930070000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】魅惑の巴里【字】【Ｓ】</title>
+    <desc lang="ja_JP">大物Ｇ・ケリーが主演し、「南太平洋」のＭ・ゲイナーら３大女優が共演。彼らが演じる恋愛関係を名匠Ｇ・キューカー監督が洒落たタッチで綴った名作ミュージカルコメディ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930093000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ロベレ将軍【字】</title>
+    <desc lang="ja_JP">監督Ｒ・ロッセリーニ×主演Ｖ・デ・シーカ。イタリア、ネオレアリズモの２大巨匠が夢の初コンビを組み、第２４回ヴェネチア国際映画祭でみごと金獅子賞に輝いた名作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930093000 +0900" stop="20130930110000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ジェーン・バーキンのサーカス・ストーリー【字】【SS】</title>
+    <desc lang="ja_JP">旅回りの小さなサーカス一座を舞台に、不思議な人間模様が繰り広げられるさまを、ヌーヴェル・ヴァーグの巨匠Ｊ・リヴェット監督が軽妙洒脱に綴った愛すべき人間ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930110000 +0900" stop="20130930130000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】そして友よ、静かに死ね[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">フランスに実在したギャング、エドモン・ヴィダルの半生に基づき、ギャングたちの友情を骨太に描いたアクション。監督は「あるいは裏切りという名の犬」のＯ・マルシャル。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930150000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】特別な一日【字】</title>
+    <desc lang="ja_JP">独伊両国の独裁者が対面した歴史的な日に、こちらも特別な出会いを果たした１組の男女のささやかなドラマを、イタリア映画界の２大スター共演で描いた珠玉のメロドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930164500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】Ｖｉｒｇｉｎｉａ／ヴァージニア[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">三文作家が田舎町で遭遇する不思議な出来事を夢幻的なタッチで描写。Ｆ・Ｆ・コッポラ監督が初期の作風に立ち返って作り上げた、Ｂ級テイスト溢れるゴシックファンタジー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930164500 +0900" stop="20130930184500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】刑事ベラミー【字】【Ｓ】</title>
+    <desc lang="ja_JP">愛妻と南仏で休暇を楽しんでいたベテラン刑事が奇妙な事件に巻き込まれていく様子を、悠揚迫らぬタッチでユーモラスに描写。Ｃ・シャブロル監督の遺作となった犯罪ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930184500 +0900" stop="20130930204500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】リターン・トゥ・ベース【字】【SS】</title>
+    <desc lang="ja_JP">無鉄砲な天才パイロットが、朝鮮戦争再開という国家の危機を避けるべく危険な任務に挑む。空軍の全面協力のもと、韓国映画界が放った大スケールのスカイアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930204500 +0900" stop="20130930210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】映画工房　＃９２【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ネイビーシールズ[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">米海軍が誇る特殊部隊“ネイビーシールズ”の活躍を、現役隊員たちの出演、実際の軍の装備・戦術などを駆使し、リアルに描写。本物の迫力にあふれたミリタリーアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20131001010000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】コナン・ザ・バーバリアン[R15+指定]【字】【Ｓ】</title>
+    <desc lang="ja_JP">Ｒ・Ｅ・ハワードが生んだ蛮族の英雄コナンがよみがえる。Ａ・シュワルツェネッガーも演じた伝説のヒーローを、新星Ｊ・モモアの主演で描き直したヒロイックファンタジー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001010000 +0900" stop="20131001030000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】少年は残酷な弓を射る[PG12指定]【字】【SS】</title>
+    <desc lang="ja_JP">母親に対して異常なまでの悪意と執着心を持つ息子。彼女のすべてが崩れ去る、ある事件の真相とは？　Ｔ・スウィントンの渾身の演技から目が離せないサスペンスミステリー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001030000 +0900" stop="20131001050000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ベルフラワー[R15+指定相当]【字】【Ｓ】</title>
+    <desc lang="ja_JP">映画「マッドマックス２」に心酔し、同作品に出てきそうな火炎放射器付き改造車を作る青年ウッドロー。彼の恋とその挫折を、やりきれなさ満載で描き出した、過激青春映画。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001050000 +0900" stop="20131001070000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ニンゲン合格【Ｓ】</title>
+    <desc lang="ja_JP">１０年も昏睡状態に陥っていた青年（西島秀俊）の不思議な運命を、乾いたユーモアでさらりと描写。異才・黒沢清監督が新生面を開拓したとされる、奇妙な寓話風家族ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001070000 +0900" stop="20131001093000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】７月４日に生まれて【字】【SS】</title>
+    <desc lang="ja_JP">Ｔ・クルーズが主演し、鬼才Ｏ・ストーン監督が「プラトーン」に続いて放った、衝撃のベトナム戦争映画。戦場で負傷した後、反戦運動家に転じた実在の青年がクルーズの役！</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001093000 +0900" stop="20131001111500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ハモンハモン【字】【Ｓ】</title>
+    <desc lang="ja_JP">６人の男女の不思議な恋愛関係をエロティックかつユーモラスに描いた大胆不敵なラブコメディ。後の人気女優Ｐ・クルスら共演。ヴェネチア国際映画祭で銀獅子賞を受賞。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001111500 +0900" stop="20131001130000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ライトシップ【字】</title>
+    <desc lang="ja_JP">シージャックされた灯台船を舞台に、凶悪犯たちと船長、そしてその反抗的な息子らが織り成す対立劇をポーランドの鬼才Ｊ・スコリモフスキ監督がスリリングに描いた秀作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001130000 +0900" stop="20131001150000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ラブ・アゲイン【字】【SS】</title>
+    <desc lang="ja_JP">ハリウッドの人気スターが競演した、群像ラブコメディの秀作。長年連れ添った妻からいきなり離婚を宣告された中年男性（Ｓ・カレル）は、モテる男に生まれ変わろうと……？</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001150000 +0900" stop="20131001170000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】赤い季節【Ｓ】</title>
+    <desc lang="ja_JP">殺し屋稼業から足を洗い、堅気の生活を送ろうと決意した主人公。しかし組織は彼を再び汚れた世界へ引き戻そうとして…。人気個性派・新井浩文主演のハードボイルドドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001170000 +0900" stop="20131001190000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】エイトレンジャー【SS】</title>
+    <desc lang="ja_JP">７つのカラーを持つヒーローチーム“エイトレンジャー”が、謎のテロリスト集団の野望に立ち向かう。“関ジャニ∞”と堤　幸彦監督が組んだヒーローエンターテインメント。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001190000 +0900" stop="20131001204500 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ケイト・レディが完璧（パーフェクト）な理由（ワケ）【字】【SS】</title>
+    <desc lang="ja_JP">家庭と仕事の両立に悩むエリートキャリアウーマンの奮闘を描いたラブコメディ。英国のベストセラーを、「セックス・アンド・ザ・シティ」のＳ・Ｊ・パーカー主演で映画化。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001204500 +0900" stop="20131001210000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】「四十九日のレシピ」のつくり方　甘口篇【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001210000 +0900" stop="20131001230000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】ヤング・シャーロック　ピラミッドの謎【字】【SS】</title>
+    <desc lang="ja_JP">Ｓ・スピルバーグ監督が製作総指揮した冒険＆ファンタジー満載の推理アドベンチャー。まだ若かりし日の名探偵シャーロック・ホームズが奇怪な連続殺人事件に取り組む……？</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001230000 +0900" stop="20131002004000 +0900" channel="4193.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】シャドー・チェイサー【字】【SS】</title>
+    <desc lang="ja_JP">異国の地で思いも寄らぬ陰謀事件に巻き込まれたアメリカ人青年が、何者かに拉致された家族を救出するため必死に奮闘するさまをスリル満点に描いたノンストップアクション。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+</tv>

@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4295.epgdata.ontvjapan">
+    <display-name lang="ja_JP">テレビ朝日</display-name>
+  </channel>
+  <programme start="20130924214800 +0900" stop="20130924215400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924215400 +0900" stop="20130924231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP">京都で１８歳少年の車が登校中の児童に突入…１人重体なぜ事故は▽コメ価格３年ぶり下落、消費低迷と新米流通で在庫急増…背景に何が▽プロ野球・楽天優勝に王手へ…</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130924231000 +0900" stop="20130924231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924231500 +0900" stop="20130925001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">中居正広のミになる図書館【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925001500 +0900" stop="20130925002000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925002000 +0900" stop="20130925011500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925011500 +0900" stop="20130925012100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925012100 +0900" stop="20130925015100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">林修先生の今やる！ハイスクール【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925015100 +0900" stop="20130925022100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【終】甘王の共感スクール</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925022100 +0900" stop="20130925023500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925023500 +0900" stop="20130925031000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925031000 +0900" stop="20130925034000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ももクロＣｈａｎ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925034000 +0900" stop="20130925041000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925041000 +0900" stop="20130925045500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925045500 +0900" stop="20130925080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925095500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925095500 +0900" stop="20130925103000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925103000 +0900" stop="20130925112500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">暴れん坊将軍１１　＃６【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925112500 +0900" stop="20130925130500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925130500 +0900" stop="20130925132000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925132000 +0900" stop="20130925135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925135500 +0900" stop="20130925135900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925135900 +0900" stop="20130925140400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925140400 +0900" stop="20130925155700 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">事件１３【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925155700 +0900" stop="20130925165300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒５　＃１２【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925165300 +0900" stop="20130925185300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925185300 +0900" stop="20130925214800 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">出張！徹子の部屋パート６　夢トーク豪華４本勝負　お宝映像も大放出スペシャル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925214800 +0900" stop="20130925215400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925215400 +0900" stop="20130925231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925231000 +0900" stop="20130925231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925231500 +0900" stop="20130926001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">マツコ＆有吉の怒り新党【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926001500 +0900" stop="20130926002000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926002000 +0900" stop="20130926011500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926011500 +0900" stop="20130926012100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926012100 +0900" stop="20130926015100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">キス濱ラーニング２</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926015100 +0900" stop="20130926020600 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">学生才能発掘バラエティ　学生HEROES！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926020600 +0900" stop="20130926022100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京上級デート</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926022100 +0900" stop="20130926023500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926023500 +0900" stop="20130926031000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926031000 +0900" stop="20130926034000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ・ショッピングタイム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926034000 +0900" stop="20130926041000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926041000 +0900" stop="20130926045500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926045500 +0900" stop="20130926080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926095500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926095500 +0900" stop="20130926103000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926103000 +0900" stop="20130926112500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">暴れん坊将軍１１　＃７【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926112500 +0900" stop="20130926130500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926130500 +0900" stop="20130926132000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926132000 +0900" stop="20130926135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926135500 +0900" stop="20130926135900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926135900 +0900" stop="20130926140400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926140400 +0900" stop="20130926155700 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">温泉若おかみの殺人推理２２【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926155700 +0900" stop="20130926165300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒１０　＃７【解】【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926165300 +0900" stop="20130926190000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926214800 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">アメトーーーーーーク　　おめぇ顔なげぇーーな　秋の３時間スペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926214800 +0900" stop="20130926215400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926215400 +0900" stop="20130926231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926231000 +0900" stop="20130926231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926231500 +0900" stop="20130927001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">アメトーーク！【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927001500 +0900" stop="20130927002000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927002000 +0900" stop="20130927011500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927011500 +0900" stop="20130927012100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927012100 +0900" stop="20130927015100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｂｒｅａｋ　Ｏｕｔ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927015100 +0900" stop="20130927022100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">よくぞ行きましたＴＶ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927022100 +0900" stop="20130927025100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">だんくぼ【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927025100 +0900" stop="20130927030000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927033500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927033500 +0900" stop="20130927040500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927040500 +0900" stop="20130927042500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927042500 +0900" stop="20130927043000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはようゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927043000 +0900" stop="20130927045500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">渡辺篤史の建もの探訪</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927045500 +0900" stop="20130927080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【終】やじうまテレビ！〜マルごと生活情報局〜【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927095500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927095500 +0900" stop="20130927103000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927103000 +0900" stop="20130927112500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">科捜研の女１１　＃１３【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927112500 +0900" stop="20130927130500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927130500 +0900" stop="20130927132000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927132000 +0900" stop="20130927135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927135500 +0900" stop="20130927135900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927135900 +0900" stop="20130927140400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927140400 +0900" stop="20130927155700 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">森村誠一の終着駅シリーズ２５「途中下車する女」【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927155700 +0900" stop="20130927165300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒３　＃１８【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927165300 +0900" stop="20130927190000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927214800 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ミュージックステーション　３時間スペシャル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927214800 +0900" stop="20130927215400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927215400 +0900" stop="20130927231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927231000 +0900" stop="20130927231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927231500 +0900" stop="20130928001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ナンジャコレ珍百景【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928001500 +0900" stop="20130928002000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928002000 +0900" stop="20130928005000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">タモリ倶楽部</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928005000 +0900" stop="20130928012000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">『ぷっ』すま【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928012000 +0900" stop="20130928012500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928012500 +0900" stop="20130928042500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">朝まで生テレビ！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928042500 +0900" stop="20130928045500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">健康家族テレショップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928045500 +0900" stop="20130928052500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダイレクトテレショップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928052500 +0900" stop="20130928055000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">おかずのクッキング　海老フライ〜タルタル添え・鶏のごぼう照り焼き【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928055000 +0900" stop="20130928060000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928063000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【終】大人の山歩き　〜自分に出会える百名山〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928063000 +0900" stop="20130928080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【終】あさナビ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928093000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">朝だ！生です旅サラダ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928095500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">食彩の王国【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928095500 +0900" stop="20130928100000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">美味しい百景〜アシタノゲンキ〜【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928114500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">若大将のゆうゆう散歩・人気の観光地スペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928114500 +0900" stop="20130928120000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">タクシードライバーの推理日誌２９「塀の中からの乗客」【解】【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928135500 +0900" stop="20130928135900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928135900 +0900" stop="20130928160000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒４　＃２１スペシャル【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928160000 +0900" stop="20130928172500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">路線バスで寄り道の旅　特別編【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928172500 +0900" stop="20130928173000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">水彩物語【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928173000 +0900" stop="20130928180000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮスーパーＪチャンネル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928183000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">人生の楽園【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928183000 +0900" stop="20130928185600 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">〜世界にひとつ〜ミラクルレシピ！【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928185600 +0900" stop="20130928205400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">関ジャニの仕分け∞　２時間スペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928205400 +0900" stop="20130928205800 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース・あすの空もよう【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928205800 +0900" stop="20130928210000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">今夜の土曜ワイド【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928230600 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">土曜ワイド劇場「森村誠一の終着駅シリーズ・悪の魂」【デ】【解】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928230600 +0900" stop="20130928231200 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">YOU MAY DREAM【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928231200 +0900" stop="20130928231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">裏Ｓｍａ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928231500 +0900" stop="20130929000900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">SmaSTATION‼</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929000900 +0900" stop="20130929001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">AMAZING BANG FRONT</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929001500 +0900" stop="20130929004500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ポータル　ＡＮＮニュース＆スポーツ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929004500 +0900" stop="20130929011500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【終】あっちマニア【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929011500 +0900" stop="20130929014500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">夏目☆記念日【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929014500 +0900" stop="20130929021500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">さまぁ〜ず×さまぁ〜ず</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929021500 +0900" stop="20130929024500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ブラマヨとゆかいな仲間たち　アツアツっ！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929024500 +0900" stop="20130929031500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワールドプロレスリング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929031500 +0900" stop="20130929034500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">333</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929034500 +0900" stop="20130929040500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">イベ検</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929040500 +0900" stop="20130929043500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">葉加瀬太郎ワールドツアーＳＰ！〜ジャポニズム〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929043500 +0900" stop="20130929045000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">朝いち！ゴルフ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929045000 +0900" stop="20130929052000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">秘湯ロマン</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929052000 +0900" stop="20130929055000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">健康家族テレショップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929055000 +0900" stop="20130929060000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929063000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">日本！食紀行</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929063000 +0900" stop="20130929070000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">聖闘士星矢Ω</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">最強銀河　究極ゼロ【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">獣電戦隊キョウリュウジャー【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929083000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【終】仮面ライダーウィザード【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929090000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ドキドキ！プリキュア【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929093000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">題名のない音楽会</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929100000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">砂羽と可奈子があの街の美味しいギャップ大発見！だけど食堂【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929114500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション　ＳＵＮＤＡＹ【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929114500 +0900" stop="20130929125500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">サンデースクランブル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929125500 +0900" stop="20130929132500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">新婚さんいらっしゃい！【解】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929132500 +0900" stop="20130929135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">パネルクイズ　アタック２５【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929135500 +0900" stop="20130929152000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">路線バスで寄り道の旅５【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929152000 +0900" stop="20130929152500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶクリップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929152500 +0900" stop="20130929153000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929153000 +0900" stop="20130929172500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒５　＃１ スペシャル【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929172500 +0900" stop="20130929173000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界が愛した絵本【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929173000 +0900" stop="20130929180000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮスーパーＪチャンネル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929183000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相葉マナブ【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929183000 +0900" stop="20130929185600 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">奇跡の地球物語〜近未来創造サイエンス〜【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929185600 +0900" stop="20130929205700 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">シルシルミシルさんデー　２時間スペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929205700 +0900" stop="20130929210000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">今夜のドラマスペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ドラマスペシャル「特捜最前線２０１３〜７頭の警察犬」【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929231000 +0900" stop="20130929231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ｆｏｒ〜歓声を生んだ感動ストーリー〜【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929231500 +0900" stop="20130930001000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">日曜×芸人【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930001000 +0900" stop="20130930004500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">日本サッカー応援宣言　やべっちＦＣ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930004500 +0900" stop="20130930024000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">Get　Sports</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930024000 +0900" stop="20130930024200 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">クロージング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930044300 +0900" stop="20130930044500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">オープニング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930044500 +0900" stop="20130930045000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＣＳテレ朝ナビ‼</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930045000 +0900" stop="20130930045500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはようゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930045500 +0900" stop="20130930080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【新】グッド！モーニング【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930095500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930095500 +0900" stop="20130930103000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930103000 +0900" stop="20130930112500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">暴れん坊将軍１１　＃１５【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930112500 +0900" stop="20130930130500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930130500 +0900" stop="20130930132000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930132000 +0900" stop="20130930135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930135500 +0900" stop="20130930135900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930135900 +0900" stop="20130930140400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930140400 +0900" stop="20130930155700 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒３　＃９スペシャル【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930155700 +0900" stop="20130930165300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒９　＃１７【解】【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930165300 +0900" stop="20130930185300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930185300 +0900" stop="20130930214800 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">クイズプレゼンバラエティー Ｑさま‼　３時間スペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930214800 +0900" stop="20130930215400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930215400 +0900" stop="20130930231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930231000 +0900" stop="20130930231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930231500 +0900" stop="20131001001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ストライクＴＶ【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001001500 +0900" stop="20131001002000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スマホPOLICE</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001002000 +0900" stop="20131001011500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">お願い！ランキング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001011500 +0900" stop="20131001012100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">全力坂</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001012100 +0900" stop="20131001015100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ｍｕｓｉｃる　ＴＶ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001015100 +0900" stop="20131001022100 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">【新】ギリギリくりぃむ企画工場【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001022100 +0900" stop="20131001023500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">よふかしゴーちゃん。</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001023500 +0900" stop="20131001031000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">セレクションＸ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001031000 +0900" stop="20131001034000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">テレメンタリー２０１３「放射能汚染を追って〜福島　そしてチェルノブイリ〜」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001034000 +0900" stop="20131001041000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ナイトショッピング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001041000 +0900" stop="20131001045500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">特選いいものさがし</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001045500 +0900" stop="20131001080000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">グッド！モーニング【デ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001080000 +0900" stop="20131001095500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">モーニングバード！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001095500 +0900" stop="20131001103000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">若大将のゆうゆう散歩【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001103000 +0900" stop="20131001112500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">暴れん坊将軍１１　＃１７【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001112500 +0900" stop="20131001130500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイド！スクランブル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001130500 +0900" stop="20131001132000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">上沼恵美子のおしゃべりクッキング【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001132000 +0900" stop="20131001135500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">徹子の部屋【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001135500 +0900" stop="20131001135900 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京サイト【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001135900 +0900" stop="20131001140400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＮＮニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001140400 +0900" stop="20131001155700 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒５　＃２０スペシャル【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001155700 +0900" stop="20131001165300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">相棒セレクション　相棒１０　＃１７【解】【字】【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001165300 +0900" stop="20131001185300 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">スーパーＪチャンネル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001185300 +0900" stop="20131001214800 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">中居正広のミになる図書館　３時間スペシャル【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001214800 +0900" stop="20131001215400 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の街道をゆく【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001215400 +0900" stop="20131001231000 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">報道ステーション【デ】【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001231000 +0900" stop="20131001231500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の車窓から【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001231500 +0900" stop="20131002001500 +0900" channel="4295.epgdata.ontvjapan" >
+    <title lang="ja_JP">中居正広のミになる図書館【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+</tv>

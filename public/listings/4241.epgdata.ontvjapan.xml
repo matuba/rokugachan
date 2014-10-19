@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4241.epgdata.ontvjapan">
+    <display-name lang="ja_JP">BSスカパー！</display-name>
+  </channel>
+  <programme start="20130924210000 +0900" stop="20130924220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】【生】速報！バトル☆メン 2000万パワーズ(13/9/24号)</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924230000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">AXN開局15周年特別番組「時代を彩る海外ドラマ」</title>
+    <desc lang="ja_JP">海外ドラマの創成期から最新の話題作まで、その歴史と海外ドラマの魅力が再発見できるオリジナル番組！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130925000000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">パチマガMEGAWARS XX　第十一章 #13</title>
+    <desc lang="ja_JP">第十一章を締め括る入れ替え戦後半戦！助六・七之助は持ち玉０の後半戦。持ち玉は１箱のシルヴィーが若干有利だが…。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925003000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">カモンビギナー！ウエルカムボートレース第７回後編　森彩奈江</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925003000 +0900" stop="20130925010000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ミュージック・エア presents なんて洋楽だ！ #8</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925020000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【フジテレビNEXT】ゴルフ アジアツアー2013ハイライト</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925030000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">GirlsNews〜ハロプロ #19</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925033000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925033000 +0900" stop="20130925060000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J1第26節 横浜FM×清水</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925063000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後10時から「IDOL REVUE　by Pigoo」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925063000 +0900" stop="20130925070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925090000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Jリーグ クラブオフィシャル番組セレクション</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925093000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日テレNEWS24</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925093000 +0900" stop="20130925100000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後10時から「IDOL REVUE　by Pigoo」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925105000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【アニマルプラネット】魅惑のアクアリウム18</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925105000 +0900" stop="20130925110000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925110000 +0900" stop="20130925120000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">速報！バトル☆メン 2000万パワーズ(13/9/24号)</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925123000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">新世界よりクロニクル #2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925123000 +0900" stop="20130925130000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">YANMAR presents セレッソ大阪TV #6</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925153000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J1第26節 C大阪×柏</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925153000 +0900" stop="20130925170000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">9/21(土)J1マッチデーハイライト #57</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925180000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】CNNj 国際版〜オープン・コート他 #3</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925183000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】僕たちの青春ソングス #1</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925183000 +0900" stop="20130925190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】僕たちの青春ソングス #2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925190000 +0900" stop="20130925200000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】CNN/US 米国版〜ニュー・デイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925200000 +0900" stop="20130925205500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】人生こころ歌 〜秘話で奏でる名曲フルコーラス〜 #10</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925205500 +0900" stop="20130925210000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】人生こころ歌 〜秘話で奏でる名曲フルコーラス〜 #9</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925230000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">IDOL REVUE ご当地アイドルお取り寄せ図鑑 by Pigoo #13</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130925233000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ゴルフネットワーク presents スクール・オブ・ゴルフ #41</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925233000 +0900" stop="20130926010000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">週刊！ライブ至上主義　レイザーラモン</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926030000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">THE PRIZE　煽情</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926034500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926034500 +0900" stop="20130926060000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J2第34節 群馬×栃木</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926063000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後10時から「週刊！ライブ至上主義」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926063000 +0900" stop="20130926070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926080000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">CNNj 国際版〜オープン・コート他 #3</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926083000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">日テレＧ＋スペシャル#50</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926083000 +0900" stop="20130926084500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">開幕直前SP 丸山茂樹が語るザ・プレジデンツカップの全て #3</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926084500 +0900" stop="20130926090000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926093000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日テレNEWS24</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926093000 +0900" stop="20130926100000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後10時から「週刊！ライブ至上主義」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926100000 +0900" stop="20130926110000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【フジテレビNEXT】ゴルフ アジアツアー2013ハイライト</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926113000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">サンフレッチェTV #30</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926113000 +0900" stop="20130926130000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Jリーグ ラボ #7</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926151500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J2第34節 北九州×岡山</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926151500 +0900" stop="20130926152000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926152000 +0900" stop="20130926163000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">9/22(日)J2マッチデーハイライト #58</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926163000 +0900" stop="20130926170000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】UEFA Champions League 13/14観戦ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926180000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】コミュニてれび #6</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926183000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】カモンビギナー！ウエルカムボートレース第７回後編　森彩奈江</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926183000 +0900" stop="20130926190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】ゴルフネットワーク presents スクール・オブ・ゴルフ #41</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926200000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】CNN/US 米国版〜ニュー・デイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926200000 +0900" stop="20130926210000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】エムオン! presents 韓ON!Countdown10 #67</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】Pigooセレクション#07</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926233000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">週刊！ライブ至上主義　東京ダイナマイト単独ライヴ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926233000 +0900" stop="20130927002000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Johnnys'Jr. land／ジャニーズJr.ランド#100</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927002000 +0900" stop="20130927003000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927003000 +0900" stop="20130927010000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">UEFAチャンピオンズリーグマガジン #5</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927032000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">13/14 セリエA 第4節 サッスオーロ×インテル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927032000 +0900" stop="20130927033500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927033500 +0900" stop="20130927055500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【生】13/14 セリエA 第5節 インテル×フィオレンティーナ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927055500 +0900" stop="20130927061500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後10時から「PRIZE　悩ましき男たちの肖像」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927061500 +0900" stop="20130927070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927083000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Jリーグ クラブオフィシャル番組セレクション</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927083000 +0900" stop="20130927090000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">日テレＧ＋スペシャル#50</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927093000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日テレNEWS24</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927093000 +0900" stop="20130927100000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後10時から「PRIZE　悩ましき男たちの肖像」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927110000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">エムオン! presents 韓ON!Countdown10 #67</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927120000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Pigooセレクション#07</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927123000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ゴルフネットワーク presents スクール・オブ・ゴルフ #41</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927123000 +0900" stop="20130927124500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">開幕直前SP 丸山茂樹が語るザ・プレジデンツカップの全て #4</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927124500 +0900" stop="20130927130000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927151500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J2第34節 水戸×熊本</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927151500 +0900" stop="20130927153000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビートップリーグ 13/14シーズンプレビュー</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927153000 +0900" stop="20130927170000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Jリーグ ラボ #7</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】衛星劇場PRESENTS　田中絹代主演「お加代の覚悟」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927200000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】CNN/US 米国版〜ニュー・デイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927213000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】エンタメ〜テレアワー二丁目なう＃２７＆アイドル☆ピット２＃４</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927213000 +0900" stop="20130927220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】MUSIC VIDEO SELECTION #38</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927233000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">THE PRIZE　悩ましき男たちの肖像</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927233000 +0900" stop="20130928000000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">UEFAチャンピオンズリーグマガジン #5</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928010000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Pigooセレクション#07</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928020000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">IDOL REVUE ご当地アイドルお取り寄せ図鑑 by Pigoo #13</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928020000 +0900" stop="20130928025500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">新世界よりクロニクル #2-#3</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928025500 +0900" stop="20130928030000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928030000 +0900" stop="20130928034500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928034500 +0900" stop="20130928060000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J2第34節 岐阜×鳥取</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928063000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928063000 +0900" stop="20130928070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928080000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">人生こころ歌 〜秘話で奏でる名曲フルコーラス〜 #10</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928100000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】【クラシカ・ジャパン】クラシック新時代＆コンサート名演集９</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928114500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">第34期 霧島酒造杯女流王将戦 挑戦手合三番勝負 第3局</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928114500 +0900" stop="20130928120000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928131000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓流アワー アジアドラマチックTV「シンイ−信義−」第１話</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928131000 +0900" stop="20130928131500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928131500 +0900" stop="20130928140000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビートップリーグ 13/14シーズンプレビュー他</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928140000 +0900" stop="20130928160000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビー 関東大学対抗戦 明治大×成蹊大</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928160000 +0900" stop="20130928180000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビー 関東大学対抗戦 帝京大×青山学院大</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】アメリカお宝鑑定団S5 #83・#84</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928200000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】アメリカお宝鑑定団S5 #85・#86</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928200000 +0900" stop="20130928210000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】アメリカお宝鑑定団S5 #87・#88</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928213000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">UEFAチャンピオンズリーグマガジン #5</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928213000 +0900" stop="20130928215000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【生】9/28(土)速報J1ゴールハイライト #59</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928215000 +0900" stop="20130928220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">スカパー！Ｊリーグガイド9月号</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928230000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ナショジオワイルドアワー 心に傷を負ったゾウの物語</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130929000000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">映画人・渡辺謙</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929013000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">9/28(土)J1マッチデーハイライト #59</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929013000 +0900" stop="20130929030000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">新世界より #23〜#25</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929030000 +0900" stop="20130929033000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929033000 +0900" stop="20130929060000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J1第27節 鹿島×大分</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929063000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞後8時30分から「コミュニてれび特別企画」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929063000 +0900" stop="20130929070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929090000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】第16期 ドコモ杯女流棋聖戦 自戦解説</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929104000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】KBS World presents 不朽の名曲2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929104000 +0900" stop="20130929112500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビートップリーグ 13/14シーズンプレビュー他</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929112500 +0900" stop="20130929125500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Jリーグ ラボ #7</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929125500 +0900" stop="20130929151000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【生】なでしこリーグ2013 第12節 大阪高槻×伊賀FC</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929151000 +0900" stop="20130929152500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929152500 +0900" stop="20130929155500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】UEFA Champions League 13/14観戦ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929155500 +0900" stop="20130929181000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【生】2013 J2第35節 山形×北九州</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929181000 +0900" stop="20130929183000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929183000 +0900" stop="20130929190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">UEFAチャンピオンズリーグマガジン #5</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929203000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">M-ON! presents アニメ紅白歌合戦 byスカパー</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929203000 +0900" stop="20130929213000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダンスと駆けた夏　〜第１回全日本小中学生ダンスコンクール〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929213000 +0900" stop="20130929215000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">9/29(日)速報J2ゴールハイライト #60</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929215000 +0900" stop="20130929220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">スカパー！Ｊリーグガイド9月号</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929225000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Johnnys'Jr. land／ジャニーズJr.ランド#101</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929225000 +0900" stop="20130929230000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130930000000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">開幕直前SP 丸山茂樹が語るザ・プレジデンツカップの全て #1〜4</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930011000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">9/29(日)J2マッチデーハイライト #60</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930011000 +0900" stop="20130930014000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">LIXIL presents ANTLERS REPORT #51</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930014000 +0900" stop="20130930021000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">アルビレックスタイムス #33</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930021000 +0900" stop="20130930031000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">URAWAチャンネル #39</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930031000 +0900" stop="20130930033000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930033000 +0900" stop="20130930060000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J1第27節 C大阪×磐田</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930063000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930063000 +0900" stop="20130930070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930080000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">カートゥーンでSHOW　パワーパフ ガールズ/アドベンチャー・タイム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930083000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">日テレＧ＋スペシャル#50</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930083000 +0900" stop="20130930090000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">美男料理<イケメンCooking>＃14</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930093000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日テレNEWS24</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930093000 +0900" stop="20130930100000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930100000 +0900" stop="20130930113000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">エンタメ〜テレアワー二丁目なう＃２７＆アイドル☆ピット２＃４</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930113000 +0900" stop="20130930120000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">MUSIC VIDEO SELECTION #38</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930125000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Johnnys'Jr. land／ジャニーズJr.ランド#101</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930125000 +0900" stop="20130930130000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930143000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">THE PRIZE　悩ましき男たちの肖像</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930143000 +0900" stop="20130930144500 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930144500 +0900" stop="20130930150000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビートップリーグ 13/14シーズンプレビュー</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930170000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ラグビー 関東大学対抗戦 日本体育大×慶応義塾大</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930174000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】THEE MICHELLE GUN ELEPHANT秘蔵映像</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930174000 +0900" stop="20130930180000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】ナショジオアワー ミステリーツアー：ダイオウイカ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930200000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】CNN/US 米国版〜ニュー・デイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930222000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】ソフィー・マルソーの三銃士 [イマジカBS]</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930222000 +0900" stop="20130930223000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930223000 +0900" stop="20130930230000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】UEFA Champions League 13/14観戦ガイド</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20131001012000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">13/14 セリエA 第6節 カリアリ×インテル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001012000 +0900" stop="20131001015000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">UEFAチャンピオンズリーグマガジン #6</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001015000 +0900" stop="20131001020000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001020000 +0900" stop="20131001030000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">Pigooセレクション#07</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001030000 +0900" stop="20131001033000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001033000 +0900" stop="20131001060000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J1第27節 名古屋×川崎F</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001060000 +0900" stop="20131001063000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞深1時からゲームセンターCXin ASIA</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001063000 +0900" stop="20131001070000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">e-天気.net</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001070000 +0900" stop="20131001073000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">LIXIL presents ANTLERS REPORT #51</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001073000 +0900" stop="20131001080000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">アルビレックスタイムス #33</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001080000 +0900" stop="20131001083000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">GAMBA FAMILY #6</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001083000 +0900" stop="20131001090000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日経CNBC 日米マーケットリレー 朝エクスプレス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001090000 +0900" stop="20131001093000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日テレNEWS24</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001093000 +0900" stop="20131001100000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】オモシロ番組∞深1時からゲームセンターCXin ASIA</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001100000 +0900" stop="20131001122000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">ソフィー・マルソーの三銃士 [イマジカBS]</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001122000 +0900" stop="20131001123000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001123000 +0900" stop="20131001130000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">新世界よりクロニクル #2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20131001130000 +0900" stop="20131001153000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">2013 J1第27節 鹿島×大分</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001153000 +0900" stop="20131001160000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">UEFAチャンピオンズリーグマガジン #6</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001160000 +0900" stop="20131001170000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">開幕直前SP 丸山茂樹が語るザ・プレジデンツカップの全て #1〜4</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001170000 +0900" stop="20131001180000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】カートゥーンでSHOW　パワーパフ ガールズ/アドベンチャー・タイム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20131001180000 +0900" stop="20131001183000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】日テレＧ＋スペシャル#50</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20131001183000 +0900" stop="20131001190000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】美男料理<イケメンCooking>＃14</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001190000 +0900" stop="20131001200000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】CNN/US 米国版〜ニュー・デイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001200000 +0900" stop="20131001205000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】【ディスカバリー】地球の過去と未来：45億年の物語</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001205000 +0900" stop="20131001210000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001210000 +0900" stop="20131001220000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】ナショジオアワー 解明！ストーンヘンジ・コード</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001220000 +0900" stop="20131001224000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">THEE MICHELLE GUN ELEPHANT秘蔵映像</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001224000 +0900" stop="20131001230000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">【無】番組案内</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001230000 +0900" stop="20131002000000 +0900" channel="4241.epgdata.ontvjapan" >
+    <title lang="ja_JP">パチマガMEGAWARS XX 第十二章　#1</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+</tv>

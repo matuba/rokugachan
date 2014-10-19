@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
+<link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/bootstrap.css")">
+<link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
+
+<script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/jquery.bottom-1.0.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/jQuery.ajaxQueue.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/jquery.marquee.min.js")" type="text/javascript"></script>
+
+<script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/tvlisting.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/informationBar.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/slidr.js")" type="text/javascript"></script>
+<script>
+nowTime = new Date()
+prependTime = new Date()
+appendTime = new Date()
+$(function() {
+	nowTime = new Date(2013, 9, 24, 21, 40, 0);
+	prependTime = new Date(2013, 9, 24, 21, 40, 0);
+	appendTime = new Date(2013, 9, 24, 21, 40, 0);
+	prependTime = new Date(prependTime.getTime() - (1000 * 60 * 60 * 4))
+	appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
+
+	createTimeTable( nowTime.getTime(), "#tvlistingTime")
+	prependTimeTable("#tvlistingTime")
+	appendTimeTable("#tvlistingTime")
+
+//	var tvlistings = new Array(9)
+//	var channelNames = new Array("4101","26","25","24","23","22","21","20","18")
+	var tvlistings = new Array(1)
+	var channelNames = new Array("4101")
+
+	for(var i=0;i<tvlistings.length;i++){
+		indexName = String(i+1);
+		tvlistings[i] = new Tvlisting( "#tvlisting" + indexName, "#title" + indexName, channelNames[i], 240, 240 * 4)
+	}
+	var infobar = new InformationBar()
+	
+	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
+	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
+	for(var i=0;i<9;i++){
+		tvlistings[i].getChannelName()
+		tvlistings[i].createListingTable(nowTime)
+		tvlistings[i].prependTr(prependTime)
+		tvlistings[i].appendTr(nextTime)
+	}
+	scrollBy( 0, 1200)
+	$(window).bind("scroll", function() {
+		scrollHeight = $(document).height();
+		scrollPosition = $(window).height() + $(window).scrollTop();
+		if (
+			   !tvlistings[0].getLoading() 
+			&& !tvlistings[1].getLoading() 
+			&& !tvlistings[2].getLoading() 
+			&& !tvlistings[3].getLoading() 
+			&& !tvlistings[4].getLoading() 
+			&& !tvlistings[5].getLoading() 
+			&& !tvlistings[6].getLoading() 
+			&& !tvlistings[7].getLoading() 
+			&& !tvlistings[8].getLoading() 
+			&& (scrollHeight - scrollPosition) / scrollHeight <= 0.3
+			) {
+			appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
+			appendTimeTable("#tvlistingTime")
+			for(var i=0;i<9;i++){
+				tvlistings[i].appendTr( appendTime)
+			}
+		}
+		if (
+				   !tvlistings[0].getLoading() 
+				&& !tvlistings[1].getLoading() 
+				&& !tvlistings[2].getLoading() 
+				&& !tvlistings[3].getLoading() 
+				&& !tvlistings[4].getLoading() 
+				&& !tvlistings[5].getLoading() 
+				&& !tvlistings[6].getLoading() 
+				&& !tvlistings[7].getLoading() 
+				&& !tvlistings[8].getLoading() 
+				&& (scrollHeight - scrollPosition) / scrollHeight >= 0.4
+				) {
+			prependTime = new Date(prependTime.getTime() - (1000 * 60 * 60 * 4))
+			prependTimeTable( "#tvlistingTime")
+			for(var i=0;i<9;i++){
+				tvlistings[i].prependTr( prependTime)
+			}
+			scrollBy( 0, 960)
+		}
+	});
+});
+</script>
+		
+</head>
+<body>
+	<div id="information" class="navbar navbar-inverse navbar-fixed-top">
+<div id="floating-left">
+	<i class="icon-chevron-left icon-white" style="zoom: 150%;"></i>
+</div>
+<div id="floating-right">
+	<i class="icon-chevron-right icon-white" style="zoom: 150%;"></i>
+</div>
+
+		<div class="navbar-inner">
+			<div id="information_on" class="container" style="display:none;">
+				<div class="nav-collapse collapse">
+					<ul class="nav">
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;">地上</a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;">BS</a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;">CS</a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;">My Listings</a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;">予約一覧</a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;">番組検索</a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a data-toggle="modal" href="#config" style="padding: 0px 0px 0px 0px;">設定</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div id="information_off" class="container">
+				<div class="nav-collapse collapse">
+					<ul class="nav">
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 32px 0px 0px;"><div id="infoTime">　</div></a>
+						</li>
+						<li class="active" style="font-size:small;">
+							<a href="#" style="padding: 0px 0px 0px 0px;"><div class='marquee'>　</div></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div style="width:1290px; margin:0 auto 0 auto;">
+				<table class="table table-bordered table-condensed" style="margin:0;padding:0;border:0;width: 30px; float: left;">
+					<tr><td style="border:0;text-align:center;font-size:x-small;color:white;padding:0;table-layout:fixed;">&nbsp</td></tr>
+				</table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title1"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title2"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title3"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title4"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title5"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title6"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title7"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title8"></td></tr></table>
+				<table class="table table-bordered table-condensed channelname"><tr><td id="title9"></td></tr></table>
+			</div>
+		</div>
+	</div>
+	<div style="width:1290px; margin:0 auto 0 auto;">
+		<table id="tvlistingTime" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting1" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting2" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting3" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting4" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting5" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting6" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting7" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting8" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting9" class="table table-bordered table-condensed"></table>
+	</div>
+	<div style="width:1290px; margin:0 auto 0 auto;visibility: hidden;">
+		<table id="tvlistingTime" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting10" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting11" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting12" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting13" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting14" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting15" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting16" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting17" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting18" class="table table-bordered table-condensed"></table>
+	</div>
+	<div style="width:1290px; margin:0 auto 0 auto;visibility: hidden;">
+		<table id="tvlistingTime" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting20" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting21" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting22" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting23" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting24" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting25" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting26" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting27" class="table table-bordered table-condensed"></table>
+		<table id="tvlisting28" class="table table-bordered table-condensed"></table>
+	</div>
+
+	<div id="config" class="modal hide">
+		<form class="form-horizontal">
+			<div class="modal-header">
+				<a class="close" data-dismiss="modal">&times;</a>
+				<h3>設定</h3>
+			</div>
+			<div class="modal-body">
+				<h4>イベント設定</h4>
+				<p>
+					<div class="control-group">
+						<label class="control-label" for="listingsGetStartH">番組表取得時間</label>
+						<div class="controls">
+							<input class="input-mini focused" id="listingsGetStartH"
+								type="text" value="">:
+							<input class="input-mini focused" id="listingsGetStartM"
+								type="text" value="">
+						</div>
+					</div>
+				</p>
+
+				<h4>ディレクトリ設定</h4>
+				<p>
+					<div class="control-group">
+						<label class="control-label" for="recordFileSaveDir">録画ファイル保存先</label>
+						<div class="controls">
+							<input class="input-large focused" id="recordFileSaveDir"
+								type="text" value="">
+						</div>
+					</div>
+					<div class="control-group">
+						<label class="control-label" for="listingsFileSaveDir">番組表ファイル保存先</label>
+						<div class="controls">
+							<input class="input-large focused" id="listingsFileSaveDir"
+								type="text" value="">
+						</div>
+					</div>
+				</p>
+
+			</div>
+
+			<div class="modal-footer">
+				<a href="#" class="btn btn-primary">変更を保存する</a> <a href="#"
+					class="btn" data-dismiss="modal">閉じる</a>
+			</div>
+		</form>
+	</div>
+
+</body>
+</html>
+
+

@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4103.epgdata.ontvjapan">
+    <display-name lang="ja_JP">NHK BSプレミアム</display-name>
+  </channel>
+  <programme start="20130924210000 +0900" stop="20130924224600 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「幸福（しあわせ）のスイッチ」＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">和歌山県田辺市を舞台に、小さな電器店を営む父親と三姉妹の交流を描いた心あたたまるヒューマン・ドラマ。主演は上野樹里。頑固な父親役を沢田研二が好演。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130924224600 +0900" stop="20130924225000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「輝く女　杏」</title>
+    <desc lang="ja_JP">【出演】杏</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924225000 +0900" stop="20130924225500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">５分でわかる「馬医」（１２）「訪れた転機」</title>
+    <desc lang="ja_JP">巨匠イ・ビョンフン監督最新作。馬の医者から王の主治医にまでなった男ペク・クァンヒョンの波乱に満ちた生涯を描くメディカル史劇。第１２回を５分ダイジェストでご紹介！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924225500 +0900" stop="20130924230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">「花は咲く」岩井俊二：作詞，菅野よう子：作曲</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５２）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130924231500 +0900" stop="20130924234500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">写ねーる「おいしい写真」【字】</title>
+    <desc lang="ja_JP">見て食べてオイシイ写真を一挙に紹介！あの、うどん県副知事、要潤さんも投稿に参加！料理写真をＳＮＳにＵＰするのは当たり前。今や、そのために「料理写真教室」がある？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130924234500 +0900" stop="20130925004500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">洋楽倶楽部　伝説のヤング・ミュージック・ショー「ＫＩＳＳ」</title>
+    <desc lang="ja_JP">１９７０年代から８０年代にかけて、貴重な洋楽ライブを放送し人気を集めた「ヤング・ミュージック・ショー」から、１９７７年に初来日を果たしたＫＩＳＳの回を放送する。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925004500 +0900" stop="20130925024500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作選　ハイビジョン特集「アフリカ縦断１１４日の旅（２）エチオピア・ケニア」【字】</title>
+    <desc lang="ja_JP">「アフリカ縦断の旅」の第２回。エチオピアの山岳国立公園のトレッキングや、一枚岩を掘り抜いて造られた岩窟（くつ）教会。ケニアでは赤道、野生動物との出会いを楽しむ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925024500 +0900" stop="20130925025000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">沖縄海中紀行「サンゴから生まれ出る命」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925025000 +0900" stop="20130925030000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">旅のアルバム　世界の工芸品「タペストリー〜イタリア〜」</title>
+    <desc lang="ja_JP">【語り】天野ひかり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925040000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハイビジョンウインドー「フロリダ」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925040000 +0900" stop="20130925043000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">六大陸まちかど紀行「インド」</title>
+    <desc lang="ja_JP">田京恵</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925043000 +0900" stop="20130925050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">さわやかウインドー「碓氷峠　廃線を行く」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925050000 +0900" stop="20130925053000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">グランド・グルメ　ヨーロッパ食材紀行「実りの秋のコメに生きる〜イタリア」【字】</title>
+    <desc lang="ja_JP">【ナレーター】鈴木陽子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925053000 +0900" stop="20130925060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">青海チベット鉄道</title>
+    <desc lang="ja_JP">中国の大都市とチベット自治区ラサを直結する「青海チベット鉄道」が２００６年に開通。“秘境”チベットは一気に身近になった。夏の観光シーズンには大量の客を送り込む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925065500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">クラシック倶楽部　ギドン・クレーメル＆クレメラータ・バルティカ演奏会</title>
+    <desc lang="ja_JP">ギドン・クレーメル＆クレメラータ・バルティカ演奏会▽交響曲　第１０番　イ短調　作品９８（ヴァインベルク作曲）ほか</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925065500 +0900" stop="20130925070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ先取り情報「１０月号」</title>
+    <desc lang="ja_JP">１０月のＢＳおすすめ番組</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925071000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニッポンの里山　ふるさとの絶景に出会う旅「南国　チョウの庭　沖縄県竹富島」</title>
+    <desc lang="ja_JP">ニッポンの里山を紹介するシリーズ。今日は沖縄県の竹富島。色とりどりの花が一年中咲き誇り、島はチョウの楽園。日本最大のオオゴマダラも登場。羽化の瞬間を捉えた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925071000 +0900" stop="20130925071500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「鎌倉の雲水」</title>
+    <desc lang="ja_JP">古都・鎌倉で見かける修行僧の姿。家々を訪ね、ほどこしを受けるたく鉢修行に励む雲水である。禅宗の寺・建長寺で修行する雲水たちの一日を描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925071500 +0900" stop="20130925073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　純情きらり（１４７）「夢にみた演奏会」【解】【字】</title>
+    <desc lang="ja_JP">戦争に揺れる昭和を駆け抜けたヒロイン・桜子（宮﨑あおい）を描く一代記。事故で父親を失った桜子は、音楽への思いを捨てず、きょうだいと共に激動の時代を生き抜く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925073000 +0900" stop="20130925074500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５３）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925074500 +0900" stop="20130925080000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５０日目　北海道砂川市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破です！今回訪ねるのは全国二位の流域面積を誇る石狩川の中流域・砂川市。気ままな自転車旅をどうぞ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925090000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">新日本風土記「大阪　通天閣と新世界」【字】</title>
+    <desc lang="ja_JP">大阪のシンボル・通天閣とその下に広がる新世界。歌い手と客が一体となってステージを作る歌謡劇場、名物オカンがいる立ち飲み屋さん…ディープな大阪の魅力を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925110200 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムアーカイブス　ハイビジョン特集「関口知宏が行く　ドイツ鉄道の旅」【字】</title>
+    <desc lang="ja_JP">テレビ６０年を振り返り、コラムニスト天野祐吉さんが選んだハイビジョン特集「関口知宏が行く　ドイツ鉄道の旅」を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925110200 +0900" stop="20130925110500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「黒猫、ときどき花屋」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925110500 +0900" stop="20130925113500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">きらり！えん旅　ライブスペシャル〜八代亜紀　ｉｎ　岩手・陸前高田市〜【字】</title>
+    <desc lang="ja_JP">「きらり！えん旅」の被災地ライブをじっくり聞いてもらう特別編。八代亜紀さんが岩手県陸前高田市で行ったコンサートを紹介。名曲と温かいメッセージを被災者に贈る。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925113500 +0900" stop="20130925115000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５０日目　北海道砂川市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破です！今回訪ねるのは全国二位の流域面積を誇る石狩川の中流域・砂川市。気ままな自転車旅をどうぞ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925115000 +0900" stop="20130925115500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＳＬミニ図鑑「アメリカ　コグ鉄道」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925115500 +0900" stop="20130925120000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「鎌倉の雲水」</title>
+    <desc lang="ja_JP">古都・鎌倉で見かける修行僧の姿。家々を訪ね、ほどこしを受けるたく鉢修行に励む雲水である。禅宗の寺・建長寺で修行する雲水たちの一日を描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925124500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アインシュタインの眼「徹底比較　イヌＶＳネコ」【字】</title>
+    <desc lang="ja_JP">今回は、人気の２大ペット、イヌとネコを性格・運動能力・マナーの３つの観点から、徹底比較。それぞれの生態を浮き彫りにし、その魅力に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925124500 +0900" stop="20130925130000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">シリーズ歌謡ロマン〜石川さゆり・躍動〜</title>
+    <desc lang="ja_JP">１人の歌手の歌手人生を４本の１５分番組でひも解く「シリーズ歌謡ロマン」石川さゆり第３弾・躍動。演じて歌う石川さゆりの独自の世界の確立「滝の白糸」「風の盆恋歌」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925151000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「めまい」＜字幕スーパー＞　＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">サスペンスの巨匠アルフレッド・ヒッチコック監督の最高傑作のひとつ。美女の自殺の裏に隠された巧妙なトリックを、謎めいたロマンスとともに描いたミステリー。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130925151000 +0900" stop="20130925160000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイルドライフ「大西洋フォークランド諸島　ペンギンが走り跳ぶ」</title>
+    <desc lang="ja_JP">大西洋に浮かぶフォークランド諸島は世界有数のペンギンの繁殖地。夏、断崖や草原で、個性豊かなペンギンたちが、襲いかかる試練に立ち向かいながら子育てを繰り広げる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925164600 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作時代劇　女ねずみ小僧（２）「月がとっても青いから」</title>
+    <desc lang="ja_JP">大地真央主演の女ねずみ小僧が活躍する痛快時代劇。連続乳飲み子誘拐犯の汚名を着せられたねずみ小僧。その事件の裏には伊勢屋父娘のかなしくも残酷な過去が隠されていた。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925164600 +0900" stop="20130925165000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ＢＳ時代劇雲霧仁左衛門　１０月から放送開始」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925165000 +0900" stop="20130925165500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">５分でわかる「馬医」（１２）「訪れた転機」</title>
+    <desc lang="ja_JP">巨匠イ・ビョンフン監督最新作。馬の医者から王の主治医にまでなった男ペク・クァンヒョンの波乱に満ちた生涯を描くメディカル史劇。第１２回を５分ダイジェストでご紹介！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925165500 +0900" stop="20130925170000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">山川草木「パタゴニア　蒼（あお）い湖」</title>
+    <desc lang="ja_JP">【音楽】石川泰</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">第３８期　囲碁名人戦「第３局・１日目」</title>
+    <desc lang="ja_JP">名人位をかけて、山下敬吾名人に井山裕太棋聖が挑戦します。２年前に山下に敗れ、名人位を失った井山がその時の借りを返すのか！山下が返り討ちにするのか注目の七番勝負。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925182900 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンワンパッコロ！キャラともワールド　夢の共演！人気キャラクター</title>
+    <desc lang="ja_JP">Ｅテレのワンワンが、人気キャラクターと夢の共演。「ぐ〜チョコランタン」ズズが登場！ダンゴ虫と体が入れ替ったほのぼのを救え！「もしも季節がいちどにきたら」も紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925182900 +0900" stop="20130925183000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">みんな大好き　ワンワン「北九州」（１）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925183000 +0900" stop="20130925185500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　アルプスの少女ハイジ「クララが歩いた」</title>
+    <desc lang="ja_JP">幼くして両親を亡くし、アルプスの山小屋に住む父方の祖父に預けられることになった少女・ハイジ。アルプスの雄大な自然の中で暮らしながら、色々なことを学んでいきます。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130925185500 +0900" stop="20130925185700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「欽ちゃんの全国びっくり王＃３」</title>
+    <desc lang="ja_JP">【司会】萩本欽一</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925185700 +0900" stop="20130925190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「黒猫、ときどき花屋」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925190000 +0900" stop="20130925191500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　てっぱん（１４８）「かならず朝は来る」【解】【字】</title>
+    <desc lang="ja_JP">あかり（瀧本美織）の誕生日を前に、初音（富司純子）は田中荘を売り払うと宣言する。店に縛られている孫を思ってのことだったが、あかりは納得できず…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925191500 +0900" stop="20130925193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５０日目　北海道砂川市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破です！今回訪ねるのは全国二位の流域面積を誇る石狩川の中流域・砂川市。気ままな自転車旅をどうぞ！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925193000 +0900" stop="20130925200000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">釣りびと万歳▽旬を先取り！大物サワラを“ゲッツ”〜ダンディ坂野　京都・京丹後へ【字】</title>
+    <desc lang="ja_JP">釣りびとは、お笑いタレントのダンディ坂野さん。釣り大会で入賞するほどの腕前だが、今回挑むのは、シーズン始まったばかりのサワラ。難易度は高い。大物ゲッツなるか！？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925200000 +0900" stop="20130925210000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ少年倶楽部　セレクションスペシャル「８月号」</title>
+    <desc lang="ja_JP">８月に放送された「ザ少年倶楽部」の中から、歌の名場面を中心にセレクトしてお届けします。放送には収録しきれなかったスタンバイ中の未公開トーク、さらに収録秘話も！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925220000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">めざせ！グルメスター「ご当地ラーメン対決スペシャル！」【字】</title>
+    <desc lang="ja_JP">ご当地グルメの定番・ラーメン。３つの新ご当地ラーメンの開発者たちが工夫をこらしたＰＲ合戦で競い合う。行って食べてみたいラーメンＮｏ．１に輝くのはどのラーメンか？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925224500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">輝く女「杏」（前編）【字】</title>
+    <desc lang="ja_JP">連続テレビ小説「ごちそうさん」で主役を演じる女優・杏さんの魅力に２週連続で迫るドキュメンタリーの前編。ドラマの舞台となる大阪で役作りに奮闘する彼女を追います。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925224500 +0900" stop="20130925225000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅ミニ「火野正平の旅日記　秋田県　その２」</title>
+    <desc lang="ja_JP">俳優の火野正平さんが視聴者からのお手紙に書かれた「こころの風景」を毎日、自転車で訪ねる「こころ旅」。２０１１年の秋田県の旅から、名場面をちょっとだけ紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925225000 +0900" stop="20130925230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">再起動（リブート）！「怪奇大作戦」プロファイリング大作戦「ミッション２」</title>
+    <desc lang="ja_JP">「ミッション２“怪奇”を暴くものたち（キャスト編）」　【ナビゲーター】村井良大，【出演】勝呂誉，橋本洋二，【語り】中山準之助</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130925231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５３）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925231500 +0900" stop="20130925234500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">武蔵野ぶらり鉄道旅「ＪＲ線」【字】</title>
+    <desc lang="ja_JP">東京・池袋から下りの通勤電車に乗って、ぶらり旅。ＪＲ線で、さいたま新都心を北上、栗橋を目指す。タレントの森尾由美さんが武蔵野の自然を体感。絶景やグルメを満喫する</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130925234500 +0900" stop="20130926004700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">シークレット・ガーデン（３）「完璧な男」ノーカット・字幕版</title>
+    <desc lang="ja_JP">ハ・ジウォン×ヒョンビン主演の純愛ラブストーリーをノーカット・字幕版で放送。撮影監督にいびられていたライムを助けたキム・ジュウォン。だがライムの態度はつれない。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926004700 +0900" stop="20130926005000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ワンス・アポン・ア・タイム」</title>
+    <desc lang="ja_JP">【出演】乃村健次</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926005000 +0900" stop="20130926025300 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作選　ハイビジョン特集「アフリカ縦断の旅（３）ケニア・ウガンダ・タンザニア」【字】</title>
+    <desc lang="ja_JP">「アフリカ縦断の旅」第３回は、東アフリカのサバンナ、熱帯雨林、キリマンジャロなど大自然が舞台。２００８年放送。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926025300 +0900" stop="20130926025500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926025500 +0900" stop="20130926030000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">中国・ティーブレイク紀行「武夷岩茶」</title>
+    <desc lang="ja_JP">【ナレーション】兼清麻美</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926040000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">サンゴ礁　水中散歩　－　オーストラリア　グレートバリアリーフ　－</title>
+    <desc lang="ja_JP">オーストラリアのグレートバリアリーフは、全長２０００キロ、総面積３５万平方キロに及ぶ世界最大のサンゴ礁、その美しさと壮大さをお届けする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926040000 +0900" stop="20130926043000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">灯（あか）りのジャパネスク　▽東京・横浜・奈良・京都・大阪・神戸　ほか</title>
+    <desc lang="ja_JP">▽東京・横浜・奈良・京都・大阪・神戸など伝統を受け継ぐ現代の日本の灯（あか）りの世界を、ナレーションを入れず、音楽のみでつづるハイビジョン映像詩</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926043000 +0900" stop="20130926050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">さわやかウインドー「甲州　ワインの香る里」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926050000 +0900" stop="20130926051500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">自然へのいざない「南米パタゴニア〜大海の巧みな狩人・シャチ〜」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926051500 +0900" stop="20130926053000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">自然へのいざない「大西洋バハマ諸島〜イセエビ奇妙な行進」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926053000 +0900" stop="20130926055500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">生命の大地・地球「ロッキーの森と草原〜北米・イエローストーン国立公園〜」【字】</title>
+    <desc lang="ja_JP">【語り】中島裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926055500 +0900" stop="20130926060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界自然遺産　知床「流氷誕生」</title>
+    <desc lang="ja_JP">【語り】佐藤龍文</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926065500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">クラシック倶楽部　Ｃ．プレガルディエン＆Ａ．シュタイアーリサイタル</title>
+    <desc lang="ja_JP">「歌曲集　第３集　作品７７から“陽気なさすらい人”」　「ロマンスとバラード　作品４５から“宝を掘る人”“春の旅”」　アイヒェンドルフ詩</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130926065500 +0900" stop="20130926070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">５分でわかる「馬医」（１２）「訪れた転機」</title>
+    <desc lang="ja_JP">巨匠イ・ビョンフン監督最新作。馬の医者から王の主治医にまでなった男ペク・クァンヒョンの波乱に満ちた生涯を描くメディカル史劇。第１２回を５分ダイジェストでご紹介！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926071000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニッポンの里山　ふるさとの絶景に出会う旅▽サシバのゆりかご・屋敷林　千葉県匝瑳市</title>
+    <desc lang="ja_JP">ニッポンの里山を紹介するシリーズ。今日訪ねるのは巨木の街、千葉県の匝瑳市。中には樹齢１０００年とも言われる木もあり、そこはサシバなど様々な生き物の住処だ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926071000 +0900" stop="20130926071500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「聖なる島　雄島」</title>
+    <desc lang="ja_JP">日本三景のひとつ、宮城県松島。その奥の院と呼ばれる雄島には、全国から遺骨が運ばれ埋葬されるという風習が、平安から明治に至るまで続いた。聖なる島の歴史を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926071500 +0900" stop="20130926073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　純情きらり（１４８）「夢にみた演奏会」【解】【字】</title>
+    <desc lang="ja_JP">戦争に揺れる昭和を駆け抜けたヒロイン・桜子（宮﨑あおい）を描く一代記。事故で父親を失った桜子は、音楽への思いを捨てず、きょうだいと共に激動の時代を生き抜く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926073000 +0900" stop="20130926074500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５４）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926074500 +0900" stop="20130926080000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５１日目　北海道札幌市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破です！今回の目的地は、北海道最大の都市、札幌市。お手紙に書かれた“こころの風景”を訪ねます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926090000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">めざせ！グルメスター「イカす！母の味　弘前いがめんち（青森県・弘前市）」【字】</title>
+    <desc lang="ja_JP">青森弘前市のおふくろの味「弘前いがめんち」。青森特産のイカと地元の野菜を揚げた、地元では知らない人はいない絶品お惣菜だ。全国デビューを目指す大作戦が始まった！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926102700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムアーカイブス「プロジェクトＸ　挑戦者たち」「クローズアップ」</title>
+    <desc lang="ja_JP">テレビ６０年を振り返り、コラムニスト天野祐吉さんが選んだプロジェクトＸ「巨大台風から日本を守れ」とクローズアップ「大地誕生〜西之島新島〜」を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926102700 +0900" stop="20130926103000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「欽ちゃんの全国びっくり王＃３」</title>
+    <desc lang="ja_JP">【司会】萩本欽一</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926103000 +0900" stop="20130926105500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界ＳＬ紀行「石畳の町をＳＬが行く　ドイツ　モリー鉄道」</title>
+    <desc lang="ja_JP">ドイツ北部、バルト海に面したリゾート地を走る、モリー鉄道。美しい石畳の街を、鐘を鳴らしながら走る姿は、多くのＳＬファンを魅了し続けている。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926105500 +0900" stop="20130926110000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">明治を駆け抜ける八重と襄</title>
+    <desc lang="ja_JP">舞台が京都に移る大河ドラマ『八重の桜』。八重とその夫となる新島襄はいかに出会い、困難を乗り越えていったのか。波乱と愛情に満ちた二人の生き方の魅力に迫る。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926113000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん百名山「八ヶ岳」【字】</title>
+    <desc lang="ja_JP">長野と山梨の県境に峰を連ねる八ヶ岳、小淵沢近くの富士見高原から西岳を経て、高山植物の花咲く岩尾根を縦走し権現岳へ、岩壁を登って最高峰の赤岳（２８９９ｍ）をめざす</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926113000 +0900" stop="20130926114500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５１日目　北海道札幌市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破です！今回の目的地は、北海道最大の都市、札幌市。お手紙に書かれた“こころの風景”を訪ねます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926114500 +0900" stop="20130926115500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">大いなる自然　　－地球のアルバム－　「水と森が生んだ奇跡の谷〜中国・九寨溝」</title>
+    <desc lang="ja_JP">【ナレーション】中島裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926115500 +0900" stop="20130926120000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「聖なる島　雄島」</title>
+    <desc lang="ja_JP">日本三景のひとつ、宮城県松島。その奥の院と呼ばれる雄島には、全国から遺骨が運ばれ埋葬されるという風習が、平安から明治に至るまで続いた。聖なる島の歴史を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926123000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">イッピン「木を生かす魅惑のデザイン〜福岡　大川家具〜」【字】</title>
+    <desc lang="ja_JP">今回は、福岡県の大川家具。国内有数の家具の街・大川市で作られる斬新な家具が続々登場！そこに隠された伝統のスゴ技とは？俳優・岡田義徳がその魅力を徹底リサーチする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926123000 +0900" stop="20130926130000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">宿坊「木村多江〜長崎・霊源院〜」〜ココロとカラダ満つる時間（とき）〜【字】</title>
+    <desc lang="ja_JP">女優の木村多江が長崎の霊源院を訪ねる。１泊２日の修行を通してどんな素顔を見せるのか。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926143100 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「集団奉行所破り」＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">悪奉行に財産と命まで奪われた恩人のあだ討ちのため、奉行所破りを計画する元海賊とその仲間たちを描いたアクション時代劇。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926143100 +0900" stop="20130926143500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926143500 +0900" stop="20130926144000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">山川草木「南アフリカ　喜望峰」</title>
+    <desc lang="ja_JP">【音楽】石川泰</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926144000 +0900" stop="20130926155500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＨＶスペシャル　トレッキングエッセイ紀行▽岩稜と氷雪の彼方に〜イタリア・ドロミテ</title>
+    <desc lang="ja_JP">作家・角田光代さんが巨大な岩が連なるイタリアのドロミテ山脈を歩く。夕日に染まる巨岩、谷底へ落ちる絶壁。格闘の末どんな文章が生み出されたのか？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926155500 +0900" stop="20130926160000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＳＬミニ図鑑「明治期の輸入ＳＬ」（１）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">第３８期　囲碁名人戦「第３局・２日目」</title>
+    <desc lang="ja_JP">名人位をかけて、山下敬吾名人に井山裕太棋聖が挑戦します。２年前に山下に敗れ、名人位を失った井山がその時の借りを返すのか！山下が返り討ちにするのか注目の七番勝負。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926182900 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワラッチャオ！「＃３」</title>
+    <desc lang="ja_JP">４〜６歳の子供に楽しい笑いを届ける子供番組「ワラッチャオ！」。毒舌のドックンなどかわいいキャラが活躍！野菜嫌いな子供に送る歌「カレーにんじゃ」、ミニアニメなど。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926182900 +0900" stop="20130926183000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">みんな大好き　ワンワン「北九州」（２）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926183000 +0900" stop="20130926185500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　楽しいムーミン一家「ご先祖様で大さわぎ」</title>
+    <desc lang="ja_JP">夢見がちなムーミン。優しいムーミンパパとママ。冒険と孤独を愛するスナフキン。ムーミンの恋人フローレン…。ムーミン谷の仲間たちが活躍する夢と冒険の心優しいお話。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130926185500 +0900" stop="20130926190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">５分でわかる「馬医」（１２）「訪れた転機」</title>
+    <desc lang="ja_JP">巨匠イ・ビョンフン監督最新作。馬の医者から王の主治医にまでなった男ペク・クァンヒョンの波乱に満ちた生涯を描くメディカル史劇。第１２回を５分ダイジェストでご紹介！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926191500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　てっぱん（１４９）「かならず朝は来る」【解】【字】</title>
+    <desc lang="ja_JP">滝沢（長田成哉）があかり（瀧本美織）を迎えに来たことを喜ぶかのような初音（富司純子）の態度に、あかりは下宿を引き払おうと荷物をまとめ始めるが…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926191500 +0900" stop="20130926193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５１日目　北海道札幌市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破です！今回の目的地は、北海道最大の都市、札幌市。お手紙に書かれた“こころの風景”を訪ねます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926193000 +0900" stop="20130926200000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">きらり！えん旅〜中村あゆみ　岩手・久慈市へ〜【字】</title>
+    <desc lang="ja_JP">歌手の中村あゆみさんが岩手県久慈市を訪れた。「あまちゃん」でおなじみの北限の海女の素潜り漁や闘牛の模擬試合を見学。秋祭りの山車の壮大な仕掛けにびっくり。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926200000 +0900" stop="20130926213000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「やればやれるぜ全員集合！！」＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">ザ・ドリフターズによる“全員集合！！”シリーズ第２作目。憧れの女性を危機から救うため、集まった５人が大作戦を繰り広げる爆笑コメディー。共演は松尾嘉代、平尾昌晃。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926213000 +0900" stop="20130926220000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">武蔵野ぶらり鉄道旅「西武池袋線」【字】</title>
+    <desc lang="ja_JP">雑木林が美しい武蔵野。東京・池袋から下りの通勤電車に乗ってぶらり旅。西武池袋線で目指すのは、所沢・秩父方面。旅人のゴルゴ松本さんが「トトロの森」や茶つみを体験。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">コズミック　フロント〜発見！驚異の大宇宙〜「天文将軍　徳川吉宗」【字】</title>
+    <desc lang="ja_JP">“暴れん坊将軍”として知られた徳川吉宗。その素顔は天文学者にして博物学者であり、江戸城に天文台を建設、自ら星を観測したという。江戸の科学の扉を開いた素顔に迫る！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130926231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５４）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926231500 +0900" stop="20130927000500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンス・アポン・ア・タイム（２）「この世で一番愛するもの」【二】【字】</title>
+    <desc lang="ja_JP">誰もが知るおとぎ話の、誰も知らない「もうひとつの物語」を描くファンタジー。おとぎ話の登場人物たちが、邪悪な呪いのせいで姿を変えて現代の町で暮らしていたら…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927000500 +0900" stop="20130927001500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">速報！囲碁名人戦「第３局」</title>
+    <desc lang="ja_JP">名人位をかけて、山下敬吾名人に井山裕太棋聖が挑戦します。２年前に山下に敗れ、名人位を失った井山がその時の借りを返すのか！山下が返り討ちにするのか注目の七番勝負。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927001500 +0900" stop="20130927025100 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">メモリーズ・オブ・宝塚〜懐かしき舞台・美しき人〜　星組「我が愛は山の彼方に」ほか</title>
+    <desc lang="ja_JP">９９年１１月の星組公演「我が愛は山の彼方に」「グレート・センチュリー〜メモリーズ＆メロディーズ〜」をお送りします。出演は、稔幸・星奈優里ほかの皆さんです。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927025100 +0900" stop="20130927025500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927025500 +0900" stop="20130927031000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">長江　天と地の水景色「大河よ　永遠に」</title>
+    <desc lang="ja_JP">全長６３００キロ、中国の母なる大河・長江。上流域から下流域まで様々な絶景を訪ねる。下流域では、貧しい漁村が金持ち村に変身、ハヨウ湖には一獲千金を狙う船が群がる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927031000 +0900" stop="20130927031500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＳＬミニ図鑑「オーストラリア　西海岸ウィルダネス鉄道」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927031500 +0900" stop="20130927041500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">映像と音楽・世界遺産フランス縦断の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927041500 +0900" stop="20130927042000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界自然遺産　知床「豊かな海のふしぎ」</title>
+    <desc lang="ja_JP">【語り】佐藤龍文</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927042000 +0900" stop="20130927050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の国立公園「アオラキ／マウントクック国立公園〜ニュージーランド・南島」</title>
+    <desc lang="ja_JP">ＮＺの屋根と呼ばれるマウント・クック国立公園の迫力ある風景、高山植物やトレッキングに訪れる人々や彼らの安全を守るレンジャーの活動、厳しい自然に暮らす動物を紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927050000 +0900" stop="20130927052600 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">野生の神秘「ハイエナ〜家族の意外な素顔」【二】</title>
+    <desc lang="ja_JP">【ナレーション】宮崎美子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927052600 +0900" stop="20130927052800 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「欽ちゃんの全国びっくり王＃３」</title>
+    <desc lang="ja_JP">【司会】萩本欽一</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927052800 +0900" stop="20130927053000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927053000 +0900" stop="20130927055500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界ＳＬ紀行「パラグアイ　アスンシオン〜パラグアイ鉄道〜」【字】</title>
+    <desc lang="ja_JP">パラグアイでは、旅客鉄道は廃止されたが、観光列車として蒸気機関車が復活した。首都アスンシオン市内の駅から、郊外のアレグア駅まで、毎週日曜に運行している。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927055500 +0900" stop="20130927060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">恋人たちの幻想曲「レット・イット・ビー」</title>
+    <desc lang="ja_JP">【朗読】小雪【作】阿木燿子【写真】原美樹子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927065500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">クラシック倶楽部　ヴィルデ・フラング　バイオリン・リサイタル</title>
+    <desc lang="ja_JP">ヴィルデ・フラング　バイオリン・リサイタル▽バイオリン・ソナタ　ヘ長調Ｋ．３７７（モーツァルト）▽バイオリン・ソナタ　第２番　ニ長調作品９４ａ（プロコフィエフ）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927065500 +0900" stop="20130927070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「菜の花ラインに乗りかえて」</title>
+    <desc lang="ja_JP">１０月９日放送の「千葉発地域ドラマ　菜の花ラインに乗りかえて」。吹石一恵、石黒賢、梅宮辰夫、浅田美代子ら、豪華出演者が紡ぐ心温まるドラマの魅力を２分間に凝縮！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927071000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニッポンの里山　ふるさとの絶景に出会う旅「満天星とホタルの棚田　岡山県井原市」</title>
+    <desc lang="ja_JP">ニッポンの里山を訪ねるミニ番組。今日は光を規制する条例を作り闇を大切にする岡山県の井原市美星町。初夏、棚田では満天の星空のもと、ホタルが瞬く絶景が現れる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927071000 +0900" stop="20130927071500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「南部もぐり　潜水士」</title>
+    <desc lang="ja_JP">岩手県洋野町に伝わる潜水技術、南部もぐり。その技を受け継ぐため、日本で唯一、潜水技術を学科として学べる高校がある。潜水士を夢見る学生たちが日々励む姿を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927071500 +0900" stop="20130927073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　純情きらり（１４９）「夢にみた演奏会」【解】【字】</title>
+    <desc lang="ja_JP">戦争に揺れる昭和を駆け抜けたヒロイン・桜子（宮﨑あおい）を描く一代記。事故で父親を失った桜子は、音楽への思いを捨てず、きょうだいと共に激動の時代を生き抜く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927073000 +0900" stop="20130927074500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５５）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927074500 +0900" stop="20130927080000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５２日目　北海道喜茂別町</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破！今回は“蝦夷富士”とも呼ばれる羊蹄山の麓、喜茂別町を目指します。火野さんの自転車旅をお楽しみに！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927090000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ歴史館「日本最強の怨霊　平将門〜なぜそんなに祟（たた）るのか〜」【字】</title>
+    <desc lang="ja_JP">怨霊としていまも恐れられ、同時に守り神として愛される平将門。東京・大手町にある首塚には今も参拝者が絶えない。人々を惹きつけてやまない将門の素顔を読み解く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927104500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムアーカイブス　課外授業ようこそ先輩　ほか</title>
+    <desc lang="ja_JP">テレビ６０年を振り返り、課外授業ようこそ先輩「おしゃべりマジックで強くなろう」と「イッセー尾形のたった二人の人生ドラマ」の二つの番組を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927104500 +0900" stop="20130927105500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハイビジョン動物記「シロミミオポッサム」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927105500 +0900" stop="20130927110000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">５分でわかる「馬医」（１２）「訪れた転機」</title>
+    <desc lang="ja_JP">巨匠イ・ビョンフン監督最新作。馬の医者から王の主治医にまでなった男ペク・クァンヒョンの波乱に満ちた生涯を描くメディカル史劇。第１２回を５分ダイジェストでご紹介！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927113000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">驚き！地球！グレートネイチャー「絶景！ダイヤモンドの大地〜ブラジル〜」【字】</title>
+    <desc lang="ja_JP">南米ブラジルに“世界屈指の絶景”を発見！壮観なテーブルマウンテン！断崖の巨大な滝！その名は「ダイヤモンドの高原」。長年ベールに包まれていた謎の秘境に迫る！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927113000 +0900" stop="20130927114500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５２日目　北海道喜茂別町</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破！今回は“蝦夷富士”とも呼ばれる羊蹄山の麓、喜茂別町を目指します。火野さんの自転車旅をお楽しみに！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927114500 +0900" stop="20130927115500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">大いなる自然「巨大高山植物〜東アフリカ・ケニア山」</title>
+    <desc lang="ja_JP">中島裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927115500 +0900" stop="20130927120000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「南部もぐり　潜水士」</title>
+    <desc lang="ja_JP">岩手県洋野町に伝わる潜水技術、南部もぐり。その技を受け継ぐため、日本で唯一、潜水技術を学科として学べる高校がある。潜水士を夢見る学生たちが日々励む姿を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927123000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">晴れ、ときどきファーム！「夏のなごり　秋のはしり　野菜の奥深さを味わおう」【字】</title>
+    <desc lang="ja_JP">残暑きびしい９月、夏の野菜の盛りを過ぎた「なごり野菜」と秋の旬を迎えようとする「はしり野菜」を使って、野菜のもつパワーをフルに楽しみます。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927123000 +0900" stop="20130927130000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">女神ビジュアル「寝坊しても安心！１０分きる朝の身だしなみ術」【字】</title>
+    <desc lang="ja_JP">寝過ごしてすぐ家を出たい時も、女性は身だしなみに時間がかかり大変。そこで髪のセット、メーク、着こなし、これを見た目バッチリで１０分で完成させる方法を紹介する。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927144600 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「シャイン」　＜字幕スーパー＞　＜レターボックスサイズ＞【SS】</title>
+    <desc lang="ja_JP">【監督】スコット・ヒックス　【出演】ジェフリー・ラッシュ，アーミン・ミューラー・スタール，ノア・テイラー　〜１９９５年　オーストラリア制作〜</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927144600 +0900" stop="20130927144800 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「欽ちゃんの全国びっくり王＃３」</title>
+    <desc lang="ja_JP">【司会】萩本欽一</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927144800 +0900" stop="20130927145000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「黒猫、ときどき花屋」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927145000 +0900" stop="20130927152500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">魔法の国のミステリー「ワンス・アポン・ア・タイム」の秘密【字】</title>
+    <desc lang="ja_JP">ＢＳプレミアムで毎週木曜夜放送中のファンタジードラマ「ワンス・アポン・ア・タイム」の魅力を、関根勤と中川翔子が紹介！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927152500 +0900" stop="20130927153000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">明治を駆け抜ける八重と襄</title>
+    <desc lang="ja_JP">舞台が京都に移る大河ドラマ『八重の桜』。八重とその夫となる新島襄はいかに出会い、困難を乗り越えていったのか。波乱と愛情に満ちた二人の生き方の魅力に迫る。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927153000 +0900" stop="20130927155500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">京都ふらふら　一の旅　清水へ　ぶらり街歩き</title>
+    <desc lang="ja_JP">京都の路地や知られざる名所を、カメラがあなたの目になって歩き、発見や出会いを楽しむ日本版「ふれあい街歩き」。祇園の路地や八坂神社、清水寺を巡り、出会った人々は？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927155500 +0900" stop="20130927160000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">イル・ディーヴォ　「花は咲く」を歌う</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927162500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳコンシェルジュ「特集ドラマ　怪奇大作戦〜原田美枝子〜」【字】</title>
+    <desc lang="ja_JP">特集ドラマ「怪奇大作戦　ミステリー・ファイル」に出演する原田美枝子さんをゲストにお迎えする。科学の力を駆使して難事件に挑むメンバーらの活躍やドラマの魅力を伺う。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927162500 +0900" stop="20130927163000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">シリーズ世界遺産１００「アッシジ〜イタリア〜」【字】</title>
+    <desc lang="ja_JP">－第２のキリスト－　▽文化遺産　【語り】松平定知　【テーマ音楽】久石譲</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927163000 +0900" stop="20130927180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ日本のうた　埼玉県・さいたま市【字】</title>
+    <desc lang="ja_JP">今回のスペシャルステージは、北島三郎、伍代夏子、長山洋子▽名曲イレブンは「みだれ髪」「空港」「花嫁」等を紹介▽神野美伽、田川寿美、新沼謙治ほか▽埼玉県さいたま市</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ少年倶楽部　セレクションスペシャル「８月号」</title>
+    <desc lang="ja_JP">８月に放送された「ザ少年倶楽部」の中から、歌の名場面を中心にセレクトしてお届けします。放送には収録しきれなかったスタンバイ中の未公開トーク、さらに収録秘話も！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927191500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　てっぱん（１５０）「かならず朝は来る」【解】【字】</title>
+    <desc lang="ja_JP">笹井（神戸浩）たち下宿人が旅立つ日、初音（富司純子）が最後の料理として作ったのは親子丼だった。噛みしめ食べるあかり（瀧本美織）だが、寂しさはぬぐえず…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927191500 +0900" stop="20130927193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５２日目　北海道喜茂別町</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県走破！今回は“蝦夷富士”とも呼ばれる羊蹄山の麓、喜茂別町を目指します。火野さんの自転車旅をお楽しみに！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927193000 +0900" stop="20130927200000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">美の壺「文豪の机」【字】</title>
+    <desc lang="ja_JP">身近なテーマを中心に、美術鑑賞を３つのツボでわかりやすく指南する新感覚美術番組。今回は「文豪の机」。案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927215200 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「どら平太」　＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">【監督】市川崑　【出演】役所広司，浅野ゆう子，菅原文太，宇崎竜童，片岡鶴太郎　ほか</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130927215200 +0900" stop="20130927215500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ【再】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927215500 +0900" stop="20130927220000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ先取り情報「１０月号」</title>
+    <desc lang="ja_JP">１０月のＢＳおすすめ番組</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">コントの劇場「９月号」【字】</title>
+    <desc lang="ja_JP">一夜限りの“夢の競演”はじまる！　三宅裕司がアッと驚く役者たちとタッグを組んでお送りするコントライブ。出演は他に羽田美智子、佐野史郎、小倉久寛、中川晃教。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130927231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５５）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927231500 +0900" stop="20130927234500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">晴れ、ときどきファーム！「シェアハウス半年　旬の食材でお祝い！」【字】</title>
+    <desc lang="ja_JP">【出演】長野博，村上知子，滝沢沙織，【ゲスト】大沢あかね，伊藤さおり，【語り】赤平大</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927234500 +0900" stop="20130928015500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「プライドと偏見」　＜字幕スーパー＞　＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">　【監督】ジョー・ライト　【出演】キーラ・ナイトレイ，マシュー・マクファディン，ドナルド・サザーランド　〜２００５年　イギリス　ワーキング・タイトル・プロ制作〜</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130928015500 +0900" stop="20130928035500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作選　ハイビジョン特集「アフリカ縦断の旅（４）タンザニアから南アフリカへ」【字】</title>
+    <desc lang="ja_JP">「アフリカ縦断の旅」の最終回。　マラウイ湖、世界三大瀑布（ばくふ）の１つビクトリア滝、野生動物の楽園オカバンゴ湿地をへて、２０人の旅人は終着地・喜望峰へ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928035500 +0900" stop="20130928040000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">沖縄海中紀行「神秘　サンゴの大産卵」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928040000 +0900" stop="20130928045000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界音楽紀行　　－　ドイツ　黒い森地方　－</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928045000 +0900" stop="20130928050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｔｈｉｓ　ｉｓ　ＨＶ「食卓にチーズ」</title>
+    <desc lang="ja_JP">▽世界中で親しまれているチーズは数千種類。ヨーロッパが起源と思われるチーズは、じつは中央アジア誕生説がもっとも有力です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928053000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">行ってみよう世界の都市　－　キューバ・ハバナ　－</title>
+    <desc lang="ja_JP">▽カリブ海の真珠、ヘミングウェイゆかりの街　▽情熱のサルサ　陽気なハバナのくらし</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928053000 +0900" stop="20130928060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ローカル鉄道の旅「九州」</title>
+    <desc lang="ja_JP">魅力的な列車の走りに沿って多様な日本の自然美をつづるシリーズ。今回は九州編。大自然を甘木鉄道・ＪＲ唐津線・島原鉄道・南阿蘇鉄道・ＪＲ肥薩線などが走る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">新日本風土記「九十九里」【字】</title>
+    <desc lang="ja_JP">東京からほど近い千葉県・九十九里浜。日本最大の水揚げを誇るイワシ漁に挑む男たちやそれを支える女たち。あけっぴろげで、豪快で、情に厚い。そんな浜の人々の夏を描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928071000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニッポンの里山　ふるさとの絶景に出会う旅「カブトムシを育む雑木林　埼玉県三芳町」</title>
+    <desc lang="ja_JP">ニッポンの里山を訪ねるミニ番組。今日は関東でも有数のサツマイモの産地、埼玉県の三芳町。畑の隣の雑木林はカブトムシの楽園。そこにおいしい芋を育てる秘密がある。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928071000 +0900" stop="20130928071500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「尾道」</title>
+    <desc lang="ja_JP">広島県尾道市は坂と路地の町。車が入れないため、ゴミの収集は昔ながらの天秤（びん）棒が活躍。不便なことが多い分、隣近所が互いに助け合って暮らす文化が根付いている。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928071500 +0900" stop="20130928073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　純情きらり（１５０）「夢にみた演奏会」【解】【字】</title>
+    <desc lang="ja_JP">戦争に揺れる昭和を駆け抜けたヒロイン・桜子（宮﨑あおい）を描く一代記。事故で父親を失った桜子は、音楽への思いを捨てず、きょうだいと共に激動の時代を生き抜く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928073000 +0900" stop="20130928074500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５６）＜終＞「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、北三陸で新たな一歩を踏み出す。宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928074500 +0900" stop="20130928081500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ぐるっと食の旅　キッチンがゆく「海女がとる海の宝物〜三重・鳥羽市＆志摩市〜」【字】</title>
+    <desc lang="ja_JP">その土地の自慢の食材を求め、ぐるっと日本列島をめぐる車の旅。今回は三重県の鳥羽市と志摩市。旅人の大林素子が、目移りするような食材の宝庫で旬の高級食材と出会う。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928081500 +0900" stop="20130928083000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界ふれあい街歩き　ちょっとお散歩「ハワイ　ヒロ〜アメリカ〜」</title>
+    <desc lang="ja_JP">「世界ふれあい街歩き」で歩いた人気の街を１５分で楽しめる「お散歩」バージョンをお届けします。路地裏の絶景、街角グルメ、地元の人とのふれあいなどご堪能ください。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928083000 +0900" stop="20130928093000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">トンイ（３３）「疫病の正体」【二】【字】</title>
+    <desc lang="ja_JP">貧しい境遇から朝鮮王朝第１９代王の側室となり後の名君を育てたトンイの劇的な生涯を描く。トンイは謎の疫病の原因を調査。トンイの過去の記録を調べていたオ・ユンは…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928094500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５１）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928094500 +0900" stop="20130928100000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５２）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928101500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５３）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928101500 +0900" stop="20130928103000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５４）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928103000 +0900" stop="20130928104500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５５）「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキ、再び北三陸へ！　宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928104500 +0900" stop="20130928110000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５６）＜終＞「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、北三陸で新たな一歩を踏み出す。宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928120000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　土曜版▽２４９日目北海道士別市／２５０日目北海道砂川市</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」秋の旅がいよいよ北海道からスタート！週末版は見どころ満載！５９分の完結編です。きょうは北海道士別市と砂川市への旅。どうぞお楽しみに！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928133000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">昭和の歌人たち「作曲家・中山晋平　シャボン玉〜船頭小唄」【字】</title>
+    <desc lang="ja_JP">時代を彩った「歌人」を、その音楽人生と共に紹介する。今回は作曲家中山晋平を特集。「カチューシャの唄」「ゴンドラの唄」「船頭小唄」「シャボン玉」「東京音頭」ほか。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928133000 +0900" stop="20130928143000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">今も響くこころの歌〜映画が生んだ大スター　石原裕次郎〜【字】</title>
+    <desc lang="ja_JP">昭和歌謡黄金期の大スターの、今に残るアーカイブ映像を可能な限り紹介していく４回シリーズ。４回目は、映画が生んだ大スター「石原裕次郎」。ゲストは鳥越俊太郎。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130928143000 +0900" stop="20130928153000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">追跡者　ザ・プロファイラー「ゴッホ“情熱と冷静のはざまで”」【字】</title>
+    <desc lang="ja_JP">「狼男みたいだ」とゴッホの自画像を見てつぶやく岡田准一。炎の画家は確かに二面性の人だった。あの「黄色」を生んだ凄まじい情熱と極めて知的な研究。本当のゴッホは誰？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928153000 +0900" stop="20130928173000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">秋のＢＳ渋谷で会いまショー</title>
+    <desc lang="ja_JP">ＮＨＫのＢＳ番組の魅力を紹介する「秋のＢＳ渋谷で会いまショー！」。この秋の新番組や人気番組の出演者が続々と登場、番組の見どころをたっぷりと伝える。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928173000 +0900" stop="20130928180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">おとうさんといっしょ【字】</title>
+    <desc lang="ja_JP">「一緒」と「遊び」の楽しさがギュッとつまった新しいこども番組「おとうさんといっしょ」。うたに体操に親子あそびと様々なコーナーで、一緒パワー全開！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928184500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">龍馬伝（２６）「西郷吉之助」【解】【字】</title>
+    <desc lang="ja_JP">龍馬（福山雅治）は、薩摩藩の西郷吉之助（高橋克実）と会い、底知れぬ恐ろしさを感じる。弥太郎（香川照之）は武市（大森南朋）から以蔵（佐藤健）への毒饅頭を預かる。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928184500 +0900" stop="20130928185500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ムーミン　パペット・アニメーション「冬のスポーツ大会」</title>
+    <desc lang="ja_JP">１９７９年にポーランドで製作されたシリーズをデジタルリマスターで色鮮やかによみがえらせたパペット・アニメーション。声の出演：松たか子　段田安則</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130928185500 +0900" stop="20130928185700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ワンス・アポン・ア・タイム」</title>
+    <desc lang="ja_JP">【出演】乃村健次</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928185700 +0900" stop="20130928190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「菜の花ラインに乗りかえて」</title>
+    <desc lang="ja_JP">１０月９日放送の「千葉発地域ドラマ　菜の花ラインに乗りかえて」。吹石一恵、石黒賢、梅宮辰夫、浅田美代子ら、豪華出演者が紡ぐ心温まるドラマの魅力を２分間に凝縮！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928191500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　てっぱん（１５１）＜終＞「かならず朝は来る」【解】【字】</title>
+    <desc lang="ja_JP">あかり（瀧本美織）と共に尾道のベッチャー祭りに参加した初音（富司純子）は、村上家の家族からいつまでもあかりの良きライバルでいて欲しいと言われるが…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928191500 +0900" stop="20130928193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">スカイツリー三丁目の夕日を探して〜写真でたどる東京下町▽砂町界隈波郷が暮らした町</title>
+    <desc lang="ja_JP">押切もえが東京スカイツリー周辺の下町を巡る旅。昭和３０年代の古き良き下町の写真が撮られた砂町を訪ねる。漫画「三丁目の夕日」とも重なる懐かしい世界の魅力に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928193000 +0900" stop="20130928210000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">欽ちゃんの全国びっくり王！「＃３」【字】</title>
+    <desc lang="ja_JP">人気シリーズ第三弾。全国のあっと驚く“びっくりさん”が大集合！仕事や趣味で磨き上げたスゴ技の数々。誰が“びっくり王”に輝くのか？人間力発掘エンターテインメント！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">探訪　巨大ターミナル【字】</title>
+    <desc lang="ja_JP">世界の鉄道駅の乗降客数トップ１００を見ると、実に８０以上が日本の駅であるという事実が浮かび上がる。日本の文化と土木技術がつまった、巨大ターミナルの魅力を探る！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130928231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　あまちゃん（１５６）＜終＞「おらたち、熱いよね！」【解】【字】【デ】</title>
+    <desc lang="ja_JP">ヒロイン・アキは、北三陸で新たな一歩を踏み出す。宮藤官九郎がオリジナルで描く人情喜劇。日本の朝に元気をお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928231500 +0900" stop="20130928234500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムよるドラマ　ＰＯＷＥＲ　ＧＡＭＥ（８）終「憎いアイツをつぶせ！後編」【字】</title>
+    <desc lang="ja_JP">黒岩（袴田吉彦）は暴漢に襲われた大山（麿赤児）をかばい重傷を負う。城崎（小澤征悦）は尚美（白石美帆）の仇をとるため大山の記者会見であざやかなマジックを仕掛ける。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130928234500 +0900" stop="20130929001000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　キングダム２（１７）「開戦前夜」【字】【デ】</title>
+    <desc lang="ja_JP">古代中国。春秋・戦国時代。秦国で天下の大将軍を夢見る信は、三百人隊の将となった。そして、戦場では同世代の若武者たちが、次世代の大将軍を目指し躍動していた。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929001000 +0900" stop="20130929031000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＡＫＢ４８選抜総選挙スペシャル</title>
+    <desc lang="ja_JP">６月に日産スタジアムに７万人の観客を集めた「ＡＫＢ４８選抜総選挙」。６４人全員のスピーチに加え、結果発表の前に行われた熱いライブステージの様子もお届けする。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929031000 +0900" stop="20130929034000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｊ－ＭＥＬＯ「Ｊ－ＭＥＬＯ　ｉｎ　ロンドン」</title>
+    <desc lang="ja_JP">「ファンミーティング・イン・ロンドン」の盛り上がりを伝える。また、日本文化イベント「Ｈｙｐｅｒ　Ｊａｐａｎ」を番組エンド曲を歌うＹＵＮ＊ＣＨＩがリポート。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929034000 +0900" stop="20130929035500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヨーロッパ空撮紀行「ドイツ〜ドレスデンからマイセン」</title>
+    <desc lang="ja_JP">ヨーロッパ空撮紀行「ドイツ〜ドレスデンからマイセン」【語り】石井麻由子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929035500 +0900" stop="20130929040000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">体感ＶＩＳＩＯＮ　－　鳥になって飛ぶ　熊本・天草　－</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929040000 +0900" stop="20130929050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">東京スカイツリー　フォトメッセージ</title>
+    <desc lang="ja_JP">東京スカイツリーの風景を収めたとっておきの写真を、視聴者の皆様から募集した「ふるさとスカイツリー」。寄せられた写真をご紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929053000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">行ってみよう世界の都市　－　中国・紹興　－</title>
+    <desc lang="ja_JP">葛西聖司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929053000 +0900" stop="20130929060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">あこがれのイングリッシュガーデン「ウォデスドン・マナー」</title>
+    <desc lang="ja_JP">重厚な庭園に花々があふれ、美しく壮大でいて、どこか癒やされる空間。イギリスの長い歴史のなかで大切に保存されてきた歴史的な建造物、イングリッシュガーデンの魅力とは</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929063000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">きらり！えん旅　ライブスペシャル〜谷村新司　ｉｎ　宮城・仙台市〜【字】</title>
+    <desc lang="ja_JP">谷村新司さんが仙台市を訪れ、大震災の被害にあいながら再建したみそ加工工場を訪れ明るい笑顔に出会う。スペシャルライブでは「いい日旅立ち」「昴（すばる）」などを熱唱</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929063000 +0900" stop="20130929065700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">桃源紀行　７つのしあわせ　第６シリーズ「富良野・美瑛」【字】</title>
+    <desc lang="ja_JP">北海道の富良野・美瑛は７月頃、ラベンダーが咲き誇り、海外の観光客からも人気のスポット。大自然からスイーツまで様々な魅力を、タレントの加賀見栞里さんが紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929065700 +0900" stop="20130929070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「黒猫、ときどき花屋」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん百名山「大山」【字】</title>
+    <desc lang="ja_JP">中国地方の最高峰、大山。西側からの眺めは富士山に例えられ「伯耆富士」、北側は荒々しいアルペン的な景観、そして１７０種の野鳥や美しい花々など多彩な魅力にあふれる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929080000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アリスのおいしい革命「アリスのレストランの絶品メニューを召し上がれ」</title>
+    <desc lang="ja_JP">アメリカで最も予約をとるのが難しいというレストランのオーナーで、「スローフードの母」といわれるアリス・ウォータースの料理番組。今回はレストランの絶品魚料理を紹介</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929083000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">おとうさんといっしょ【字】</title>
+    <desc lang="ja_JP">「一緒」と「遊び」の楽しさがギュッとつまった新しいこども番組「おとうさんといっしょ」。うたに体操に親子あそびと様々なコーナーで、一緒パワー全開！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929085500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンワンパッコロ！キャラともワールド　▽パート１　飛び出せ！人気ソング</title>
+    <desc lang="ja_JP">ワンワンたちが、こども番組で人気の歌などを楽しく紹介。曲は「かわいいかくれんぼ」、「あ・そ・ぼっ！」、「ふわふわバスタオル」、「あひるの行列」。ぽろりも登場！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929085500 +0900" stop="20130929093000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンワンパッコロ！キャラともワールド　▽パート２　みんなＤＥどーもくん！</title>
+    <desc lang="ja_JP">どーもくんとななみちゃんが繰り広げる楽しいステージショー。ゲストは「おかあさんといっしょ」１０代目体操のお兄さん・佐藤弘道さん。楽しい遊び歌で盛り上がるよ。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929100000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンワンパッコロ！キャラともワールド　▽パート３　夢の共演！人気キャラクター</title>
+    <desc lang="ja_JP">ワンワンが、人気キャラクターと夢の共演。ぽろりが登場！ほのぼのがホテルでお披露目する貴重なつぼを割る。みんなで、ぽろりの作ったタイムマシンで過去に行く大作戦を！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929113000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">おしん（２２６）〜（２３１）　連続テレビ小説アンコール【字】</title>
+    <desc lang="ja_JP">主人公おしんの明治から昭和に至る一生を描き、一大ブームを巻き起こした作品。国内のみならず世界各地で大きな感動を呼んだ。全２９７回を１年にわたってアンコール放送。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929113000 +0900" stop="20130929123000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　日曜版▽２５１日目北海道札幌市／２５２日目北海道喜茂別町</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」。秋の旅がいよいよ北海道からスタート！週末版は見どころ満載！５９分の完結編です。きょうは北海道札幌市と喜茂別町への旅。お楽しみに！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929123000 +0900" stop="20130929165000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ・ベストテレビ２０１３▽民放連賞テレビ教養番組▽「地方の時代」映像祭▽ＡＴＰ賞</title>
+    <desc lang="ja_JP">この１年間、国内の代表的な７つのテレビ番組コンクールで最高賞を受賞したドキュメンタリー番組を、ＮＨＫと民放の垣根を越えて２日にわたり放送する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929165000 +0900" stop="20130929170000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アインシュタインの眼　特選映像ファイル「“秋”の空〜一週間の移ろい〜」</title>
+    <desc lang="ja_JP">放送開始から２年、「アインシュタインの眼」が捉えたスーパーカメラの特選映像によるミニ番組。今回は移ろいゆく秋の空。コマ撮り撮影の雲の姿を中心にお伝えする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929170000 +0900" stop="20130929173000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">カリスｍａｍａ〜ママたちの美力選手権〜「＃２」【字】</title>
+    <desc lang="ja_JP">美しさにこだわりながら、毎日がんばるママたちのための応援プログラム。今回は、子どももママも大喜びの「ワイワイ・パーティー選手権」を開催。ママのお悩み相談室も！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929173000 +0900" stop="20130929180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワラッチャオ！　秋のお笑い修行スペシャル</title>
+    <desc lang="ja_JP">４〜６歳の子供に楽しい笑いを届ける子供番組「ワラッチャオ！」。毒舌のドックンなどかわいいキャラが活躍！今回は番組ヒット祈願とお笑い修行のため、高尾山へとむかう。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929184500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">八重の桜（３９）「私たちの子ども」【解】【字】【デ】</title>
+    <desc lang="ja_JP">八重（綾瀬はるか）と襄（オダギリジョー）の念願がかない、同志社女学校が誕生。しかし、リツという薩摩出身の女学生が結核にかかり、八重の献身的な看護を拒む。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929184500 +0900" stop="20130929185000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅ミニ「火野正平の旅日記　岩手県　その１」</title>
+    <desc lang="ja_JP">俳優の火野正平さんが視聴者からのお手紙に書かれた「こころの風景」を毎日、自転車で訪ねる「こころ旅」。２０１２年の岩手県の旅から、名場面をちょっとだけ紹介します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929185000 +0900" stop="20130929190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">再起動（リブート）！「怪奇大作戦」プロファイリング大作戦「ミッション３」</title>
+    <desc lang="ja_JP">「ミッション３“現代の怪奇”を終え（テーマ編）」　【ナビゲーター】村井良大，【出演】勝呂誉，橋本洋二，【語り】中山準之助</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">京都・南禅寺界隈（わい）別荘群「水ひかる夏」【字】</title>
+    <desc lang="ja_JP">京都の別天地・南禅寺別荘群。夏は一帯を巡る琵琶湖疎水がかさを増し、滝、せせらぎ、急流と様々な水音を奏でる。極上の別荘「対龍山荘」を中心に水が創り出す涼を愛でる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929193000 +0900" stop="20130929210000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ日本のうた　千葉県・四街道市【字】</title>
+    <desc lang="ja_JP">スペシャルステージは、和田アキ子と前川清。▽名曲イレブンは、「味噌汁の詩」「岸壁の母」「愛と死を見つめて」「あんた」「三味線マドロス」ほか。▽千葉県四街道市</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929220000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">馬医（１３）「面影を重ねて」【二】【字】</title>
+    <desc lang="ja_JP">馬の医者から王の主治医にまでなった男の波乱に満ちた生涯を描くメディカル史劇。ついにクァンヒョンは医師を目指すと決意。差別にも負けず、医学生の選抜試験に挑戦する！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムドラマ「どくとるマンボウ　ユーモア闘病記〜作家・北杜夫とその家族〜」【字】</title>
+    <desc lang="ja_JP">「どくとるマンボウ」北杜夫。８４歳で他界するまで「そううつ病」とつきあった。騒動を繰り返す杜夫を支えたのは、妻と娘。ユーモアで病を乗り切った、ある家族の闘病記。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130930000000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">たけしアート☆ビートＳＰ〜アートで日本を元気にする！〜「愛知編」【字】</title>
+    <desc lang="ja_JP">国際芸術祭「あいちトリエンナーレ」に出品するためにビートたけしの版画を元に教会のステンドグラスを制作する。また世界的アーティスト達の作品も紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930030000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">小澤征爾とサイトウ・キネン・フェスティバル松本２０１３年</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930030000 +0900" stop="20130930040000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">カリブ海　魅惑の大自然　－　ベリーズ　－</title>
+    <desc lang="ja_JP">カリブ海に面するベリーズには全長３００キロに及ぶ大西洋最大のサンゴ礁が広がる。ベリーズの美しいサンゴの海をお届けする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930040000 +0900" stop="20130930043000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">さわやかウインドー「富士山麓（ろく）　三十六景」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930043000 +0900" stop="20130930045500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界ＳＬ紀行「アメリカ　ニューハンプシャー州〜コグ鉄道〜」【字】</title>
+    <desc lang="ja_JP">アメリカ北東部、悪天候で知られるワシントン山頂を目指す。計画時には、３７％もの急勾配ゆえ無謀と言われた。苦難の末の歯車式登山ＳＬの仕組みと雪景色を描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930045500 +0900" stop="20130930050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">体感ＶＩＳＩＯＮ　－　時速８キロ・運河の旅　－</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930050000 +0900" stop="20130930054500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界音楽紀行　　－ポーランド－</title>
+    <desc lang="ja_JP">「マズルカ　作品３３－２」　ショパン作曲　（ピアノ）アルトゥール・ルビンシュタイン　「ピアノ協奏曲　第１番　第１楽章から」　ショパン作曲</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930054500 +0900" stop="20130930060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">宮殿コンサート〜ドイツ・ハイデックスブルク城</title>
+    <desc lang="ja_JP">「セレナード」　フランセ作曲</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930065500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">クラシック倶楽部　サンドリーヌ・ピオー　ソプラノ・リサイタル</title>
+    <desc lang="ja_JP">サンドリーヌ・ピオー　ソプラノ・リサイタル▽月の光（フォーレ）、夜の歌（メンデルスゾーン）、魅惑と魔法の森で（ショーソン）、セー（プーランク）ほか</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130930065500 +0900" stop="20130930065700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「黒猫、ときどき花屋」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930065700 +0900" stop="20130930070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930071000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニッポンの里山　ふるさとの絶景に出会う旅「命あふれるワサビの棚田　静岡県伊豆市」</title>
+    <desc lang="ja_JP">ニッポンの里山を訪ねるミニ番組。今日は静岡県の伊豆市の山あいに広がるワサビの棚田。清流が流れる棚田は一年中緑があふれ、産卵のためイワナが谷から入ってくる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930071000 +0900" stop="20130930071500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「路面電車」</title>
+    <desc lang="ja_JP">小さな車両がコトコト走る路面電車。高度成長期にその多くが姿を消したが、エコの観点などから、今ふたたび注目されている。日本各地の特徴的な路面電車を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930071500 +0900" stop="20130930073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　純情きらり（１５１）「いのち、輝いて」【解】【字】</title>
+    <desc lang="ja_JP">戦争に揺れる昭和を駆け抜けたヒロイン・桜子（宮﨑あおい）を描く一代記。事故で父親を失った桜子は、音楽への思いを捨てず、きょうだいと共に激動の時代を生き抜く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930073000 +0900" stop="20130930074500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　ごちそうさん（１）＜新＞「いちご一会」【解】【字】【デ】</title>
+    <desc lang="ja_JP">昭和２０年、夏。空襲後の大阪に食べ物を配るめ以子（杏）の声が響く。さかのぼること３４年。め以子（豊嶋花）は食いしん坊の小学一年生。新鮮な卵をと鶏小屋に忍びこむ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930074500 +0900" stop="20130930080000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　月曜朝版▽青森県</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県を走破です！秋の旅２週目は本州最北の青森県！月曜朝版は旅の名場面・珍場面をひとあし先にご紹介します！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930090000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイルドライフ「エチオピアの高地　幻のジャッカル　驚異の狩りを見た」【字】</title>
+    <desc lang="ja_JP">世界でも４５０匹ほどしかいないアビシニアジャッカル。地中の獲物を捕らえる技巧的かつユニークな狩りの技、家族の固い絆など、知られざる営みを標高４千ｍの高地に追う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930110500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムアーカイブス　ハイビジョン特集「伊勢神宮　受け継がれるこころとかたち」</title>
+    <desc lang="ja_JP">伊勢神宮・式年遷宮の行事は平成１７年から始まっている。ご神木の切り出しを受け持つ木曽の人々など、自然を敬い、伝統を伝えていくさまを伝える。２００５年放送</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930110500 +0900" stop="20130930112000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">さわやか自然百景「八丈島の海」【字】</title>
+    <desc lang="ja_JP">青く澄み渡った八丈島の海。火山の溶岩が作り上げた海底の岩場には色鮮やかな魚が集う。個性的な顔のテングダイ、優雅なダンスを舞うミヤケテグリ。躍動する命を見つめる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930112000 +0900" stop="20130930113000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">１０分で！連続テレビ小説「ごちそうさん」</title>
+    <desc lang="ja_JP">連続テレビ小説「ごちそうさん」９月３０日（月）スタート！放送開始を目前に控え、メイキング映像を交えながらドラマの見どころをご紹介します。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930113000 +0900" stop="20130930114500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　月曜朝版▽青森県</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県を走破です！秋の旅２週目は本州最北の青森県！月曜朝版は旅の名場面・珍場面をひとあし先にご紹介します！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930114500 +0900" stop="20130930115500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">再起動（リブート）！「怪奇大作戦」プロファイリング大作戦「ミッション４」</title>
+    <desc lang="ja_JP">「ミッション４“怪奇”を描け（特撮・美術編）」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930115500 +0900" stop="20130930120000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「路面電車」</title>
+    <desc lang="ja_JP">小さな車両がコトコト走る路面電車。高度成長期にその多くが姿を消したが、エコの観点などから、今ふたたび注目されている。日本各地の特徴的な路面電車を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930170000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ・ベストテレビ２０１３　▽民放連賞テレビ報道番組　▽文化庁芸術祭賞ほか</title>
+    <desc lang="ja_JP">この１年間、国内の代表的な７つのテレビ番組コンクールで最高賞を受賞したドキュメンタリー番組を、ＮＨＫと民放の垣根を越えて２日にわたり放送する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930175900 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">発見！体感！　空に昇る川　天竜川紀行【字】</title>
+    <desc lang="ja_JP">俳優の峰竜太（長野県出身）が故郷の天竜川を旅する。昔を懐かしみながらも、次々と新たな発見が。絶景、温泉、グルメ、人々との愉快な会話。天竜川の魅力が浮かび上がる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930175900 +0900" stop="20130930180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">みんな大好き　ワンワン「北九州」（３）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930182500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンワンパッコロ！キャラともワールド　飛び出せ！人気ソング</title>
+    <desc lang="ja_JP">ワンワンたちが、こども番組で人気の歌などを楽しく紹介。曲は「プールたいそう」「コロコロコロン」「ボサボサボッサ」「パクパクフラダンス」。ワンパコホテル体操も。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930182500 +0900" stop="20130930183000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　おしりかじり虫２（１）「救え！？ぼくらの銭湯」</title>
+    <desc lang="ja_JP">町の銭湯は、お客さんが減ってしまい廃業のピンチ！かじり虫とチチとジジは、銭湯にたくさんお客さんが来るよう、町中にアピール！そして、あっと驚く作戦を企てるが…！？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930183000 +0900" stop="20130930185500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　フランダースの犬「アロアのいないクリスマス」</title>
+    <desc lang="ja_JP">１９世紀のベルギー・フランダース地方。心優しい少年・ネロは、祖父・ジェハン、愛犬パトラッシュと共に貧しいながらも仲良く暮らしていたが…。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130930185500 +0900" stop="20130930190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「黒猫、ときどき花屋」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930191500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　ちゅらさん（１）「美ら海の約束」【解】【字】</title>
+    <desc lang="ja_JP">沖縄の美しい自然の中で育った太陽のようにおおらかな少女が、命の尊さや家族の絆を胸に抱いて上京。看護師を目指して明るくひたむきに成長していく姿を爽やかに描きます。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930191500 +0900" stop="20130930193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　月曜朝版▽青森県</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」、いよいよ秋の旅で全４７都道府県を走破です！秋の旅２週目は本州最北の青森県！月曜朝版は旅の名場面・珍場面をひとあし先にご紹介します！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930193000 +0900" stop="20130930200000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん百名山「富士山」【字】</title>
+    <desc lang="ja_JP">今年、世界文化遺産に登録された日本一の山、富士山（３７７６ｍ）。今回は１合目から頂上をめざします。知る人ぞ知る須山口から登る２泊３日の山旅です。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930210000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワイルドライフ「カナダ　ハドソン湾　キツネ家族　ツンドラの大地を生き抜く」【字】</title>
+    <desc lang="ja_JP">カナダのツンドラ地帯。ホッキョクギツネは天敵と戦いながら懸命に子育てをしている。一年にわたって取材を敢行し極寒の地で繰り広げる壮絶で感動的な命のドラマを描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「ママの遺したラヴソング」</title>
+    <desc lang="ja_JP">ジョン・トラボルタとスカーレット・ヨハンソン共演の感動作。ニューオーリンズの街を舞台に、人生につまずきながらも、再び歩きだそうとする人々の心の成長を描く。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20130930231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　ごちそうさん（１）＜新＞「いちご一会」【解】【字】【デ】</title>
+    <desc lang="ja_JP">昭和２０年、夏。空襲後の大阪に食べ物を配るめ以子（杏）の声が響く。さかのぼること３４年。め以子（豊嶋花）は食いしん坊の小学一年生。新鮮な卵をと鶏小屋に忍びこむ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930231500 +0900" stop="20130930234500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">写ねーる「わたしのスイッチ」（前編）【字】</title>
+    <desc lang="ja_JP">今秋から月曜へお引っ越し。あなたの「やる気スイッチ」どこにある？ホラン千秋、安藤モモ子の赤裸々トークに会場大爆笑！あの人がスリラーを踊るって？！前後編２回大特集</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930234500 +0900" stop="20131001004500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">コズミック　フロント〜発見！驚異の大宇宙〜「天文将軍　徳川吉宗」【字】</title>
+    <desc lang="ja_JP">“暴れん坊将軍”として知られた徳川吉宗。その素顔は天文学者にして博物学者であり、江戸城に天文台を建設、自ら星を観測したという。江戸の科学の扉を開いた素顔に迫る！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001004500 +0900" stop="20131001022600 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムアーカイブス　ドラマスペシャル「今朝の秋」</title>
+    <desc lang="ja_JP">コラムニスト天野祐吉さんが、テレビ６０年を振り返り、記憶に残る“とっておきの番組”をとりあげる。今回、紹介するのは、ドラマスペシャル「今朝の秋」。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001022600 +0900" stop="20131001023000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ザ・プロファイラー〜夢と野望の人生〜」</title>
+    <desc lang="ja_JP">ＢＳプレミアムで１０月２日（水）から始まる「ザ・プロファイラー〜夢と野望の人生〜」のＰＲ。１０月放送分の見どころ、そして司会・岡田准一の番組にかける思いを紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001023000 +0900" stop="20131001025600 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">知られざる野生「ジャッカル〜謎のヘルパー」</title>
+    <desc lang="ja_JP">▽世界各地を旅して、魅力的な生き物たちや驚異の自然環境と出会い、そのふしぎな関わりを探っていく醍醐味。今回はジャッカル。【語り】高山哲哉</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001025600 +0900" stop="20131001030000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ＢＳ時代劇雲霧仁左衛門　１０月から放送開始」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001030000 +0900" stop="20131001040000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハイビジョンウインドー「樹海」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001040000 +0900" stop="20131001043000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">さわやかウインドー「埼玉　秩父巡礼路」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001043000 +0900" stop="20131001045500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">生命の大地・地球「ロッキーの森と草原〜北米・イエローストーン国立公園〜」【字】</title>
+    <desc lang="ja_JP">【語り】中島裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001045500 +0900" stop="20131001050000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">山川草木「アフリカ　ニジェール川」</title>
+    <desc lang="ja_JP">【音楽】石川泰</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001050000 +0900" stop="20131001054000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の国立公園「ペルー・ワスカラン国立公園」</title>
+    <desc lang="ja_JP">▽世界一高所にある国立公園の美▽幻の動物ビクーニャ発見▽１００年に一度花を咲かせる植物　プーヤ・ライモンデ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001054000 +0900" stop="20131001054500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">中国・ティーブレイク紀行「工夫茶」</title>
+    <desc lang="ja_JP">【ナレーション】兼清麻美</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001054500 +0900" stop="20131001060000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヨーロッパ空撮紀行「スロベニア〜アルプスからアドリア海」</title>
+    <desc lang="ja_JP">【語り】星野雅江</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001060000 +0900" stop="20131001065500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">クラシック倶楽部　大萩康司ギターリサイタル</title>
+    <desc lang="ja_JP">「１１月のある日」　ブローウェル作曲　「組曲　イ短調」　ル・コック作曲　「そのあくる日」　ゲーラ作曲　「大聖堂」　バリオス作曲</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001065500 +0900" stop="20131001070000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「菜の花ラインに乗りかえて」</title>
+    <desc lang="ja_JP">１０月９日放送の「千葉発地域ドラマ　菜の花ラインに乗りかえて」。吹石一恵、石黒賢、梅宮辰夫、浅田美代子ら、豪華出演者が紡ぐ心温まるドラマの魅力を２分間に凝縮！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001070000 +0900" stop="20131001071000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニッポンの里山　ふるさとの絶景に出会う旅「コウノトリ舞う田んぼ　兵庫県豊岡市」</title>
+    <desc lang="ja_JP">兵庫県の豊岡市。農薬を減らすなどの努力で一度は絶滅したコウノトリがよみがえった。食べ物となる生き物が増えた田んぼ。人々の生活のすぐそばにコウノトリが舞い降りる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001071000 +0900" stop="20131001071500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「氷川丸」</title>
+    <desc lang="ja_JP">横浜・山下公園に係留された氷川丸。豪華客船として建造されながら、歴史の波にもまれ、数奇な運命をたどった。豪華な船内を巡りつつ、氷川丸がたどった歴史を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001071500 +0900" stop="20131001073000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　純情きらり（１５２）「いのち、輝いて」【解】【字】</title>
+    <desc lang="ja_JP">戦争に揺れる昭和を駆け抜けたヒロイン・桜子（宮﨑あおい）を描く一代記。事故で父親を失った桜子は、音楽への思いを捨てず、きょうだいと共に激動の時代を生き抜く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001073000 +0900" stop="20131001074500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　ごちそうさん（２）「いちご一会」【解】【字】【デ】</title>
+    <desc lang="ja_JP">め以子（豊嶋花）は当時まだ珍しいイチゴをこっそり食べ、トラ（吉行和子）にも食べさせたいと思う。イチゴのジャムをもらい喜ぶめ以子。開明軒は新聞のコラムに載るが…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001074500 +0900" stop="20131001080000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５３日目　青森県（１）</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」は来年２月の愛知で４７都道府県走破を達成！秋の旅、第２週は本州最北の青森県。行き先はお手紙次第、気ままな自転車旅をお楽しみ下さい。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001080000 +0900" stop="20131001090000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界ふれあい街歩き「カルカソンヌ（フランス）」【字】【デ】</title>
+    <desc lang="ja_JP">ヨーロッパ最大級の城塞都市・カルカソンヌ。美しい中世の石造りの家が並び、心優しき人々が暮らす、まるでおとぎの国のような城塞の街を歩きます。【語り・中嶋朋子】</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001090000 +0900" stop="20131001104500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムアーカイブス　ＨＶ特集「神が降り立った森で〜春日大社・祈りの記録〜」</title>
+    <desc lang="ja_JP">奈良・春日大社の三蓋山（みかさやま）は、市街地に接しながら照葉樹の原始林が広がる。都を護ってきた大社の森を、秘められた祭祀とともに紹介する。２０１０年放送</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001104500 +0900" stop="20131001110000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の鉄道グラフィティ「世界の屋根を走る〜ダージリン・ヒマラヤ鉄道」【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001110000 +0900" stop="20131001113000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">美の壺「文豪の机」【字】</title>
+    <desc lang="ja_JP">身近なテーマを中心に、美術鑑賞を３つのツボでわかりやすく指南する新感覚美術番組。今回は「文豪の机」。案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001113000 +0900" stop="20131001114500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５３日目　青森県（１）</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」は来年２月の愛知で４７都道府県走破を達成！秋の旅、第２週は本州最北の青森県。行き先はお手紙次第、気ままな自転車旅をお楽しみ下さい。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001114500 +0900" stop="20131001115500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">旅のアルバム　世界の工芸品「銅器〜メキシコ」【字】</title>
+    <desc lang="ja_JP">【語り】天野ひかり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001115500 +0900" stop="20131001120000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">もういちど、日本「氷川丸」</title>
+    <desc lang="ja_JP">横浜・山下公園に係留された氷川丸。豪華客船として建造されながら、歴史の波にもまれ、数奇な運命をたどった。豪華な船内を巡りつつ、氷川丸がたどった歴史を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001120000 +0900" stop="20131001124500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">海外ドラマセレクション</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001124500 +0900" stop="20131001130000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">シリーズ歌謡ロマン〜石川さゆり・旅立ち〜</title>
+    <desc lang="ja_JP">１人の歌手の人生を歌でつづる「シリーズ歌謡ロマン」。今回は石川さゆりの旅立ち編。アイドル歌手でデビューした石川だが、演歌で花開く「津軽海峡・冬景色」「火の国へ」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001130000 +0900" stop="20131001151100 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「トゥームストーン」　＜字幕スーパー＞　＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">【監督】ジョージ・Ｐ・コスマトス　【出演】カート・ラッセル，ヴァル・キルマー，ダナ・デラニー　ほか　〜１９９３年　アメリカ制作〜</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001151100 +0900" stop="20131001151500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「菜の花ラインに乗りかえて」</title>
+    <desc lang="ja_JP">１０月９日放送の「千葉発地域ドラマ　菜の花ラインに乗りかえて」。吹石一恵、石黒賢、梅宮辰夫、浅田美代子ら、豪華出演者が紡ぐ心温まるドラマの魅力を２分間に凝縮！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001151500 +0900" stop="20131001165500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作選　「風船は風にのって…〜五つの赤い風船　結成４０周年コンサート」</title>
+    <desc lang="ja_JP">２００７年に開催された「五つの赤い風船」結成４０周年コンサート。日本のフォークとともに彼らの足跡をたどる。「遠い世界に」「恋は風に乗って」「血まみれの鳩」ほか。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001165500 +0900" stop="20131001170000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ザ・プロファイラー〜夢と野望の人生〜」</title>
+    <desc lang="ja_JP">ＢＳプレミアムで１０月２日（水）から始まる「ザ・プロファイラー〜夢と野望の人生〜」のＰＲ。１０月放送分の見どころ、そして司会・岡田准一の番組にかける思いを紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001170000 +0900" stop="20131001180000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムセレクション</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001180000 +0900" stop="20131001182900 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンワンパッコロ！キャラともワールド　みんなＤＥどーもくん！</title>
+    <desc lang="ja_JP">どーもくんとななみちゃんが繰り広げる楽しいステージショー。ゲストはイベント「ポコポッテイトがやってきた」などでおなじみの歌のお姉さん・瀧本瞳さん。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20131001182900 +0900" stop="20131001183000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">みんな大好き　おしりかじり虫「長崎」（１）</title>
+    <desc lang="ja_JP">２０１２年１０月２８日　長崎・伊王島にて収録</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001183000 +0900" stop="20131001185200 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">アニメ　トムとジェリー「ネズミ取り必勝法」「トム君空を飛ぶ」ほか【二】</title>
+    <desc lang="ja_JP">懐かしの「トムとジェリー」が帰ってきた！永遠のライバルで親友の２匹が繰り広げるドタバタをユーモアたっぷりに描く、人気アニメーション・シリーズ。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20131001185200 +0900" stop="20131001185700 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プラネットアース　地球と生命の旅「命の誕生　コウテイペンギン」</title>
+    <desc lang="ja_JP">南極の冬、オスだけで集団を作り、卵を抱くコウテイペンギン。メスが海から戻ってくる頃、ヒナがかえる。夫婦そろって子育てする様子を、未編集映像も使い紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001185700 +0900" stop="20131001190000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳプレマップ「ワンス・アポン・ア・タイム」</title>
+    <desc lang="ja_JP">【出演】乃村健次</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001190000 +0900" stop="20131001191500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　ちゅらさん（２）「美ら海の約束」【解】【字】</title>
+    <desc lang="ja_JP">沖縄の美しい自然の中で育った太陽のようにおおらかな少女が、命の尊さや家族の絆を胸に抱いて上京。看護師を目指して明るくひたむきに成長していく姿を爽やかに描きます。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001191500 +0900" stop="20131001193000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん縦断　こころ旅　朝版▽２５３日目　青森県（１）</title>
+    <desc lang="ja_JP">火野正平さんの「こころ旅」は来年２月の愛知で４７都道府県走破を達成！秋の旅、第２週は本州最北の青森県。行き先はお手紙次第、気ままな自転車旅をお楽しみ下さい。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001193000 +0900" stop="20131001200000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">イッピン「やさしい着心地　自然の風合い〜滋賀　近江の麻〜」【字】</title>
+    <desc lang="ja_JP">今回は滋賀県の「近江の麻」。自然な風合いと着心地の良さが、季節を問わず人気を集めている。独特のしわ加工や糸のコーティング、美しい模様作りなど、匠の手技に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001200000 +0900" stop="20131001210000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界ふれあい街歩き「プラハ〜旧市街からカレル橋へ〜（チェコ）」【字】【デ】</title>
+    <desc lang="ja_JP">“千年の都”チェコの首都プラハ。今回はマサリク駅から旧市街を抜けて、プラハのシンボル、カレル橋へ。美しいプラハの日常を垣間見る街歩きです。【語り・松田洋治】</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001210000 +0900" stop="20131001230000 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムシネマ「奈緒子」＜レターボックスサイズ＞</title>
+    <desc lang="ja_JP">駅伝を題材にした同名人気コミックを「ロボコン」の古厩智之監督が映画化。幼いころの辛い過去を共有する二人の運命的な再会と、心の成長を描いたスポーツ青春ドラマ。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001230000 +0900" stop="20131001231500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">連続テレビ小説　ごちそうさん（２）「いちご一会」【解】【字】【デ】</title>
+    <desc lang="ja_JP">め以子（豊嶋花）は当時まだ珍しいイチゴをこっそり食べ、トラ（吉行和子）にも食べさせたいと思う。イチゴのジャムをもらい喜ぶめ以子。開明軒は新聞のコラムに載るが…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001231500 +0900" stop="20131001234500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">プレミアムよるドラマ　黒猫、ときどき花屋（１）＜新＞＜全８回＞【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001234500 +0900" stop="20131002004500 +0900" channel="4103.epgdata.ontvjapan" >
+    <title lang="ja_JP">岩合光昭の世界ネコ歩き「フロリダ・キーウェスト」【字】【再】</title>
+    <desc lang="ja_JP">動物写真家・岩合光昭さんが世界の街角でネコの愛らしい姿を激写！フロリダのキーウェストで魚を狙うネコ！毎日夕日を見つめるネコ、人間なら百歳！語り・塚本高史さん</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+</tv>

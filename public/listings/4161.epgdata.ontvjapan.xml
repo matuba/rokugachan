@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4161.epgdata.ontvjapan">
+    <display-name lang="ja_JP">BS-TBS</display-name>
+  </channel>
+  <programme start="20130924210000 +0900" stop="20130924215400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">地球バス紀行「アルマティ発大草原の花園へ／カザフスタン」</title>
+    <desc lang="ja_JP">いつか、やってみたかった旅。バスを乗り継ぎ、地球を回る。今回のバス旅は中央アジアのカザフスタン。大草原の国を駆け抜けます！旅人桐谷健太。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924215400 +0900" stop="20130924220000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＩＭＥｉｓＬＩＦＥ〜トキメキの時〜「渡辺謙　明日へと歩き出す時」</title>
+    <desc lang="ja_JP">テリー伊藤がホスト役で今月のゲストは俳優の渡辺謙さん。渡辺謙さんの人生の転機について語ります。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">湯のまち放浪記「鳴子温泉郷湯めぐり」</title>
+    <desc lang="ja_JP">今宵の放浪は、宮城県・鳴子温泉郷。仙台藩の御殿湯、千年の歴史を持つ共同浴場、美人の湯として知られ、ウナギのようにヌルヌルする湯、天然の川が温泉になった湯に入る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924225400 +0900" stop="20130924230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924235400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">東レパン・パシフィック・オープン２０１３「第３日」</title>
+    <desc lang="ja_JP">第３０回東レ パン・パシフィック・オープンテニス。トッププレーヤー達が繰り広げる世界最高峰の戦いをお届けします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130924235400 +0900" stop="20130925000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925003000 +0900" stop="20130925010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925013000 +0900" stop="20130925020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925023000 +0900" stop="20130925030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヨーロッパの街角</title>
+    <desc lang="ja_JP">ヨーロッパ文化の香りがただよう、美しいたたずまいを集めた映像集</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925050000 +0900" stop="20130925055400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925055400 +0900" stop="20130925060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925063000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925063000 +0900" stop="20130925070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925073000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳニュース</title>
+    <desc lang="ja_JP">国内外のＪＮＮ取材網から送られてくるニュースを２４時間、いち早く伝えるＢＳ－ＴＢＳニュース。地上波では見られない、国内外の会見なども随時ライブで放送！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925073000 +0900" stop="20130925080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ＣＢＳイブニングニュース</title>
+    <desc lang="ja_JP">全米3大ネットワーク・CBSニュースのメインニュース「CBSイブニングニュース」を日本時間午前7時30分から現地より生放送しています。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳ　プレミアムカイモノラボ</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介するショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925083000 +0900" stop="20130925090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925093000 +0900" stop="20130925100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925115500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリー・セレクション・検事　沢木正夫２公訴取消し</title>
+    <desc lang="ja_JP">青年は本当に人の命を奪ったのかも検事と被害者の運命が雨の記憶で交錯する時白い巨悪が裁かれる！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925115500 +0900" stop="20130925120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925123000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925123000 +0900" stop="20130925130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925133000 +0900" stop="20130925140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925140000 +0900" stop="20130925155500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリー・セレクション・西村京太郎サスペンス　探偵左文字進８「鶴富姫伝説」</title>
+    <desc lang="ja_JP">元弁護士の探偵・左文字が、記憶喪失の男と仇討ち伝説に絡む殺人事件に迫る。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925155500 +0900" stop="20130925160000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925165500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">奥さま劇場・野々村病院物語Ⅱ「第十八回」</title>
+    <desc lang="ja_JP">個人病院の院長・野々村隆之とその周囲の人々をめぐる様々な出来事を描き、人気を博した「野々村病院物語」のパート２。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925165500 +0900" stop="20130925170000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925175400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・幻の王女チャミョンゴ「第７話」【字幕】</title>
+    <desc lang="ja_JP">同じ日に生まれた二人の姫が同じ男性を愛してしまった事から楽浪国と高句麗という二つの国を巻き込んでいく。楽浪姫と好童王子の説話を基に高句麗建国時代を描く（３９話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925175400 +0900" stop="20130925180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作時代劇・江戸を斬る　第五部「嵐にひそむ非情の罠」</title>
+    <desc lang="ja_JP">人気時代劇シリーズ「江戸を斬る」の第五弾！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130925185400 +0900" stop="20130925190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925190000 +0900" stop="20130925195400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ゆらり散歩世界の街角「ＮＹブルックリン〜異国文化の交差点」</title>
+    <desc lang="ja_JP">世界各地のさまざまな「街」をゆったりと巡りながら、街並みや観光名所、グルメなどを紹介。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925195400 +0900" stop="20130925200000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925200000 +0900" stop="20130925205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">美しい日本に出会う旅〜勘九郎　街道をゆく▽青森・下北半島〜絶品ウニと最果ての絶景</title>
+    <desc lang="ja_JP">青森・下北半島〜絶品ウニと最果ての絶景めぐり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925205400 +0900" stop="20130925210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＬＩＦＥ〜世界と踊る</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925215400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">極上のクルーズ紀行「情熱のアンダルシア　熱き魂のルーツを知るリバークルーズ」</title>
+    <desc lang="ja_JP">誰もが憧れる豪華客船で行く船旅。世界中の船旅の中から厳選し、大人の贅沢な休日を楽しむ極上のクルーズライフをお届けします。◆スペインアンダルシアで闘牛を楽しむ川旅</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925215400 +0900" stop="20130925220000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【SS】ＯＮＥ×ＴＩＭＥ　建築の記憶「ノルディック・ファンタジア　ヴィトレスク」</title>
+    <desc lang="ja_JP">仲村トオルが「世界の名建築」をご紹介。今宵は三人の建築家が、仕事も生活も共にする場として建てた理想郷、ヴィラ・ステーネーシェン（フィンランド／１９０３）。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ライバルたちの光芒【終】「信長暗殺／羽柴秀吉ｖｓ明智光秀」</title>
+    <desc lang="ja_JP">ー宿命の対決が歴史を動かしてきた！真の勝者とはどちらだったのか？今回は信長暗殺の真相「羽柴秀吉ｖｓ明智光秀」。ライバル奉行は高橋英樹。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925225400 +0900" stop="20130925230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130925235400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">東レパン・パシフィック・オープン２０１３「第４日」</title>
+    <desc lang="ja_JP">第３０回東レ パン・パシフィック・オープンテニス。トッププレーヤー達が繰り広げる世界最高峰の戦いをお届けします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130925235400 +0900" stop="20130926000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926000000 +0900" stop="20130926003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926003000 +0900" stop="20130926010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926013000 +0900" stop="20130926020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926020000 +0900" stop="20130926023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926023000 +0900" stop="20130926030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">海底楽園</title>
+    <desc lang="ja_JP">美しいハイビジョン映像をお楽しみに下さい</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926050000 +0900" stop="20130926055400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926055400 +0900" stop="20130926060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926063000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926063000 +0900" stop="20130926070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926073000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳニュース</title>
+    <desc lang="ja_JP">国内外のＪＮＮ取材網から送られてくるニュースを２４時間、いち早く伝えるＢＳ－ＴＢＳニュース。地上波では見られない、国内外の会見なども随時ライブで放送！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926073000 +0900" stop="20130926080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ＣＢＳイブニングニュース</title>
+    <desc lang="ja_JP">全米3大ネットワーク・CBSニュースのメインニュース「CBSイブニングニュース」を日本時間午前7時30分から現地より生放送しています。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳ　プレミアムカイモノラボ</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介するショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926083000 +0900" stop="20130926090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926093000 +0900" stop="20130926100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926100000 +0900" stop="20130926115500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリー・セレクション・ヤメ刑探偵　加賀美塔子「ＦＩＬＥ：０１復讐の歯車」</title>
+    <desc lang="ja_JP">その女…元刑事！！片平なぎさのハミ出し女探偵登場…婚約者は何故消えた？連続殺人はＯＬの失踪で始まる…愛した女性は殺人犯か？</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926115500 +0900" stop="20130926120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926123000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926123000 +0900" stop="20130926130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926133000 +0900" stop="20130926140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926140000 +0900" stop="20130926155500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリーＳ・早乙女千春の添乗報告書１６「静岡湯けむりツアー殺人事件」</title>
+    <desc lang="ja_JP">静岡で起きた殺人事件を美人ツアーコンダクターの早乙女千春が解き明かすサスペンスドラマ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926155500 +0900" stop="20130926160000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926165500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">奥さま劇場・野々村病院物語Ⅱ「第十九回」</title>
+    <desc lang="ja_JP">個人病院の院長・野々村隆之とその周囲の人々をめぐる様々な出来事を描き、人気を博した「野々村病院物語」のパート２。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926165500 +0900" stop="20130926170000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926175400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・幻の王女チャミョンゴ「第８話」【字幕】</title>
+    <desc lang="ja_JP">同じ日に生まれた二人の姫が同じ男性を愛してしまった事から楽浪国と高句麗という二つの国を巻き込んでいく。楽浪姫と好童王子の説話を基に高句麗建国時代を描く（３９話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926175400 +0900" stop="20130926180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作時代劇・江戸を斬る　第五部【終】「花火に散つた老中暗殺」</title>
+    <desc lang="ja_JP">人気時代劇シリーズ「江戸を斬る」の第五弾！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926185400 +0900" stop="20130926190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】特選サスペンス・横山秀夫サスペンス「密室の抜け穴」</title>
+    <desc lang="ja_JP">捜査一課三班班長代理となった東出が姿を消した容疑者の密室の抜け穴を解くサスペンスドラマ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130926205400 +0900" stop="20130926210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】木曜デラックス「パッチギ！」</title>
+    <desc lang="ja_JP">第７９回キネマ旬報ベストテン日本映画ベストワンなど、青春群像劇として高い評価を受けた井筒和幸監督最高傑作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20130926225400 +0900" stop="20130926230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130926233000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">夢の扉＋</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130926233000 +0900" stop="20130927000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">東レパン・パシフィック・オープン２０１３「第５日」</title>
+    <desc lang="ja_JP">第３０回東レ パン・パシフィック・オープンテニス。トッププレーヤー達が繰り広げる世界最高峰の戦いをお届けします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927000000 +0900" stop="20130927003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927003000 +0900" stop="20130927010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927013000 +0900" stop="20130927020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927020000 +0900" stop="20130927023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927023000 +0900" stop="20130927030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！イタリア</title>
+    <desc lang="ja_JP">美しいハイビジョン映像をお届けします。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927050000 +0900" stop="20130927055400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927055400 +0900" stop="20130927060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927063000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927063000 +0900" stop="20130927070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927073000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳニュース</title>
+    <desc lang="ja_JP">国内外のＪＮＮ取材網から送られてくるニュースを２４時間、いち早く伝えるＢＳ－ＴＢＳニュース。地上波では見られない、国内外の会見なども随時ライブで放送！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927073000 +0900" stop="20130927080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【二】ＣＢＳイブニングニュース</title>
+    <desc lang="ja_JP">全米3大ネットワーク・CBSニュースのメインニュース「CBSイブニングニュース」を日本時間午前7時30分から現地より生放送しています。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳ　プレミアムカイモノラボ</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介するショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927083000 +0900" stop="20130927090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927093000 +0900" stop="20130927100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927115500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリー・セレクション・万引きＧメン・二階堂雪１４「優しい殺意」</title>
+    <desc lang="ja_JP">介護の天使が語らぬ秘密と謎の連続殺人！恍惚の老女は何を見たか⁉</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927115500 +0900" stop="20130927120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927123000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927123000 +0900" stop="20130927130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927133000 +0900" stop="20130927140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927140000 +0900" stop="20130927155400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">２０１３パナソニックオープンゴルフ「第２日」</title>
+    <desc lang="ja_JP">真のアジアナンバーワンプレーヤーの称号は誰の手に！？大会第２日目を生中継でお届けします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927155400 +0900" stop="20130927160000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927165500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">奥さま劇場・野々村病院物語Ⅱ「第二十回」</title>
+    <desc lang="ja_JP">個人病院の院長・野々村隆之とその周囲の人々をめぐる様々な出来事を描き、人気を博した「野々村病院物語」のパート２。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927165500 +0900" stop="20130927170000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927175400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・幻の王女チャミョンゴ「第９話」【字幕】</title>
+    <desc lang="ja_JP">同じ日に生まれた二人の姫が同じ男性を愛してしまった事から楽浪国と高句麗という二つの国を巻き込んでいく。楽浪姫と好童王子の説話を基に高句麗建国時代を描く（３９話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927175400 +0900" stop="20130927180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作時代劇・江戸を斬る　第６部「捕物小町初手柄」</title>
+    <desc lang="ja_JP">ＴＢＳ系地上波で放送された人気シリーズがＢＳ－ＴＢＳに登場（ＴＢＳ系地上波１９８１年放送）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927185400 +0900" stop="20130927190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">金曜劇場・喜劇・東京ものがたり１</title>
+    <desc lang="ja_JP">大阪から来た押し掛け女房に借金抱えたバカ息子、料亭開業夢見る母に次々起きる大問題！！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130927205400 +0900" stop="20130927210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927215400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">地球絶景紀行「白夜のムーミン村タンペレ／フィンランド」</title>
+    <desc lang="ja_JP">言葉を失うほどの絶景に、生涯何度めぐりあえるでしょうか。今回の絶景の舞台は森と湖の国・フィンランド。旅の案内人は安田成美。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927215400 +0900" stop="20130927220000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">絶品！シアワセなる食卓</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">日本名曲アルバム「極上のハーモニー特集２」</title>
+    <desc lang="ja_JP">『世代を超えて、歌い継ぎたい曲がある』日本有数の合唱団による珠玉のハーモニーと、ゲストアーティストが日本の名曲を熱唱します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20130927225400 +0900" stop="20130927230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界の窓</title>
+    <desc lang="ja_JP">窓のある風景。現在も人々の生活に根付いている窓から見える歴史や文化を訪ねる世界紀行。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130927233000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">高橋尚子世界を走る！〜フランスで出会った仰天のマラソン〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130927233000 +0900" stop="20130928000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">法円坂ホラー研究会　谷町第二高等学校</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928003000 +0900" stop="20130928010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928013000 +0900" stop="20130928020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928020000 +0900" stop="20130928023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928023000 +0900" stop="20130928030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928030000 +0900" stop="20130928050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">夢の彼方に・イギリス編</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928052400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操・土曜版</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928052400 +0900" stop="20130928053000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928053000 +0900" stop="20130928060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928065500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928065500 +0900" stop="20130928070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928073000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928073000 +0900" stop="20130928080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928083000 +0900" stop="20130928090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928090000 +0900" stop="20130928093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928093000 +0900" stop="20130928100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928105400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">グローバルナビフロント</title>
+    <desc lang="ja_JP">世界の経済・金融情勢を深く鋭く分析ビジネスマン必見の経済番組。今回のテーマ：</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928105400 +0900" stop="20130928110000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928113000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928113000 +0900" stop="20130928120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928125400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニュースの焦点「次の世代へ」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130928125400 +0900" stop="20130928130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928130000 +0900" stop="20130928133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928133000 +0900" stop="20130928140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒポクラテスの誓い「夢の病院をつくろう」</title>
+    <desc lang="ja_JP">医療界で活躍する挑戦者達に迫る！新たな発想、独自に磨いた技術など、これからの日本の医療を支える人々に密着。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928140000 +0900" stop="20130928165400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">侍プロ野球２０１３「ＤｅＮＡ　ｖｓ　巨人」</title>
+    <desc lang="ja_JP">ペナントレースも終盤！セリーグ注目の一戦をを生中継！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928165400 +0900" stop="20130928170000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928170000 +0900" stop="20130928172900 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＨＥ世界遺産「極上チーズを生んだ羊と洞窟」</title>
+    <desc lang="ja_JP">人類共有の宝である世界遺産を、圧倒的な映像美で綴る・・・。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928172900 +0900" stop="20130928180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【SS】ＴＨＥ世界遺産３Ｄ　ＧＲＡＮＤ　ＴＯＵＲ「イスタンブール歴史地区（トルコ）」</title>
+    <desc lang="ja_JP">「イスタンブール歴史地区（トルコ）」待望の「ＴＨＥ世界遺産」シリーズの完全オリジナル３Ｄ版！世界旅行を臨場感あふれる３Ｄ映像でお届けします。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928183000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ぶらり温泉　健美の旅「千葉　北房総」</title>
+    <desc lang="ja_JP">日本全国の　絶景名門温泉地を訪ねながら、その土地の旬な食材を美容効果満点な調理法で堪能し、健康効果抜群の温泉で心身ともにリラックスする旅。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928183000 +0900" stop="20130928185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ワンダーアーストラベラー「ミャンマー　後編〜神秘の仏教遺跡群と幸福の街バガン〜」</title>
+    <desc lang="ja_JP">大自然・大海原・雄大な大地。一生に一度は絶対に行ってみたい場所、そこで体感する地球の鼓動と魅力を旅のプロとお届けする「ワンダーアーストラベラー」。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928185400 +0900" stop="20130928190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928192400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">至福の京都ふらり散歩〜１泊２日　嵐山・嵯峨野篇〜</title>
+    <desc lang="ja_JP">四季折々に様々な魅力を持つ京都。歴史散策、ショッピングから美味処まで…。何度訪れても尽きない「千年の都」。その奥深さを存分にご紹介しましょう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928192400 +0900" stop="20130928193000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">インフォ⑥ロック</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928193000 +0900" stop="20130928205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">２０１３パナソニックオープンゴルフ「第３日」</title>
+    <desc lang="ja_JP">真のアジアナンバーワンプレーヤーの称号は誰の手に！？大会第３日目を生中継でお届けします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928205400 +0900" stop="20130928210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928215400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">日本の名峰・絶景探訪</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928215400 +0900" stop="20130928220000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ドミニカ野球の真実〜野球でしか夢を見られない〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130928225400 +0900" stop="20130928230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130928233000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おんな酒場放浪記</title>
+    <desc lang="ja_JP">ＢＳ－ＴＢＳの人気番組「吉田類の酒場放浪記」から新たな番組が誕生。厳選された名酒場の暖簾を、“お酒大好き女子”がふらりとくぐります。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928233000 +0900" stop="20130929000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ダンガンロンパ　希望の学園と絶望の高校生　Ｔｈｅ　Ａｎｉｍａｉｔｉｏｎ【終】</title>
+    <desc lang="ja_JP">さよなら絶望学園</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">恋愛ラボ「ずっと友達でいてくださいね」</title>
+    <desc lang="ja_JP">由緒正しいお嬢様が通う私立藤崎女子中学校、通称“藤女”。名門中学校の生徒会室では日夜ある研究が行われていた…。それはなんと、「恋をするための研究」だった…！？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929003000 +0900" stop="20130929010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">恋愛ラボ【終】「その手を重ねて」</title>
+    <desc lang="ja_JP">由緒正しいお嬢様が通う私立藤崎女子中学校、通称“藤女”。名門中学校の生徒会室では日夜ある研究が行われていた…。それはなんと、「恋をするための研究」だった…！？</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929010000 +0900" stop="20130929013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ステラ女学院高等科Ｃ３部「当タッテ、弾ケロ。」</title>
+    <desc lang="ja_JP">当たって弾けろ！青春サバゲーストーリー</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929013000 +0900" stop="20130929020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ローゼンメイデン「ローザミスティカ」</title>
+    <desc lang="ja_JP">ひきこもりの中学生・桜田ジュンの元に届いた一通のダイレクトメール。まきますか、まきませんか。その選択により世界は枝分かれした。</desc>
+    <category lang="ja_JP">アニメ・特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20130929020000 +0900" stop="20130929023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929023000 +0900" stop="20130929030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929030000 +0900" stop="20130929050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">Ｊ．ＬＥＡＧＵＥ　ＷＩＤＥ　２０１３「第２７節　柏ｖｓ新潟」</title>
+    <desc lang="ja_JP">Ｊリーグ　ディビジョン１　第２７節「柏レイソルｖｓアルビレックス新潟」注目の一戦をお送りします！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929052400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操・日曜版</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929052400 +0900" stop="20130929053000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929053000 +0900" stop="20130929060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929064500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">時事放談</title>
+    <desc lang="ja_JP">あの番組が帰ってくる！総理経験者らが毎週登場、今の政治にズバリ直言！「今だから話せる」あれこれを激白！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929064500 +0900" stop="20130929070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヒットリサーチ</title>
+    <desc lang="ja_JP">世の中のあらゆるジャンルの注目すべきヒット商品やブームを取り上げ、その開発者や担当者を直撃！ヒットまでの苦労や知恵などをとことん調査し、わかりやすく伝えます！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929073000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929073000 +0900" stop="20130929080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929083000 +0900" stop="20130929090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ウィークエンドマーケット</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">徳さんのお遍路さん</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929093000 +0900" stop="20130929095400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">きづなの交通安全ナビ「通学中の子どもを守れ」</title>
+    <desc lang="ja_JP">全国各地の交通社会の話題を通し、地域が抱える問題を紹介し、その解決策へと導く情報番組。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929095400 +0900" stop="20130929100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929103000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929103000 +0900" stop="20130929110000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929110000 +0900" stop="20130929115400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳ　プレミアムカイモノラボ</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介するショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929115400 +0900" stop="20130929120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929123000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929123000 +0900" stop="20130929125500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">グリーンの教え「石川和則（ＤＡＣグループ代表取締役）」</title>
+    <desc lang="ja_JP">毎回一人のゲストをお招きして、ゴルフにまつわる言葉やゲストの好きな言葉から紐解かれる、ゴルフと今の仕事とのつながりや、人生観について探っていきます。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130929125500 +0900" stop="20130929130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929130000 +0900" stop="20130929133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">田崎亭「ゲスト：石塚英彦〜沖縄」</title>
+    <desc lang="ja_JP">田崎真也が毎回ゲストの趣向に合わせて、おもてなし料理を披露。さらに料理にあった飲み物でゲストを至福の時間に誘います。今回は石塚英彦さんを沖縄に招いておもてなし！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929133000 +0900" stop="20130929140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">トクトク買物便</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929145400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">千年の祈り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929145400 +0900" stop="20130929150000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929155400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">にっぽん鉄道写真の旅・秋の特別編</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929155400 +0900" stop="20130929160000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929175500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ドラマ・医師・円城寺修　杜の都の死刑囚</title>
+    <desc lang="ja_JP">ジャーナリスト殺害事件と２３年前の殺人事件を繋ぐ驚愕の真実…末期ガンに侵された死刑囚が隠し通した哀しい過去</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130929175500 +0900" stop="20130929180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ニュース少年探偵団</title>
+    <desc lang="ja_JP">子どもと一緒に考えるニュース番組。一週間のニュースから、子どもたちも知っておきたいニュースをピックアップ■出演・三雲孝江、森忠彦（毎日小学生新聞編集長）、小林豊</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929185400 +0900" stop="20130929190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929192400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">至福の京都ふらり散歩〜１泊２日　宇治伏見篇〜</title>
+    <desc lang="ja_JP">四季折々に様々な魅力を持つ京都。歴史散策、ショッピングから美味処まで…。何度訪れても尽きない「千年の都」。その奥深さを存分にご紹介しましょう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929192400 +0900" stop="20130929193000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929193000 +0900" stop="20130929205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">２０１３パナソニックオープンゴルフ「最終日」</title>
+    <desc lang="ja_JP">第６回大会を迎える「アジアパシフィック　パナソニックオープン」アジア太平洋地域のＮｏ．１を決める熱戦の最終日をお届けします。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20130929205400 +0900" stop="20130929210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">週刊ＢＳ－ＴＢＳ報道部</title>
+    <desc lang="ja_JP">「次の世代」のために大人たちどう行動し、何を残すべきなのか…。骨太の編集方針を掲げるＢＳ－ＴＢＳ報道部が制作する本格的な週刊ニュース番組。</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130929225400 +0900" stop="20130929230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130929233000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">みんな子どもだった</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929233000 +0900" stop="20130929234500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ・ベストホテル「シェラトン・カウアイ・リゾート」</title>
+    <desc lang="ja_JP">この番組では、世界各国の優雅で洗練されたハイクラスなホテルをご紹介。一生に一度は泊ってみたい、憧れの一流ホテルの魅力を美しいハイビジョン映像でご案内致します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929234500 +0900" stop="20130930000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ザ・ベストホテル「コア・ケア・ホテル＆リゾート」</title>
+    <desc lang="ja_JP">この番組では、世界各国の優雅で洗練されたハイクラスなホテルをご紹介。一生に一度は泊ってみたい、憧れの一流ホテルの魅力を美しいハイビジョン映像でご案内致します。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930003000 +0900" stop="20130930010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930010000 +0900" stop="20130930013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930013000 +0900" stop="20130930020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930020000 +0900" stop="20130930023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930023000 +0900" stop="20130930030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">買物大冒険</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930030000 +0900" stop="20130930030100 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">クロージング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930045900 +0900" stop="20130930050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">オープニング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930050000 +0900" stop="20130930055400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930055400 +0900" stop="20130930060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930063000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930063000 +0900" stop="20130930070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳニュース</title>
+    <desc lang="ja_JP">国内外のＪＮＮ取材網から送られてくるニュースを２４時間、いち早く伝えるＢＳ－ＴＢＳニュース。地上波では見られない、国内外の会見なども随時ライブで放送！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930083000 +0900" stop="20130930090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930093000 +0900" stop="20130930100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930100000 +0900" stop="20130930115500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ミステリー・セレクション・早乙女千春の添乗報告書１「金沢湯けむりツアー殺人事件」</title>
+    <desc lang="ja_JP">担当したツアーで起こる拉致事件、連続殺人事件の謎をベテラン添乗員・早乙女千春が解き明かすサスペンスドラマ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930115500 +0900" stop="20130930120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930123000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930123000 +0900" stop="20130930130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930133000 +0900" stop="20130930140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930155500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリー・セレクション・税務調査官・窓際太郎の事件簿１７</title>
+    <desc lang="ja_JP">税務調査官・窓際太郎シリーズ第１７弾！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20130930155500 +0900" stop="20130930160000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">魔法のワンプレート「蟹とアボカドのもちもちクロケット」</title>
+    <desc lang="ja_JP">月替りで話題のシェフが登場し魔法のアイテム「スパイス＆ハーブ」を使った簡単オリジナル料理を伝授。料理の幅がグーンと広がるスパイス＆ハーブの魅力をお届けします。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930160000 +0900" stop="20130930165500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">奥さま劇場・野々村病院物語Ⅱ「第二十一回」</title>
+    <desc lang="ja_JP">個人病院の院長・野々村隆之とその周囲の人々をめぐる様々な出来事を描き、人気を博した「野々村病院物語」のパート２。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930165500 +0900" stop="20130930170000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930175400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・幻の王女チャミョンゴ「第１０話」【字幕】</title>
+    <desc lang="ja_JP">同じ日に生まれた二人の姫が同じ男性を愛してしまった事から楽浪国と高句麗という二つの国を巻き込んでいく。楽浪姫と好童王子の説話を基に高句麗建国時代を描く（３９話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930175400 +0900" stop="20130930180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作時代劇・江戸を斬る　第６部「死体が消えた藪の中」</title>
+    <desc lang="ja_JP">ＴＢＳ系地上波で放送された人気シリーズがＢＳ－ＴＢＳに登場（ＴＢＳ系地上波１９８１年放送）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930185400 +0900" stop="20130930190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930195400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">それがしりたい【終】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20130930195400 +0900" stop="20130930200000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">伊達な旅紀行　いいトコ！みやぎ「仙台の伝統工芸」</title>
+    <desc lang="ja_JP">宮城県の観光地や食材・物産などの魅力をご紹介。旅人の目線で各地を訪れ、美しい景色や人々の笑顔に出会います。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">世界一周魅惑の鉄道紀行「スペイン究極の輝きを求めて煌めく宝石〜ローマ帝国の遺産」</title>
+    <desc lang="ja_JP">今宵の鉄道紀行はマドリードから古代ローマの遺跡ラスメドゥラスへ。女性を美しく輝かせるトリートメント、カテドラルの荘厳なステンドグラスなど究極の輝きを求める旅へ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930205400 +0900" stop="20130930210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ハイボール万歳！「おうちでハイボール！（川崎市　門川家）」</title>
+    <desc lang="ja_JP">ドランクドラゴン塚地武雅と元宝塚・遼河はるひがハイボールの美味しさを広めに一般家庭の食卓におじゃま！ほっこりあったかな家庭の味とハイボールをお楽しみください！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930220000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">吉田類の酒場放浪記</title>
+    <desc lang="ja_JP">酒場詩人“吉田類”が東京の下町を中心にほっとする酒場をめぐる。「名古屋・のんき屋」、「練馬・田舎料理相馬娘」、「吉田類の赤坂サカスで１０周年」</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930220000 +0900" stop="20130930225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">謎解き！江戸のススメ「柳沢吉保の出世術」〜悪の権化は真実か？</title>
+    <desc lang="ja_JP">江戸時代、武士で一番出世した柳沢吉保。５３０石から１５万石の大大名にまでなった秘訣とは？将軍綱吉の側室染子を拝領妻にした話は真実か？悪の権化の由縁に迫る！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930225400 +0900" stop="20130930230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20130930235400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・ヴァンパイア検事「第６話　ファイトクラブ」【字幕】</title>
+    <desc lang="ja_JP">ある日ヴァンパイアになった検事が特別な能力を使い難事件を解決していくホラーサスペンス。特異なキャラ設定、衝撃的などんでん返しでマニア続出の超話題作！全１２話</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20130930235400 +0900" stop="20131001000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001000000 +0900" stop="20131001003000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001003000 +0900" stop="20131001010000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001010000 +0900" stop="20131001013000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001013000 +0900" stop="20131001020000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001020000 +0900" stop="20131001023000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001023000 +0900" stop="20131001030000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">深夜お買物ピポパッ！</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001030000 +0900" stop="20131001040000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">夢の彼方に・ジャマイカ・メキシコ編</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001040000 +0900" stop="20131001044500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">朝一番ＢＳ－ＴＢＳニュース</title>
+    <desc lang="ja_JP">国内外のＪＮＮ取材網から送られてくるニュースを２４時間、いち早く伝えるＢＳ－ＴＢＳニュース。地上波では見られない、国内外の会見なども随時ライブで放送！</desc>
+    <category lang="ja_JP">ニュース・報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20131001044500 +0900" stop="20131001045400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">日本名曲ミニアルバム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20131001045400 +0900" stop="20131001050000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001050000 +0900" stop="20131001055400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう健康体操</title>
+    <desc lang="ja_JP">中国４千年の健康の知恵から、老若男女問わず簡単にできる健康体操を創作。無理なくそれぞれのペースでできる、朝の“健康実践番組”最初の１週間は新作、以降再放送です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001055400 +0900" stop="20131001060000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001060000 +0900" stop="20131001063000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001063000 +0900" stop="20131001070000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おめざめショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001070000 +0900" stop="20131001075400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【新】おはよう！韓国ドラマ・大望「第１話　異母兄弟」【字幕】</title>
+    <desc lang="ja_JP">ハン・ジェソク、チャン・ヒョク、イ・ヨウォン、ソン・イェジン、チョ・インソン、チャン・グンソクら超豪華キャストが総出演のアクション時代劇。（ＨＤ初・全２６話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001075400 +0900" stop="20131001080000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001080000 +0900" stop="20131001083000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＢＳ－ＴＢＳ　プレミアムカイモノラボ</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介するショッピング番組です。</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001083000 +0900" stop="20131001090000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001090000 +0900" stop="20131001093000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001093000 +0900" stop="20131001100000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">おはよう！買物列島</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001100000 +0900" stop="20131001115500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ミステリー・セレクション・十津川警部シリーズ１６「寝台急行銀河殺人事件」</title>
+    <desc lang="ja_JP">十津川警部と僚友・亀井刑事が寝台急行「銀河」の乗客たちに起こる連続殺人事件の解決に挑む。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001115500 +0900" stop="20131001120000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001120000 +0900" stop="20131001123000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001123000 +0900" stop="20131001130000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001130000 +0900" stop="20131001133000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001133000 +0900" stop="20131001140000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ビバ！ショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001140000 +0900" stop="20131001155500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【字】ミステリー・セレクション・釣り刑事２</title>
+    <desc lang="ja_JP">愛と悲しみの魚たち！脅迫される有名女優、自殺した小説家、彼女の命を救え！事件の裏に隠された人間模様を自慢の竿で一網打尽</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001155500 +0900" stop="20131001160000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001160000 +0900" stop="20131001165500 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">奥さま劇場・野々村病院物語Ⅱ「第二十二回」</title>
+    <desc lang="ja_JP">個人病院の院長・野々村隆之とその周囲の人々をめぐる様々な出来事を描き、人気を博した「野々村病院物語」のパート２。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001165500 +0900" stop="20131001170000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001170000 +0900" stop="20131001175400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・幻の王女チャミョンゴ「第１１話」【字幕】</title>
+    <desc lang="ja_JP">同じ日に生まれた二人の姫が同じ男性を愛してしまった事から楽浪国と高句麗という二つの国を巻き込んでいく。楽浪姫と好童王子の説話を基に高句麗建国時代を描く（３９話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001175400 +0900" stop="20131001180000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001180000 +0900" stop="20131001185400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">名作時代劇・江戸を斬る　第６部「雛祭りの夜の恐怖」</title>
+    <desc lang="ja_JP">ＴＢＳ系地上波で放送された人気シリーズがＢＳ－ＴＢＳに登場（ＴＢＳ系地上波１９８１年放送）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001185400 +0900" stop="20131001190000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001190000 +0900" stop="20131001195400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【新】水戸黄門　第３７部「第一回　将軍御落胤の野望・館林」</title>
+    <desc lang="ja_JP">里見浩太朗が演じる水戸老公、７回目の世直し旅が始める。館林に将軍綱吉の御落胤がいるという知らせを受けた老公は、真実を確かめ、争いを収めるため旅立つ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001195400 +0900" stop="20131001200000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">森の微笑〜ｆｏｒ　ｙｏｕ，ｆｏｒ　ｔｈｅ　ｅａｒｔｈ〜</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001200000 +0900" stop="20131001205400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">関口宏の風に吹かれて</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001205400 +0900" stop="20131001210000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">満足気分</title>
+    <desc lang="ja_JP">ＢＳ-ＴＢＳの魅力をフルにお伝えする番宣番組。おススメ番組の情報をご紹介！ＢＳ-ＴＢＳファンもＢＳ-ＴＢＳビギナーも必見！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001210000 +0900" stop="20131001225400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">【映】火曜デラックス「ザ・コア」【吹き替え】</title>
+    <desc lang="ja_JP">アーロン・エッカート、ヒラリー・スワンク出演で贈るパニック・アクション</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20131001225400 +0900" stop="20131001230000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20131001230000 +0900" stop="20131001235400 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">韓国ドラマ・イニョン王妃の男「第１２話　生きるべき場所」【字幕】</title>
+    <desc lang="ja_JP">朝鮮王朝からタイムスリップしてきたキム・ブンドと、歴史ドラマでイニョン王妃を演じる女優チェ・ヒジン。時間も空間も越えた二人の恋の運命は…！（字幕版・全１６話）</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20131001235400 +0900" stop="20131002000000 +0900" channel="4161.epgdata.ontvjapan" >
+    <title lang="ja_JP">ＴＶショッピング</title>
+    <desc lang="ja_JP">選りすぐりの商品をご紹介！</desc>
+    <category lang="ja_JP">情報</category>
+    <category lang="en">information</category>
+  </programme>
+</tv>

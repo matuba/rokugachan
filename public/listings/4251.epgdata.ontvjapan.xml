@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="4251.epgdata.ontvjapan">
+    <display-name lang="ja_JP">BS釣りビジョン</display-name>
+  </channel>
+  <programme start="20130924210000 +0900" stop="20130924220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 149 印旛沼ドキドキ初体験</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924220000 +0900" stop="20130924230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BBブラザーズ 14 モンドリアンファイター</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924230000 +0900" stop="20130924233000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Road to Basser 17 秋バスを学ぼう！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130924233000 +0900" stop="20130925000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Road to Basser 18 秋バスを釣ってみよう</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925000000 +0900" stop="20130925010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">第28回ジャパンカップ 鮎釣り選手権大会</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925010000 +0900" stop="20130925020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">関西発！海釣り派 115 明石でタイラバ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925020000 +0900" stop="20130925030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">とことんエギパラダイス 87 愛媛県明浜の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925030000 +0900" stop="20130925040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]伝心伝承 128 北海道の鮎</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925040000 +0900" stop="20130925050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BBブラザーズ 14 モンドリアンファイター</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925050000 +0900" stop="20130925060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">深宙 37 宮沢湖 夏最後の大一番</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925060000 +0900" stop="20130925070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">大漁！関東沖釣り爆釣会102 相模湾のカツオ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925070000 +0900" stop="20130925080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">楽釣楽磯宣言 6 石鯛の魅力満載</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925080000 +0900" stop="20130925090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Oh！エド釣り日記 夏の終わりの磯五目</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925090000 +0900" stop="20130925100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">シーバスキャンプ 15 盤州干潟訓練</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925100000 +0900" stop="20130925110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">東北つれつれ団 22 祝卒業！仙台湾マガレイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925110000 +0900" stop="20130925120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Fun to FlyFishing スペイキャスト特集</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925120000 +0900" stop="20130925130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]伝心伝承 128 北海道の鮎</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925130000 +0900" stop="20130925140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">すごかby九州 4 福岡県で秋の波止釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925140000 +0900" stop="20130925150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">突撃！SEAソルジャー　Mission-5</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925150000 +0900" stop="20130925160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]Seabass Journey 13 新潟県・佐渡島</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925160000 +0900" stop="20130925170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">LURE FREAK 64 桧原＆野尻 スモール攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925170000 +0900" stop="20130925180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">JB TOP50 2013 第4戦 福島県桧原湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925180000 +0900" stop="20130925190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">第28回ジャパンカップ 鮎釣り選手権大会</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925190000 +0900" stop="20130925200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">関西発！海釣り派 115 明石でタイラバ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925200000 +0900" stop="20130925210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">フライギャラリー イワナへのアプローチ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925210000 +0900" stop="20130925220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">RUN＆GUN SALT SUMMER SHORE JIGGING</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925220000 +0900" stop="20130925230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">イカ魂 7 和歌山県でイカメタルゲーム！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130925230000 +0900" stop="20130926000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">俺たちのバスフィッシングR 22</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926000000 +0900" stop="20130926010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SALT Dreamer 28　青森県十三湖シーバス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926010000 +0900" stop="20130926020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">バスギャラリー 秋の激タフリザーバー攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926020000 +0900" stop="20130926030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]FishingCafe45 出会いから美を生み出す</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926030000 +0900" stop="20130926040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 149 印旛沼ドキドキ初体験</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926040000 +0900" stop="20130926050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">イカ魂 7 和歌山県でイカメタルゲーム！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926050000 +0900" stop="20130926060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">目指せ！憧れのボートキャプテン</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926060000 +0900" stop="20130926070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">5L ton 6 クサイ都市伝説を解明せよ！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926070000 +0900" stop="20130926080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">伝心伝承 116 旨い東北鮎を求めて</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926080000 +0900" stop="20130926090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">トラウトギャラリー　河西幸彦　夏アマゴ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926090000 +0900" stop="20130926100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">大漁！関東沖釣り爆釣会 67 銚子沖のヒラメ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926100000 +0900" stop="20130926110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">磯を駆ける 48　三重県古和浦の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926110000 +0900" stop="20130926120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 149 印旛沼ドキドキ初体験</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926120000 +0900" stop="20130926130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">楽釣楽磯宣言 12 田辺エリア紀州ダンゴ祭り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926130000 +0900" stop="20130926140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]鮎2013　伊豆の名手が挑む茨城県久慈川</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926140000 +0900" stop="20130926150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">JB TOP50 2013 第4戦 福島県桧原湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926150000 +0900" stop="20130926160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">こちら東海です。98 伊勢湾ジギング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926160000 +0900" stop="20130926170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">鮎2013 名手生む狩野川のニューフェイス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926170000 +0900" stop="20130926180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Azing lab.2nd 13 関西の夏アジング攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926180000 +0900" stop="20130926183000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Road to Basser 17 秋バスを学ぼう！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926183000 +0900" stop="20130926190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Road to Basser 18 秋バスを釣ってみよう</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926190000 +0900" stop="20130926200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]FishingCafe45 出会いから美を生み出す</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926200000 +0900" stop="20130926210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">本気でオカッパリ 68 緊急事態発生！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926210000 +0900" stop="20130926220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">【生】五畳半の狼</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926220000 +0900" stop="20130926230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">こちら東海です。109 御前崎のカツオ釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130926230000 +0900" stop="20130927000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Give Me Heaven 4　晩夏の相模湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927000000 +0900" stop="20130927010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 138 チンチロリミット選手権</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927010000 +0900" stop="20130927020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">フライギャラリー イワナへのアプローチ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927020000 +0900" stop="20130927030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">エリアトラベラーズ 63 ぶなの湖Ⅱ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927030000 +0900" stop="20130927040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">RUN＆GUN SALT SUMMER SHORE JIGGING</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927040000 +0900" stop="20130927050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">大漁！関東沖釣り爆釣会 66 夏カワハギ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927050000 +0900" stop="20130927060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">勝手に番組ジャック！ 7 Go for it！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927060000 +0900" stop="20130927070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">LURE FREAK 64 桧原＆野尻 スモール攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927070000 +0900" stop="20130927080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">弾丸ボーイズ 5 徳島爆釣パラダイス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927080000 +0900" stop="20130927090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BinBinソルト 9　下津井沖のマダイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927090000 +0900" stop="20130927100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">JB TOP50 2013 第4戦 福島県桧原湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927100000 +0900" stop="20130927110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">RUN＆GUN SALT SUMMER SHORE JIGGING</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927110000 +0900" stop="20130927120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]鮎2013　伊豆の名手が挑む茨城県久慈川</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927120000 +0900" stop="20130927130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BBブラザーズ 14 モンドリアンファイター</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927130000 +0900" stop="20130927140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">イカ魂 7 和歌山県でイカメタルゲーム！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927140000 +0900" stop="20130927150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SALT Dreamer 28　青森県十三湖シーバス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927150000 +0900" stop="20130927160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">大漁！関東沖釣り爆釣会102 相模湾のカツオ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927160000 +0900" stop="20130927170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">深宙 37 宮沢湖 夏最後の大一番</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927170000 +0900" stop="20130927180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">根魚！コーストパトロール 3 夏メバル</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927180000 +0900" stop="20130927190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">突撃！SEAソルジャー　Mission-5</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927190000 +0900" stop="20130927200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Go for it！ 118　神奈川県津久井湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927200000 +0900" stop="20130927210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">エリアトラベラーズ 63 ぶなの湖Ⅱ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927210000 +0900" stop="20130927220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SALT Dreamer 39 青森県十三湖のシーバス2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927220000 +0900" stop="20130927230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">バーニング帝国 3 夏休み強化合宿！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130927230000 +0900" stop="20130928000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Megacomplex 14 極秘プロトテスト潜入</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928000000 +0900" stop="20130928010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">シーバスキャンプ 15 盤州干潟訓練</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928010000 +0900" stop="20130928020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">GAN’s GANGS 31 真夏の金砂湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928020000 +0900" stop="20130928030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">俺たちのバスフィッシングR 22</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928030000 +0900" stop="20130928040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">こちら東海です。109 御前崎のカツオ釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928040000 +0900" stop="20130928050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヘラブナギャラリー　夏の終わりの野釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928050000 +0900" stop="20130928060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">関西発！海釣り派 91 ムコイチでタコ釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928060000 +0900" stop="20130928070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">磯を駆ける 60 鳥取県のヒラマサ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928070000 +0900" stop="20130928080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 137 トリプルＤマッチ最終戦</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928080000 +0900" stop="20130928090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">鮎2013 Yuji Style 岩手の銘川攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928090000 +0900" stop="20130928100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">魚種格闘技戦！102 第2幕 西表島</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928100000 +0900" stop="20130928110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">こちら東海です。98 伊勢湾ジギング</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928110000 +0900" stop="20130928120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">とことんエギパラダイス 87 愛媛県明浜の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928120000 +0900" stop="20130928130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">関西発！海釣り派 115 明石でタイラバ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928130000 +0900" stop="20130928140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">JB TOP50 2013 第4戦 福島県桧原湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928140000 +0900" stop="20130928150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]FishingCafe45 出会いから美を生み出す</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928150000 +0900" stop="20130928160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">本気でオカッパリ 68 緊急事態発生！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928160000 +0900" stop="20130928170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">魚種格闘技戦！103 陸奥湾根魚</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928170000 +0900" stop="20130928180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SALT Dreamer 39 青森県十三湖のシーバス2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928180000 +0900" stop="20130928190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]伝心伝承 128 北海道の鮎</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928190000 +0900" stop="20130928200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 149 印旛沼ドキドキ初体験</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928200000 +0900" stop="20130928210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">RUN＆GUN SALT SUMMER SHORE JIGGING</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928210000 +0900" stop="20130928220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ギアステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928220000 +0900" stop="20130928230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">つりステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130928230000 +0900" stop="20130929000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">今更聞けないエリアテク 3 基礎とクランク</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929000000 +0900" stop="20130929010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">磯を駆ける 48　三重県古和浦の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929010000 +0900" stop="20130929020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Go for it！ 118　神奈川県津久井湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929020000 +0900" stop="20130929030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">五畳半の狼 #600</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929030000 +0900" stop="20130929040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">バスギャラリー 秋の激タフリザーバー攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929040000 +0900" stop="20130929050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">エリアトラベラーズ 51 つりぼり あかし</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929050000 +0900" stop="20130929060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Fishing Cafe 36 小笠原釣り紀行1</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929060000 +0900" stop="20130929070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Azing lab.2nd 13 関西の夏アジング攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929070000 +0900" stop="20130929080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">今更聞けない！エリアテク2 カウントダウン</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929080000 +0900" stop="20130929090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">楽釣楽磯宣言 7 秋磯の魅力満載</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929090000 +0900" stop="20130929100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">伝心伝承117 シーズン終盤の清流に喜色満面</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929100000 +0900" stop="20130929110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ギアステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929110000 +0900" stop="20130929120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">エリアトラベラーズ 63 ぶなの湖Ⅱ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929120000 +0900" stop="20130929130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">五畳半の狼 #600</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929130000 +0900" stop="20130929140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">つりステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929140000 +0900" stop="20130929150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Dz SALT 48 東北遠征 秋田のリバーシーバス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929150000 +0900" stop="20130929160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">GAN’s GANGS 31 真夏の金砂湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929160000 +0900" stop="20130929170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">バーニング帝国 3 夏休み強化合宿！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929170000 +0900" stop="20130929180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">フライギャラリー イワナへのアプローチ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929180000 +0900" stop="20130929190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BBブラザーズ 14 モンドリアンファイター</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929190000 +0900" stop="20130929200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">イカ魂 7 和歌山県でイカメタルゲーム！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929200000 +0900" stop="20130929210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">こちら東海です。109 御前崎のカツオ釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929210000 +0900" stop="20130929220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">第8回オールジャパン鮎チームトーナメント</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929220000 +0900" stop="20130929230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">鮎2013 天竜川の大鮎</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130929230000 +0900" stop="20130930000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">楽釣楽磯宣言 12 田辺エリア紀州ダンゴ祭り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930000000 +0900" stop="20130930010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ギアステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930010000 +0900" stop="20130930020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]FishingCafe45 出会いから美を生み出す</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930020000 +0900" stop="20130930030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">つりステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930030000 +0900" stop="20130930040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BIG BITE 101 豪雨の旭川ダム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930040000 +0900" stop="20130930050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">下野流！ 113　下野さんと夏休み</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930050000 +0900" stop="20130930060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">本気でオカッパリ 62 船と自転車とサル番長</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930060000 +0900" stop="20130930070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">JB TOP50 2013 第4戦 福島県桧原湖</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930070000 +0900" stop="20130930080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">LURE FREAK 46　男・加藤誠司の夏祭り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930080000 +0900" stop="20130930090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">今更聞けないエリアテク 3 基礎とクランク</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930090000 +0900" stop="20130930100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">すごかby九州 4 福岡県で秋の波止釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930100000 +0900" stop="20130930110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">深宙 31　山梨県千代田湖で感じる秋の訪れ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930110000 +0900" stop="20130930120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">こちら東海です。109 御前崎のカツオ釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930120000 +0900" stop="20130930130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">大漁！関東沖釣り爆釣会 67 銚子沖のヒラメ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930130000 +0900" stop="20130930140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">五畳半の狼 #600</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930140000 +0900" stop="20130930150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">鮎2013 天竜川の大鮎</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930150000 +0900" stop="20130930160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">鮎2013 Yuji Style 岩手の銘川攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930160000 +0900" stop="20130930170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]FishingCafe45 出会いから美を生み出す</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930170000 +0900" stop="20130930180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ギアステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930180000 +0900" stop="20130930190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">イカ魂 7 和歌山県でイカメタルゲーム！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930190000 +0900" stop="20130930200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">つりステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930200000 +0900" stop="20130930210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SUGOIアワー 149 印旛沼ドキドキ初体験</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930210000 +0900" stop="20130930220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">沖釣りギャラリー 腰越沖のカワハギ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930220000 +0900" stop="20130930230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BIG BITE 101 豪雨の旭川ダム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20130930230000 +0900" stop="20131001000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ソルトギャラリー POWER FIGHT アオモリ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001000000 +0900" stop="20131001010000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">第8回オールジャパン鮎チームトーナメント</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001010000 +0900" stop="20131001020000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">RUN＆GUN SALT SUMMER SHORE JIGGING</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001020000 +0900" stop="20131001030000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">BBブラザーズ 14 モンドリアンファイター</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001030000 +0900" stop="20131001040000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SALT Dreamer 39 青森県十三湖のシーバス2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001040000 +0900" stop="20131001050000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">磯を駆ける 44　山口県須佐の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001050000 +0900" stop="20131001060000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">鮎2010 YujiStyle　東西終盤入れ掛かり</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001060000 +0900" stop="20131001070000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">とことんエギパラダイス 87 愛媛県明浜の旅</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001070000 +0900" stop="20131001080000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">東北つれつれ団 16 青森県のマダイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001080000 +0900" stop="20131001090000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ヘラブナ漫遊記 49 晩秋の底釣り</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001090000 +0900" stop="20131001100000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Osprey's EYE 15 茨城県霞ヶ浦</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001100000 +0900" stop="20131001110000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">[解]沖釣りギャラリー 南房総コマセマダイ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001110000 +0900" stop="20131001120000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">バーニング帝国 3 夏休み強化合宿！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001120000 +0900" stop="20131001130000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">ギアステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001130000 +0900" stop="20131001140000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">SALT Dreamer 39 青森県十三湖のシーバス2</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001140000 +0900" stop="20131001150000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">つりステーション #371</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001150000 +0900" stop="20131001160000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">本気でオカッパリ 68 緊急事態発生！</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001160000 +0900" stop="20131001170000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">エリアトラベラーズ 63 ぶなの湖Ⅱ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001170000 +0900" stop="20131001180000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">五畳半の狼 #600</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001180000 +0900" stop="20131001190000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Dz SALT 14  和歌山ナイトシーバス</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001190000 +0900" stop="20131001200000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">RUN＆GUN SALT SUMMER SHORE JIGGING</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001200000 +0900" stop="20131001210000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">第8回オールジャパン鮎チームトーナメント</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001210000 +0900" stop="20131001220000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">Osprey's EYE 19 大分県芹川ダム</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001220000 +0900" stop="20131001230000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">D-IMPACT 44 ワカサギレイク攻略</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20131001230000 +0900" stop="20131002000000 +0900" channel="4251.epgdata.ontvjapan" >
+    <title lang="ja_JP">シーバスキャンプ 9　湘南キャンプ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+</tv>

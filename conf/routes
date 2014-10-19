@@ -1,0 +1,15 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.Application.index
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)
+
+#programme list JSON
+GET     /json/programmes/$year<[0-9]{4}>/$monthOfYear<[0-9]{2}>/$dayOfMonth<[0-9]{2}>/$hourOfDay<[0-9]{2}>/$minuteOfHour<[0-9]{2}>/$length<[0-9]{3}>/:broadcast/:ch      controllers.Application.getProgrammesJSON(year:String, monthOfYear:String, dayOfMonth:String, hourOfDay:String, minuteOfHour:String, length:String, broadcast:String, ch:String)
+
+#channel name JSON
+GET     /json/name/:ch      		controllers.Application.getChannelNameJSON(ch : String)
