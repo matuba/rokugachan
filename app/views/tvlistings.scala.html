@@ -33,10 +33,17 @@ $(function() {
 	prependTimeTable("#tvlistingTime")
 	appendTimeTable("#tvlistingTime")
 
-//	var tvlistings = new Array(9)
-//	var channelNames = new Array("4101","26","25","24","23","22","21","20","18")
-	var tvlistings = new Array(1)
-	var channelNames = new Array("4101")
+	var tvlistings = new Array(9)
+	var channelNames = new Array(
+			"4103.epgdata.ontvjapan",
+			"4141.epgdata.ontvjapan",
+			"4141.epgdata.ontvjapan",
+			"4161.epgdata.ontvjapan",
+			"4171.epgdata.ontvjapan",
+			"4181.epgdata.ontvjapan",
+			"4191.epgdata.ontvjapan",
+			"4192.epgdata.ontvjapan",
+			"4193.epgdata.ontvjapan")
 
 	for(var i=0;i<tvlistings.length;i++){
 		indexName = String(i+1);
@@ -46,7 +53,7 @@ $(function() {
 	
 	prevTime = new Date(nowTime.getTime() - (1000 * 60 * 60 * 4))
 	nextTime = new Date(nowTime.getTime() + (1000 * 60 * 60 * 4))
-	for(var i=0;i<9;i++){
+	for(var i=0;i<tvlistings.length;i++){
 		tvlistings[i].getChannelName()
 		tvlistings[i].createListingTable(nowTime)
 		tvlistings[i].prependTr(prependTime)

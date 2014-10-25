@@ -39,7 +39,8 @@ class TVListings(filename:String) {
       var programme = new TVProgramme(e)
       if((programme.start.isEqual(start) || programme.start.isAfter(start))
           && programme.start.isBefore(stop)){
-    	  programmeList = programme.toJson +: programmeList
+//    	  programmeList = programme.toJson +: programmeList
+    	  programmeList = programmeList :+ programme.toJson
       }
     }
     Json.toJson(programmeList)
