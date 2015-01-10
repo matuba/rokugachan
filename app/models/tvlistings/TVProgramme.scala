@@ -1,4 +1,4 @@
-package xml
+package models.tvlistings
 
 import scala.xml.Node
 import play.api.libs.json.Json

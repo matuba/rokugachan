@@ -846,7 +846,7 @@
     <category lang="en">sports</category>
   </programme>
   <programme start="20130930083000 +0900" stop="20130930090000 +0900" channel="4241.epgdata.ontvjapan" >
-    <title lang="ja_JP">美男料理<イケメンCooking>＃14</title>
+    <title lang="ja_JP">美男料理&lt;イケメンCooking&gt;＃14</title>
     <desc lang="ja_JP"></desc>
     <category lang="ja_JP">バラエティ</category>
     <category lang="en">variety</category>
@@ -1086,7 +1086,7 @@
     <category lang="en">sports</category>
   </programme>
   <programme start="20131001183000 +0900" stop="20131001190000 +0900" channel="4241.epgdata.ontvjapan" >
-    <title lang="ja_JP">【無】美男料理<イケメンCooking>＃14</title>
+    <title lang="ja_JP">【無】美男料理&lt;イケメンCooking&gt;＃14</title>
     <desc lang="ja_JP"></desc>
     <category lang="ja_JP">バラエティ</category>
     <category lang="en">variety</category>

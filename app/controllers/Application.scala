@@ -5,7 +5,7 @@ import play.api.mvc._
 import play.api.libs.json._
 import java.util.Calendar
 import java.util.TimeZone
-import xml.TVListings
+import models.tvlistings.TVListings
 import org.joda.time.DateTime
 
 object Application extends Controller {

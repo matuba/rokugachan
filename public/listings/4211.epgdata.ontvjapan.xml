@@ -858,7 +858,7 @@
     <category lang="en">anime</category>
   </programme>
   <programme start="20130929000000 +0900" stop="20130929003000 +0900" channel="4211.epgdata.ontvjapan" >
-    <title lang="ja_JP"><物語>シリーズセカンドシーズン　＃12</title>
+    <title lang="ja_JP">&lt;物語&gt;シリーズセカンドシーズン　＃12</title>
     <desc lang="ja_JP"></desc>
     <category lang="ja_JP">アニメ・特撮</category>
     <category lang="en">anime</category>
@@ -1236,7 +1236,7 @@
     <category lang="en">news</category>
   </programme>
   <programme start="20130930220000 +0900" stop="20130930230000 +0900" channel="4211.epgdata.ontvjapan" >
-    <title lang="ja_JP">韓国ドラマ　美男<イケメン>☆スター誕生　＃06「気になる相手」</title>
+    <title lang="ja_JP">韓国ドラマ　美男&lt;イケメン&gt;☆スター誕生　＃06「気になる相手」</title>
     <desc lang="ja_JP">ウヒョンのかつての恋人イニョンは、サニー企画へ移籍する。しかし、その条件としてウヒョンと共に曲を出すことを要求。一方、スンヨンと共に酒を飲んでいたウヒョンは…</desc>
     <category lang="ja_JP">ドラマ</category>
     <category lang="en">drama</category>

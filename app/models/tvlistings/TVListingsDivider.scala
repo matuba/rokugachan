@@ -1,4 +1,4 @@
-package xml
+package models.tvlistings
 
 import play.api._
 import scala.xml.XML
@@ -53,7 +53,7 @@ class TVListingsDivider(filename:String) {
 	    || childNode.label.equals("desc") 
 	    || childNode.label.equals("category")){
 	  val label = childNode.label
-	  val text = childNode.text
+	  val text = scala.xml.Utility.escape(childNode.text)
 	  var lang = "ja_JP"
 	  if(!childNode.\("@lang").isEmpty){
 	    lang = childNode.\("@lang").text

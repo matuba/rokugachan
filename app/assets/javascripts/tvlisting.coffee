@@ -12,7 +12,7 @@ class @Tvlisting
 			return title.substring(0, 20)
 		else if height >= 30
 			return title.substring(0, 10)
-		return ""
+		return title.substring(0, 10)
 
 	@getProgrammeHeight:( start, stop) ->
 		return (( stop - start) / (1000 * 60)) * 4;
@@ -34,8 +34,35 @@ class @Tvlisting
 		height = @getProgrammeHeight( programme.start, programme.stop)
 		tr = $('<tr/>')
 		td = $('<td/>')
-		small = $('<small/>')
-		small.text(@adjustTitle( programme.title, height))
+#		small = $('<small/>')
+#		small.text(@adjustTitle( programme.title, height))
+#small.normal{
+#	font-size:1px;
+#	transform:scale(0.5);
+#}
+		scale = 1.0
+		if height <= 30
+			scale = height / 20
+		if height <= 16
+			scale = 1.0
+		if height <= 8
+			scale = 0.8
+		if height <= 4
+			scale = 0.4
+
+		lineheight = (10.0 * scale)-1
+		div = $('<div/>')
+		div.text(@adjustTitle( programme.title, height))
+		div.css("font-size", "10px")
+		div.css("transform", "matrix(" + scale + ", 0, 0, " + scale + ", 0, 0)")
+		div.css("transform-origin", "0 0")
+		div.css("line-height", lineheight + "px")
+		div.css("overflow", "hidden")
+
+#		div.css("height", height.toString() + "px")
+#		div.css("min-height", height.toString() + "px")
+		div.css("padding", "0px")
+		div.css("margin", "0px")
 
 		start = new Date(programme.start)	
 		stop = new Date(programme.stop)
@@ -55,14 +82,29 @@ class @Tvlisting
 			duplicated: true,
 			pauseOnHover: true
 			});
+#		td.css("padding", "0px")
+#		td.css("table-layout", "fixed")
 
+#		td.css("height", height.toString() + "px")
+#		td.css("min-height", height.toString() + "px")
 		td.css("padding", "0px")
-		td.css("table-layout", "fixed")
+		td.css("margin", "0px")
+#		td.css("border-collapse", "collapse")
+#		td.css("border-spacing", "0px")
 
 		tr.attr({"start":programme.start})
 		tr.attr({"stop":programme.stop})
 		tr.css("height", height.toString() + "px")
-		small.appendTo(td)
+		tr.css("border-collapse", "collapse")
+		tr.css("border-spacing", "0px")
+
+		tr.css("min-height", height.toString() + "px")
+		tr.css("padding", "0px")
+		tr.css("margin", "0px")
+		
+#		small.appendTo(td)
+		div.appendTo(td)
+
 		td.appendTo(tr)
 		return tr
 

@@ -1,4 +1,4 @@
-package xml
+package models.tvlistings
 
 import play.api._
 import org.joda.time.DateTime
