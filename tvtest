@@ -1,0 +1,80 @@
+
+
+
+
+
+#		small = $('<small/>')
+#		small.text(@adjustTitle( programme.title, height))
+#small.normal{
+#	font-size:1px;
+#	transform:scale(0.5);
+#}
+    scale = 1.0
+    if height <= 30
+      scale = height / 20
+    if height <= 16
+      scale = 1.0
+    if height <= 8
+      scale = 0.8
+    if height <= 4
+      scale = 0.4
+
+    lineheight = (10.0 * scale)-1
+    div = $('<div/>')
+#		div.text(@adjustTitle( programme.title, height))
+    div.text( programme.title, height)
+
+    div.css("font-size", "10px")
+    div.css("transform", "matrix(" + scale + ", 0, 0, " + scale + ", 0, 0)")
+    div.css("transform-origin", "0 0")
+    div.css("line-height", lineheight + "px")
+    div.css("overflow", "hidden")
+
+    div.css("height", height.toString() + "px")
+#		div.css("min-height", height.toString() + "px")
+    div.css("padding", "0px")
+    div.css("margin", "0px")
+
+    start = new Date(programme.start)
+    stop = new Date(programme.stop)
+    days = ["日", "月", "火", "水", "木", "金", "土"]
+    day = days[start.getDay()]
+    infoTime = (" "+start.getDate()).slice(-2) + "日(" + day + ")" + ("0"+start.getHours()).slice(-2) + ":" + ("0"+start.getMinutes()).slice(-2) + "-" + ("0"+stop.getHours()).slice(-2) + ":" + ("0"+stop.getMinutes()).slice(-2)
+
+    td.attr({"class":programme.category})
+    td.hover ->
+      $('#infoTime').html("<font color='lightcyan'>" + infoTime + "</font>")
+      $('.marquee').html("<font color='lightcyan'>" + programme.title + "</font>" + programme.desc)
+      $('.marquee').marquee({
+      speed: 10000,
+      gap: 150,
+      delayBeforeStart: 900,
+      direction: 'left',
+      duplicated: true,
+      pauseOnHover: true
+      });
+#		td.css("padding", "0px")
+#		td.css("table-layout", "fixed")
+
+    td.css("height", height.toString() + "px")
+#		td.css("min-height", height.toString() + "px")
+    td.css("padding", "0px")
+    td.css("margin", "0px")
+#		td.css("border-collapse", "collapse")
+#		td.css("border-spacing", "0px")
+
+    tr.attr({"start":programme.start})
+    tr.attr({"stop":programme.stop})
+    tr.css("height", height.toString() + "px")
+    tr.css("border-collapse", "collapse")
+    tr.css("border-spacing", "0px")
+
+    tr.css("min-height", height.toString() + "px")
+    tr.css("padding", "0px")
+    tr.css("margin", "0px")
+
+#		small.appendTo(td)
+    div.appendTo(td)
+
+    td.appendTo(tr)
+    return tr

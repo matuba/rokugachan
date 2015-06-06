@@ -23,9 +23,9 @@ nowTime = new Date()
 prependTime = new Date()
 appendTime = new Date()
 $(function() {
-	nowTime = new Date(2013, 9, 24, 21, 40, 0);
-	prependTime = new Date(2013, 9, 24, 21, 40, 0);
-	appendTime = new Date(2013, 9, 24, 21, 40, 0);
+	nowTime = new Date(2013, 9, 25, 21, 00, 0);
+	prependTime = new Date(2013, 9, 25, 21, 00, 0);
+	appendTime = new Date(2013, 9, 25, 21, 00, 0);
 	prependTime = new Date(prependTime.getTime() - (1000 * 60 * 60 * 4))
 	appendTime = new Date(appendTime.getTime() + (1000 * 60 * 60 * 4))
 
@@ -34,7 +34,17 @@ $(function() {
 	appendTimeTable("#tvlistingTime")
 
 	var tvlistings = new Array(9)
-	var channelNames = new Array(
+		var channelNames = new Array(
+			"4200.epgdata.ontvjapan",
+			"4101.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan",
+			"4200.epgdata.ontvjapan")
+/*	var channelNames = new Array(
 			"4103.epgdata.ontvjapan",
 			"4141.epgdata.ontvjapan",
 			"4200.epgdata.ontvjapan",
@@ -44,7 +54,7 @@ $(function() {
 			"4191.epgdata.ontvjapan",
 			"4192.epgdata.ontvjapan",
 			"4193.epgdata.ontvjapan")
-
+*/
 	for(var i=0;i<tvlistings.length;i++){
 		indexName = String(i+1);
 		tvlistings[i] = new Tvlisting( "#tvlisting" + indexName, "#title" + indexName, channelNames[i], 240, 240 * 4)

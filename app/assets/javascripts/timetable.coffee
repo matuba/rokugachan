@@ -1,50 +1,58 @@
-timeBetween = 4
+class @TimeTable
+  @TIME_BETWEEN : 4
 
-@createTimeTableTag = ( hour) ->
-	tr = $('<tr/>')
-	td = $('<td/>')
-	small = $('<small/>')
-	showTime = ("0" + hour).slice(-2)
-	small.text(showTime)
-	td.attr({"class":"timebetween" + showTime});
-	tr.css("height", "240px")
-	small.appendTo(td)
-	td.appendTo(tr)
-	return tr
+  constructor:(tablename, tvlistingsId, createTime) ->
+    @timeTable = @createTimeTable(tablename, tvlistingsId, createTime.getTime())
 
-@createTimeTable = ( start, tablename) ->
-	table = $(tablename)
-	table.css("width", "30px")
-	table.css("float", "left")
-	stop = start + (timeBetween * 60 * 60 * 1000)
-	while start < stop
-		table.append( @createTimeTableTag( new Date(start).getHours()))
-		start = start + (60 * 60 * 1000)
+  createTimeTag : ( hour) ->
+    tr = $('<tr/>')
+    td = $('<td/>')
+    small = $('<small/>')
+    showTime = ("0" + hour).slice(-2)
+    small.text(showTime)
+    td.attr({"class":"timebetween" + showTime});
+    tr.css("height", "300px")
+    small.appendTo(td)
+    td.appendTo(tr)
+    return tr
 
-@appendTimeTable = ( tablename) ->
-	hour = $(tablename + ' tr:last-child td').text() 
-	hour = parseInt(hour, 10)
-	startDate = new Date();
-	startDate.setHours(hour)
-	start = startDate.getTime()
-	for i in [0...timeBetween]
-		start = start + (60 * 60 * 1000)
-		$(tablename).append( @createTimeTableTag( new Date(start).getHours()))
+  createTimeTable : (tablename, tvlistingsId, start) ->
+    timeTable = $("<table id='" + tablename + "'></table>").appendTo("#" + tvlistingsId)
+    timeTable.addClass("table table-bordered table-condensed tvlistingTime")
+    timeTable.css("width", "30px")
+    timeTable.css("float", "left")
 
-@prependTimeTable = ( tablename) ->
-	hour = $(tablename + ' tr:first-child td').text()
-	hour = parseInt(hour, 10)
-	startDate = new Date();
-	startDate.setHours(hour)
-	start = startDate.getTime()
-	for i in [0...timeBetween]
-		start = start - (60 * 60 * 1000)
-		$(tablename).prepend( @createTimeTableTag( new Date(start).getHours()))
+    stop = start + (TimeTable.TIME_BETWEEN * 60 * 60 * 1000)
+    while start < stop
+      timeTable.append( @createTimeTag( new Date(start).getHours()))
+      start = start + (60 * 60 * 1000)
+    return timeTable
 
-@dropFirstTimeTable = ( tablename) ->
-	for i in [0...timeBetween]
-		$(tablename + ' tr:first').remove()
+  appendTimeTable : ->
+    hour = @timeTable.children('tbody').children('tr:last').children('td').text()
 
-@dropLastTimeTable = ( tablename) ->
-	for i in [0...timeBetween]
-		$(tablename + ' tr:last').remove()
+    hour = parseInt(hour, 10)
+    startDate = new Date();
+    startDate.setHours(hour)
+    start = startDate.getTime()
+    for i in [0...TimeTable.TIME_BETWEEN]
+      start = start + (60 * 60 * 1000)
+      @timeTable.append( @createTimeTag( new Date(start).getHours()))
+
+  prependTimeTable : ->
+    hour = @timeTable.children('tbody').children('tr:first').children('td').text()
+    hour = parseInt(hour, 10)
+    startDate = new Date();
+    startDate.setHours(hour)
+    start = startDate.getTime()
+    for i in [0...TimeTable.TIME_BETWEEN]
+      start = start - (60 * 60 * 1000)
+      @timeTable.prepend( @createTimeTag( new Date(start).getHours()))
+
+  dropFirstTimeTable : ->
+    for i in [0...TimeTable.TIME_BETWEEN]
+      @timeTable.children('tbody').children('tr:first').remove()
+
+  dropLastTimeTable : ->
+    for i in [0...TimeTable.TIME_BETWEEN]
+      @timeTable.children('tbody').children('tr:last').remove()

@@ -5,6 +5,7 @@
 # Home page
 GET     /                           controllers.Application.index
 
+
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)
 
@@ -13,3 +14,7 @@ GET     /json/programmes/$year<[0-9]{4}>/$monthOfYear<[0-9]{2}>/$dayOfMonth<[0-9
 
 #channel name JSON
 GET     /json/name/:ch      		controllers.Application.getChannelNameJSON(ch : String)
+
+
+# 画面Test page
+GET     /test/listings                           controllers.Application.testListings

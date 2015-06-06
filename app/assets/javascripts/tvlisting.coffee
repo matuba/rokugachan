@@ -1,204 +1,218 @@
 class @Tvlisting
-	constructor:( @tablename, @titlename, @channelname, @timerange, @programmeheight) ->
+  @TIME_RANGE : (60 * 4)
+  @ONE_MINUTE_HEIGHT: 5
+  @TITLE_LINE_LENGTH: 12
+  @DAY_OF_WEEK = ["日", "月", "火", "水", "木", "金", "土"]
 
-	@adjustTitle:(title, height) ->
-		if height >= 240
-			return title
-		else if height >= 120
-			return title.substring(0, 40)
-		else if height >= 90
-			return title.substring(0, 30)
-		else if height >= 60
-			return title.substring(0, 20)
-		else if height >= 30
-			return title.substring(0, 10)
-		return title.substring(0, 10)
+  constructor:(@channelname, tvlistingsId, tvlistingNamesId, createtime) ->
+    @tvlistingNameTable = @createListingNameTable(tvlistingNamesId, @channelname)
+    @tvlistingsTable = @createListingTable(tvlistingsId, @channelname)
+    @ajaxSetChannelName()
+    @ajaxAppendListingTable(createtime)
 
-	@getProgrammeHeight:( start, stop) ->
-		return (( stop - start) / (1000 * 60)) * 4;
+  @calcProgrammeHeight:( start, stop) ->
+    return (( stop - start) / (1000 * 60)) * @ONE_MINUTE_HEIGHT;
 
-	getLoading:( loading) ->
-		if $(@tablename).attr("loading") == "true"
-			return true
-		return false
+  @createSpaceTag:( start, stop) ->
+    height = @calcProgrammeHeight( start, stop)
+    if height is 0
+      return
+    tr = $('<tr/>')
+    tr.attr({"start":start})
+    tr.attr({"stop":stop})
+    tr.css("height", height + "px")
+    return tr
 
-	@createListingTableSpaceTag:( start, stop) ->
-		tr = $('<tr/>')
-		tr.attr({"start":start});
-		tr.attr({"stop":stop});
-		height = @getProgrammeHeight( stop, start)
-		tr.css("height", height.toString() + "px")
-		return tr
+  @createProgrammeTag:( programme) ->
+    height = @calcProgrammeHeight( programme.start, programme.stop)
 
-	@createListingTableTag:( programme) ->
-		height = @getProgrammeHeight( programme.start, programme.stop)
-		tr = $('<tr/>')
-		td = $('<td/>')
-#		small = $('<small/>')
-#		small.text(@adjustTitle( programme.title, height))
-#small.normal{
-#	font-size:1px;
-#	transform:scale(0.5);
-#}
-		scale = 1.0
-		if height <= 30
-			scale = height / 20
-		if height <= 16
-			scale = 1.0
-		if height <= 8
-			scale = 0.8
-		if height <= 4
-			scale = 0.4
+    start = new Date(programme.start)
+    stop = new Date(programme.stop)
+    infoTime = (" "+start.getDate()).slice(-2) + "日(" + @DAY_OF_WEEK[start.getDay()] + ")"
+    infoTime = infoTime + ("0"+start.getHours()).slice(-2) + ":" + ("0"+start.getMinutes()).slice(-2)
+    infoTime = infoTime + "-" + ("0"+stop.getHours()).slice(-2) + ":" + ("0"+stop.getMinutes()).slice(-2)
 
-		lineheight = (10.0 * scale)-1
-		div = $('<div/>')
-		div.text(@adjustTitle( programme.title, height))
-		div.css("font-size", "10px")
-		div.css("transform", "matrix(" + scale + ", 0, 0, " + scale + ", 0, 0)")
-		div.css("transform-origin", "0 0")
-		div.css("line-height", lineheight + "px")
-		div.css("overflow", "hidden")
+    tr = $('<tr/>')
+    tr.attr({"class":"tvlisting"})
+    tr.attr({"start":programme.start})
+    tr.attr({"stop":programme.stop})
+    tr.css("height", height.toString() + "px")
 
-#		div.css("height", height.toString() + "px")
-#		div.css("min-height", height.toString() + "px")
-		div.css("padding", "0px")
-		div.css("margin", "0px")
+    td = $('<td/>')
+    td.attr({"class":programme.category})
+    td.hover ->
+      $('#infoTime').html("<font color='lightcyan'>" + infoTime + "</font>")
+      $('.marquee').html("<font color='lightcyan'>" + programme.title + "</font>" + programme.desc)
+      $('.marquee').marquee({
+        speed: 10000,
+        gap: 150,
+        delayBeforeStart: 900,
+        direction: 'left',
+        duplicated: true,
+        pauseOnHover: true
+      });
 
-		start = new Date(programme.start)	
-		stop = new Date(programme.stop)
-		days = ["日", "月", "火", "水", "木", "金", "土"]
-		day = days[start.getDay()]
-		infoTime = (" "+start.getDate()).slice(-2) + "日(" + day + ")" + ("0"+start.getHours()).slice(-2) + ":" + ("0"+start.getMinutes()).slice(-2) + "-" + ("0"+stop.getHours()).slice(-2) + ":" + ("0"+stop.getMinutes()).slice(-2)
+    div = $('<div/>')
+    div.attr({"class":"tvlisting"})
+    div.css("height", height + "px")
+    div.css("font-size", @adjustProgrammeFontSize( height) + "px")
+    div.text( @adjustProgrammeTitle(programme.title, height))
 
-		td.attr({"class":programme.category})
-		td.hover ->
-			$('#infoTime').html("<font color='lightcyan'>" + infoTime + "</font>")
-			$('.marquee').html("<font color='lightcyan'>" + programme.title + "</font>" + programme.desc)
-			$('.marquee').marquee({
-			speed: 10000,
-			gap: 150,
-			delayBeforeStart: 900,
-			direction: 'left',
-			duplicated: true,
-			pauseOnHover: true
-			});
-#		td.css("padding", "0px")
-#		td.css("table-layout", "fixed")
+    div.appendTo(td)
+    td.appendTo(tr)
+    return tr
 
-#		td.css("height", height.toString() + "px")
-#		td.css("min-height", height.toString() + "px")
-		td.css("padding", "0px")
-		td.css("margin", "0px")
-#		td.css("border-collapse", "collapse")
-#		td.css("border-spacing", "0px")
+  @prependTrSpace:(currentTr) ->
+    spaceStop = currentTr.attr("start")
+    prevTr = currentTr.prev()
+    if prevTr?
+      spaceStart = prevTr.attr("stop")
+    else
+      return
+    trSpace = @createSpaceTag(spaceStart, spaceStop)
+    unless trSpace?
+      return
+    currentTr.before(trSpace)
 
-		tr.attr({"start":programme.start})
-		tr.attr({"stop":programme.stop})
-		tr.css("height", height.toString() + "px")
-		tr.css("border-collapse", "collapse")
-		tr.css("border-spacing", "0px")
+  @adjustProgrammeTitle:(title, height) ->
+    adjustTitle = title
+    if height <= @ONE_MINUTE_HEIGHT * 3
+      adjustTitle = title.substring(0, @TITLE_LINE_LENGTH)
+    else if height <= @ONE_MINUTE_HEIGHT * 5
+      adjustTitle = title.substring(0, @TITLE_LINE_LENGTH * 2)
+    else if height <= @ONE_MINUTE_HEIGHT * 7
+      adjustTitle = title.substring(0, @TITLE_LINE_LENGTH * 3)
 
-		tr.css("min-height", height.toString() + "px")
-		tr.css("padding", "0px")
-		tr.css("margin", "0px")
-		
-#		small.appendTo(td)
-		div.appendTo(td)
+    if adjustTitle.lngth != title.length
+      adjustTitle = adjustTitle + "..."
+    return adjustTitle
 
-		td.appendTo(tr)
-		return tr
+  @adjustProgrammeFontSize:(height) ->
+    if height <= @ONE_MINUTE_HEIGHT
+      return 5
+    return 10
 
-	createListingTable:(createtime) ->
-		url = getJsonProgrammesURL(createtime, @timerange, "GR", @channelname)
+  @adjustFirstHeight:(table) ->
+    firstBuffer = table.children('tbody').children('tr:first')
+    firstProgramme = firstBuffer.next()
+    start = new Date(parseInt(firstProgramme.attr("start"),10))
+    stop = new Date(parseInt(firstProgramme.attr("start"),10))
+    start.setMinutes(0)
 
-		table = $(@tablename)
-		table.css("width", "140px");
-		table.css("float", "left");
-		caption = $('<caption/>')
-		caption.text('')
-		caption.css("height", "0px")
-		caption.attr({"loading":"false"});
-		table.append(caption)
-		jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.createTrCallBack( programmes, @tablename, createtime)});
+    height = @calcProgrammeHeight(start, stop)
+    firstBuffer.css("height", height + "px")
 
-	@createTrCallBack:(programmes, tablename, start) ->
-		table = $(tablename)
-		if programmes.length is 0
-			table.attr({"loading":false});
-			return
+  @appendTrCallBack:(programmes, table) ->
+    if programmes.length is 0
+      table.attr({"loading":false});
+      return
 
-		height = (programmes[0].start - start.getTime())/(1000 * 60)
-		height = height * 4
-		height = $(tablename + ' caption').height() + height
-		$(tablename + ' caption').css("height", height.toString() + "px")
-		for programme in programmes
-			table.append(@createListingTableTag(programme))
+    trLast = table.children('tbody').children('tr:last')
+    if trLast.attr("id") == "first"
+      spaceStart = programmes[0].start
+    else
+      spaceStart = trLast.attr("stop")
 
-	@appendTrCallBack:(programmes, tablename) ->
-		table = $(tablename)
-		if programmes.length is 0
-			table.attr({"loading":false});
-			return
+    for programme in programmes
+      spaceStop = programme.start
+      if spaceStart != spaceStop
+        table.append(@createSpaceTag(spaceStart, spaceStop))
+      table.append(@createProgrammeTag(programme))
+      spaceStart = programme.stop
 
-		tr = $( tablename + " tr:last")
-		stop = parseInt( tr.attr("stop"), 10)
-		appendArray= []
-		if stop isnt programmes[0].start
-			appendArray.push( @createListingTableSpaceTag( programmes[0].start, stop))
-		appendArray.push(@createListingTableTag(programmes[0]))
-		i = 1
-		while i <= programmes.length-1
-			if programmes[i-1].stop isnt programmes[i].start
-				appendArray.push(@createListingTableSpaceTag( programmes[i].start, programmes[i-1].stop))
-			appendArray.push(@createListingTableTag(programmes[i]))
-			i++
-		table.attr({"loading":false});
-		table.append( appendArray)
+  createListingNameTable:(tvlistingNamesId, channelname) ->
+    tvlistingNameTable = $("<table id='" + channelname + "'></table>").appendTo("#" + tvlistingNamesId)
+    tvlistingNameTable.addClass("table table-bordered table-condensed channelname")
+    tvlistingNameTable.append("<tr><td></td></tr>")
 
-	appendTr:(appendTime) ->
-		url = getJsonProgrammesURL(appendTime, @timerange, "GR", @channelname)
-		@startTime = new Date()
-		$(@tablename).attr({"loading":true});
-		jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.appendTrCallBack( programmes, @tablename)});
+  createListingTable:(tvlistingsId, channelname) ->
+    tvlistingTable = $("<table id='" + channelname + "' />").appendTo("#" + tvlistingsId)
+    tvlistingTable.addClass("table table-bordered table-condensed tvlisting")
+    tvlistingTable.css("width", "140px")
+    tvlistingTable.css("float", "left")
+    @trFirst = $('<tr/>')
+    @trFirst.attr("id","first")
+    @trFirst.css("height", "0px")
+    tvlistingTable.append(@trFirst)
 
-	@prependTrCallBack:(programmes, tablename) ->
-		table = $(tablename)
-		if programmes.length is 0
-			table.attr({"loading":false});
-			return
-		height = 0
+  ajaxSetChannelName:() ->
+    url = getJsonChannelNameURL(@channelname)
+    jQuery.ajaxQueue( {url:url, success:(channelName) => @tvlistingNameTable.children('tbody').children('tr').children('td').text(channelName)});
 
-		tr = $( tablename + " tr:first")
-		start = parseInt( tr.attr("start"), 10)
-		programmeLast = programmes[programmes.length-1]
+  ajaxAppendListingTable:(createtime, timerange=Tvlisting.TIME_RANGE) ->
+    url = getJsonProgrammesURL(createtime, timerange, "GR", @channelname)
+    jQuery.ajaxQueue( {url:url
+    success:(programmes) => Tvlisting.appendTrCallBack( programmes, @tvlistingsTable, createtime)
+    complete:() => Tvlisting.adjustFirstHeight(@tvlistingsTable)
+    })
 
-		if programmeLast.stop isnt start
-			table.prepend( @createListingTableSpaceTag( start, programmeLast.stop))
-			height = height + @getProgrammeHeight( programmeLast.stop, start)
-		table.prepend(@createListingTableTag( programmeLast))
-		height = height + @getProgrammeHeight( programmeLast.start, programmeLast.stop)
 
-		i = programmes.length - 1
-		while i--
-			if programmes[i].stop isnt programmes[i+1].start
-				table.prepend(@createListingTableSpaceTag( programmes[i+1].start, programmes[i].stop))
-				height = height + @getProgrammeHeight( programmes[i].stop, programmes[i+1].start)
-			height = height + @getProgrammeHeight( programmes[i].start, programmes[i].stop)
-			table.prepend(@createListingTableTag( programmes[i]));
-		table.attr({"loading":false});
-		height = $(tablename + ' caption').height() - height
-		$(tablename + ' caption').css("height", height.toString() + "px")
 
-	prependTr:( prependtime) ->
-		url = getJsonProgrammesURL(prependtime, @timerange, "GR", @channelname)
-		$(@tablename).attr({"loading":true});
-		height = $(@tablename + ' caption').height() + @programmeheight
-		$(@tablename + ' caption').css("height", height.toString() + "px")
-		jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.prependTrCallBack( programmes, @tablename)});
-		
-	@getChannelNameCallBack:(programmes, tablename) ->
 
-	getChannelName:() ->
-		url = getJsonChannelNameURL(@channelname)
-		jQuery.ajaxQueue( {url:url, success:(channelName) => $(@titlename).text(channelName)});
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  appendTr:(appendTime, timerange) ->
+    url = getJsonProgrammesURL(appendTime, timerange, "GR", @channelname)
+    @startTime = new Date()
+    $(@tablename).attr({"loading":true});
+    jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.appendTrCallBack( programmes, @tablename)});
+
+  @prependTrCallBack:(programmes, tablename) ->
+    table = $(tablename)
+    if programmes.length is 0
+      table.attr({"loading":false});
+      return
+    height = 0
+
+    tr = $( tablename + " tr:first")
+    start = parseInt( tr.attr("start"), 10)
+    programmeLast = programmes[programmes.length-1]
+
+    if programmeLast.stop isnt start
+      table.prepend( @createListingTableSpaceTag( start, programmeLast.stop))
+      height = height + @calcProgrammeHeight( programmeLast.stop, start)
+    table.prepend(@createProgrammeTag( programmeLast))
+    height = height + @calcProgrammeHeight( programmeLast.start, programmeLast.stop)
+
+    i = programmes.length - 1
+    while i--
+      if programmes[i].stop isnt programmes[i+1].start
+        table.prepend(@createListingTableSpaceTag( programmes[i+1].start, programmes[i].stop))
+        height = height + @calcProgrammeHeight( programmes[i].stop, programmes[i+1].start)
+      height = height + @calcProgrammeHeight( programmes[i].start, programmes[i].stop)
+      table.prepend(@createProgrammeTag( programmes[i]));
+    table.attr({"loading":false});
+    height = $(tablename + ' caption').height() - height
+    $(tablename + ' caption').css("height", height.toString() + "px")
+
+  prependTr:( prependtime, timerange) ->
+    url = getJsonProgrammesURL(prependtime, timerange, "GR", @channelname)
+    $(@tablename).attr({"loading":true});
+    height = $(@tablename + ' caption').height() + (240 * @ONE_MINUTE_HEIGHT)
+    $(@tablename + ' caption').css("height", height.toString() + "px")
+    jQuery.ajaxQueue( {url:url, success:(programmes) => Tvlisting.prependTrCallBack( programmes, @tablename)});
+
+  @getChannelNameCallBack:(programmes, tablename) ->
+
+
+
+
+
+  getLoading:( loading) ->
+    if $(@tablename).attr("loading") == "true"
+      return true
+    return false
