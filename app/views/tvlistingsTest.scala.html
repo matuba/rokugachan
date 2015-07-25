@@ -14,19 +14,32 @@
 
 <script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
-<script src="@routes.Assets.at("javascripts/tvlisting.js")" type="text/javascript"></script>
+
 <script src="@routes.Assets.at("javascripts/informationBar.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/tvlisting.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/tvlistingSet.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/tvlistingScrollManager.js")" type="text/javascript"></script>
 
 <script src="@routes.Assets.at("javascripts/slidr.js")" type="text/javascript"></script>
 <script>
-nowTime = new Date()
-prependTime = new Date()
-appendTime = new Date()
+nowTime = new Date();
+prependTime = new Date();
+appendTime = new Date();
 $(function() {
-  nowTime = new Date(2013, 9-1, 24, 21, 00, 0);
-  var tvlistingSet = new TvlistingSet($(window), "tvlistings", "tvlistingNames", nowTime)
+  var tvlistingFileNames = new Array("test1", "test2");
+//  nowTime = new Date(2013, 9-1, 27, 21, 00, 0);
+nowTime = new Date(2013, 9-1, 27, 7, 00, 0);
+
+  var timeTable = new TimeTable("tvlistings", "timetable", new Date(nowTime.getTime()), 4)
+  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, new Date(nowTime.getTime()), 4);
+
+  var tvlScrollManager = new TvlistingScrollManager($(window), timeTable, tvlistingSet)
+
+//  tvlScrollManager.init($(window), timeTableSet.height()/2);
+//  tvlScrollManager.addScrollEvent("timetableset", timeTableSet)
+//  tvlScrollManager.addScrollEvent("tvlistingset", tvlistingSet)
+
 });
 </script>
 

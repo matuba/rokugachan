@@ -1,12 +1,28 @@
 class @TvlistingSet
-  @tvlistings:null
-  constructor:(@window, @tvlistingsId, @tvlistingNamesId, @nowTime) ->
-    @timetable = new TimeTable("timetable", @tvlistingsId, @nowTime)
-    TvlistingSet.tvlistings = new Array(9)
-    TvlistingSet.tvlistings[0] = new Tvlisting( "test1", @tvlistingsId, @tvlistingNamesId, @nowTime)
-    TvlistingSet.tvlistings[1] = new Tvlisting( "test2", @tvlistingsId, @tvlistingNamesId, @nowTime)
-    @window.bind("scroll", @scroll)
+  @HEIGHT_UNIT_TIME  : 300
 
-  scroll : ->
-    @nowTime = new Date(@nowTime.getTime() + (1000 * 60 * 60 * 4))
-    TvlistingSet.tvlistings[0].ajaxAppendListingTable(@nowTime)
+  constructor:(@tvlistingsId, @tvlistingNamesId, tvlistingFileNames, @nowTime, @timeInterval) ->
+    @tvlistings = new Array(tvlistingFileNames.length)
+    for val, i in tvlistingFileNames
+      @tvlistings[i] = new Tvlisting( val, @tvlistingsId, @tvlistingNamesId, @nowTime)
+
+  append: ->
+    @nowTime = new Date(@nowTime.getTime() + (1000 * 60 * 60 * @timeInterval))
+    for i in [0..@tvlistings.length-1]
+      @tvlistings[i].ajaxAppend(@nowTime)
+
+  prepend: ->
+    @nowTime = new Date(@nowTime.getTime() - (1000 * 60 * 60 * @timeInterval))
+    for i in [0..@tvlistings.length-1]
+      @tvlistings[i].ajaxPrepend(@nowTime)
+
+  dropFirst : ->
+    for i in [0..@tvlistings.length-1]
+      @tvlistings[i].dropFirst(@nowTime)
+
+  dropLast : ->
+    for i in [0..@tvlistings.length-1]
+      @tvlistings[i].dropLast(@nowTime)
+
+  heightAppendUnit : ->
+    @timeInterval * TvlistingSet.HEIGHT_UNIT_TIME

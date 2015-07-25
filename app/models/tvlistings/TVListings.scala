@@ -37,10 +37,11 @@ class TVListings(filename:String) {
     val programmeNodeList = xml.\\("tv").\("programme")
     for(e <- programmeNodeList){
       var programme = new TVProgramme(e)
-      if((programme.start.isEqual(start) || programme.start.isAfter(start))
-          && programme.start.isBefore(stop)){
-//    	  programmeList = programme.toJson +: programmeList
-    	  programmeList = programmeList :+ programme.toJson
+//      if((programme.start.isEqual(start) || programme.start.isAfter(start))
+//          && programme.start.isBefore(stop)){
+//    	  programmeList = programmeList :+ programme.toJson
+      if( programme.start.isBefore(stop) && programme.stop.isAfter(start)){
+        programmeList = programmeList :+ programme.toJson
       }
     }
     Json.toJson(programmeList)
