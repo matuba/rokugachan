@@ -14,6 +14,7 @@
 
 <script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/timeUtil.js")" type="text/javascript"></script>
 
 <script src="@routes.Assets.at("javascripts/informationBar.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
@@ -27,12 +28,18 @@ nowTime = new Date();
 prependTime = new Date();
 appendTime = new Date();
 $(function() {
-  var tvlistingFileNames = new Array("test1", "test2");
-//  nowTime = new Date(2013, 9-1, 27, 21, 00, 0);
-nowTime = new Date(2013, 9-1, 27, 7, 00, 0);
+//  var tvlistingFileNames = new Array("test1", "test2");
+  var tvlistingFileNames = new Array("4171.epgdata.ontvjapan", "4161.epgdata.ontvjapan"
+                                     ,"4181.epgdata.ontvjapan", "4191.epgdata.ontvjapan"
+                                     ,"4192.epgdata.ontvjapan", "4193.epgdata.ontvjapan"
+                                     ,"4200.epgdata.ontvjapan", "4201.epgdata.ontvjapan"
+                                     ,"4202.epgdata.ontvjapan"
+                                   );
+nowTime = new Date(2013, 9-1, 28, 12, 00, 0);
+//nowTime = new Date(2013, 9-1, 27, 20, 00, 0);
 
   var timeTable = new TimeTable("tvlistings", "timetable", new Date(nowTime.getTime()), 4)
-  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, new Date(nowTime.getTime()), 4);
+  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, new Date(nowTime.getTime()), 4, timeTable.getStartTime(), timeTable.getStopTime());
 
   var tvlScrollManager = new TvlistingScrollManager($(window), timeTable, tvlistingSet)
 

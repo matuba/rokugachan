@@ -3,8 +3,24 @@ class @TvlistingScrollManager
   constructor:(@window, @timeTable, @tvlistingSet) ->
     @window.bind("scroll", scroll.bind(@))
     @window.trigger("scroll")
-    ###
+
+    @timeTable.append()
+    @timeTable.append()
     @timeTable.prepend()
+    @timeTable.prepend()
+    @tvlistingSet.setDisplayArea(timeTable.getStartTime(), timeTable.getStopTime())
+    #@timeTable.append()
+    @tvlistingSet.append()
+    @tvlistingSet.append()
+    @tvlistingSet.append()
+    @tvlistingSet.append()
+    @tvlistingSet.append()
+    @tvlistingSet.prepend()
+    @tvlistingSet.prepend()
+    @tvlistingSet.prepend()
+    @tvlistingSet.prepend()
+    @tvlistingSet.prepend()
+    ###
     @tvlistingSet.prepend()
     @timeTable.prepend()
     @tvlistingSet.prepend()
@@ -20,7 +36,7 @@ class @TvlistingScrollManager
   scroll= ->
     upperSpace = $(window).scrollTop()
     lowerSpace = ($(document).height() - $(window).scrollTop())
-    ###
+###
     if upperSpace > (@timeTable.heightAppendUnit() * 3)
       @tvlistingSet.dropFirst()
     else if lowerSpace <= (@timeTable.heightAppendUnit() * 2)
@@ -29,9 +45,8 @@ class @TvlistingScrollManager
       @tvlistingSet.dropLast()
     else if upperSpace <= @timeTable.heightAppendUnit()
       @tvlistingSet.prepend()
-    ###
 
-###Timetableの表示処理
+    #Timetableの表示処理
     if upperSpace > (@timeTable.heightAppendUnit() * 3)
       heightDrop = @timeTable.dropFirst()
       scrollBy( 0, -heightDrop)

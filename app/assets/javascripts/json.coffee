@@ -1,6 +1,5 @@
 
 @getJsonProgrammesURL = (time, length, broadcast, ch) ->
-	time = new Date( time.getTime())
 	retURL = "/json/programmes"
 	retURL = retURL + "/" + time.getFullYear()
 	retURL = retURL + "/" + ("0"+(time.getMonth() + 1)).slice(-2)

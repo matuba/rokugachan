@@ -21,12 +21,16 @@ class @TimeTable
     timeTable.addClass("table table-bordered table-condensed tvlistingTime")
     timeTable.css("width", "30px")
     timeTable.css("float", "left")
+
+    stop = start + (convertHourToMs(timeInterval))
+
+    timeTable.attr({"start":start})
+    timeTable.attr({"stop":stop})
     #append/prependメソッドがtableタグ内の値を使って追加するので
     #タグの要素に時間を追加しておく必要がある
-    stop = start + (timeInterval * 60 * 60 * 1000)
     while start < stop
       timeTable.append( createTimeTag( new Date(start).getHours()))
-      start = start + (60 * 60 * 1000)
+      start = start + convertHourToMs(1)
     return timeTable
 
   heightAppendUnit : ->
@@ -42,8 +46,10 @@ class @TimeTable
     startDate.setHours(hour)
     start = startDate.getTime()
     for i in [0...@timeInterval]
-      start = start + (60 * 60 * 1000)
-      @timeTable.append( createTimeTag( new Date(start).getHours()))
+      start = start + convertHourToMs(1)
+      trTag = createTimeTag( new Date(start).getHours())
+      @timeTable.append(trTag)
+    @addDisplayAreaStopTime(@timeTable, @timeInterval)
     @heightAppendUnit()
 
   prepend : ->
@@ -53,16 +59,45 @@ class @TimeTable
     startDate.setHours(hour)
     start = startDate.getTime()
     for i in [0...@timeInterval]
-      start = start - (60 * 60 * 1000)
+      start = start - convertHourToMs(1)
       @timeTable.prepend( createTimeTag( new Date(start).getHours()))
+    @subDisplayAreaStartTime(@timeTable, @timeInterval)
     @heightAppendUnit()
 
   dropFirst : ->
     for i in [0...@timeInterval]
       @timeTable.children('tbody').children('tr:first').remove()
+    @addDisplayAreaStartTime(@timeTable, @timeInterval)
     @heightAppendUnit()
 
   dropLast : ->
     for i in [0...@timeInterval]
       @timeTable.children('tbody').children('tr:last').remove()
+    @subDisplayAreaStopTime(@timeTable, @timeInterval)
     @heightAppendUnit()
+
+  getStartTime : ->
+    parseInt(@timeTable.attr("start"),10)
+
+  getStopTime : ->
+    parseInt(@timeTable.attr("stop"),10)
+
+  addDisplayAreaStartTime:(timeTable, timeInterval) ->
+    start = parseInt(timeTable.attr("start"),10)
+    start = start + convertHourToMs(timeInterval)
+    timeTable.attr({"start":start})
+
+  subDisplayAreaStartTime:(timeTable, timeInterval) ->
+    start = parseInt(timeTable.attr("start"),10)
+    start = start - convertHourToMs(timeInterval)
+    timeTable.attr({"start":start})
+
+  addDisplayAreaStopTime:(timeTable, timeInterval) ->
+    stop = parseInt(timeTable.attr("stop"),10)
+    stop = stop + convertHourToMs(timeInterval)
+    timeTable.attr({"stop":stop})
+
+  subDisplayAreaStopTime:(timeTable, timeInterval) ->
+    stop = parseInt(timeTable.attr("stop"),10)
+    stop = stop - convertHourToMs(timeInterval)
+    timeTable.attr({"stop":stop})
