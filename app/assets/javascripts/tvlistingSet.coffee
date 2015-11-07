@@ -21,14 +21,14 @@ class @TvlistingSet
       @tvlistings[i].ajaxPrepend(prependTime)
 
   dropFirst : ->
-    prependTime = new Date(prependTime.getTime() + convertHourToMs(@timeInterval))
     for i in [0..@tvlistings.length-1]
-      @tvlistings[i].dropFirst(prependTime)
+      @tvlistings[i].dropFirst()
+    prependTime = new Date(prependTime.getTime() + convertHourToMs(@timeInterval))
 
   dropLast : ->
-    appendTime = new Date(appendTime.getTime() - convertHourToMs(@timeInterval))
     for i in [0..@tvlistings.length-1]
-      @tvlistings[i].dropLast(appendTime)
+      @tvlistings[i].dropLast()
+    appendTime = new Date(appendTime.getTime() - convertHourToMs(@timeInterval))
 
   heightAppendUnit : ->
     @timeInterval * TvlistingSet.HEIGHT_UNIT_TIME
@@ -36,3 +36,7 @@ class @TvlistingSet
   setDisplayArea:(start, stop) ->
     for i in [0..@tvlistings.length-1]
       @tvlistings[i].setDisplayArea(start, stop)
+
+  removeOutSideArea: ->
+    for i in [0..@tvlistings.length-1]
+      @tvlistings[i].removeOutSideArea()

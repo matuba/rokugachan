@@ -16,7 +16,11 @@ object Application extends Controller {
   def testListings = Action {
      Ok(views.html.tvlistingsTest.render());
   }
-  
+
+  def nop = Action {
+    Ok("")
+  }
+
   def getJSON = Action {
     val timeZoneJson = {
       val b = Map.newBuilder[String,String]

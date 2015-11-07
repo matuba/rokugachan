@@ -22,7 +22,7 @@ class @TimeTable
     timeTable.css("width", "30px")
     timeTable.css("float", "left")
 
-    stop = start + (convertHourToMs(timeInterval))
+    stop = start + convertHourToMs(timeInterval)
 
     timeTable.attr({"start":start})
     timeTable.attr({"stop":stop})
