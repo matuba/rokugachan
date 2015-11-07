@@ -27,16 +27,17 @@ class @TvlistingScrollManager
       heightAppend = @timeTable.append()
       @timeTable.dropFirst()
 
-      @tvlistingSet.setDisplayArea(@timeTable.getStartTime(), @timeTable.getStopTime())
-      @tvlistingSet.append()
 
+      @tvlistingSet.append()
+      @tvlistingSet.setDisplayArea(@timeTable.getStartTime(), @timeTable.getStopTime())
       scrollBy( 0, -heightAppend)
     if upperSpace < @timeTable.heightAppendUnit()
       heightAppend = @timeTable.prepend()
       @timeTable.dropLast()
 
+
+      @tvlistingSet.prepend()
       @tvlistingSet.setDisplayArea(@timeTable.getStartTime(), @timeTable.getStopTime())
-      #@tvlistingSet.prepend()
       scrollBy( 0, heightAppend)
     @tvlistingSet.removeOutSideArea()
 
