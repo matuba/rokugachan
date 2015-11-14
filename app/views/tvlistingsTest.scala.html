@@ -36,11 +36,10 @@ $(function() {
 //                                   );
 var tvlistingFileNames = new Array("4181.epgdata.ontvjapan");
 
-nowTime = new Date(2013, 9-1, 28, 20, 00, 0);
-//nowTime = new Date(2013, 9-1, 27, 20, 00, 0);
-
+//  nowTime = new Date(2013, 9-1, 28, 20, 00, 0);
+  nowTime = new Date(2013, 9-1, 28, 21, 00, 0);
   var timeTable = new TimeTable("tvlistings", "timetable", new Date(nowTime.getTime()), 4)
-  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, new Date(nowTime.getTime()), 4, timeTable.getStartTime(), timeTable.getStopTime());
+  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, 4);
 
   var tvlScrollManager = new TvlistingScrollManager($(window), timeTable, tvlistingSet)
 
