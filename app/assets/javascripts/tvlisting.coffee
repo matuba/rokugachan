@@ -87,25 +87,25 @@ class @Tvlisting
     return (( stop - start) / convertMinToMs(1)) * @ONE_MINUTE_HEIGHT;
 
   @getFirstTvProgramme:(table) ->
-    result = table.children('tbody').children('tr:first')
+    result = table.children('tbody').children('tr[name=programme]:first')
     if result.size() == 0
       return null
     result
 
   @getLastTvProgramme:(table) ->
-    result = table.children('tbody').children('tr:last')
+    result = table.children('tbody').children('tr[name=programme]:last')
     if result.size() == 0
       return null
     result
 
   @getFirstTvProgrammeTime:(table) ->
-    result = table.children('tbody').children('tr:first')
+    result = table.children('tbody').children('tr[name=programme]:first')
     if result.size() == 0
       return null
     result.attr("start")
 
   @getLastTvProgrammeTime:(table) ->
-    result = table.children('tbody').children('tr:last')
+    result = table.children('tbody').children('tr[name=programme]:last')
     if result.size() == 0
       return null
     result.attr("stop")
@@ -175,6 +175,7 @@ class @Tvlisting
 
     tr = $('<tr/>')
     tr.attr({"class":"tvlisting"})
+    tr.attr({"name":"programme"})
     tr.attr({"start":programme.start})
     tr.attr({"stop":programme.stop})
     tr.css("height", height.toString() + "px")
@@ -228,7 +229,6 @@ class @Tvlisting
   @appendTrCallBack:(programmes, table) ->
     if programmes.length is 0
       return
-
     displayAreaStart = Number(table.attr("start"))
     displayAreaStop = Number(table.attr("stop"))
     trTags = @createProgrammeTrTagArray(programmes, displayAreaStart, displayAreaStop)
@@ -244,9 +244,16 @@ class @Tvlisting
     programmeStart = Number(trTags[0].attr("start"))
     if tableLastProgrammeStop != null && programmeStart > tableLastProgrammeStop
       table.append(@createSpaceTrTag(tableLastProgrammeStop, programmeStart))
+
+    Tvlisting.removeFirstBlankCallBack(table)
     table.append(trTags)
+    Tvlisting.removeOutSideAreaCallBack(table)
+    Tvlisting.prependFirstBlankCallBack(table)
 
   ajaxAppend:(nowTime, timerange=Tvlisting.TIME_RANGE) ->
+    Tvlisting.removeFirstBlankCallBack(@tvlistingsTable)
+    Tvlisting.prependFirstBlankCallBack(@tvlistingsTable)
+
     url = getJsonProgrammesURL(nowTime, timerange, "GR", @channelname)
     jQuery.ajaxQueue( {url:url
     success:(programmes) => Tvlisting.appendTrCallBack( programmes, @tvlistingsTable)
@@ -265,9 +272,18 @@ class @Tvlisting
     #テーブル内の被っている番組を消す
     @removeTableSameProgrammes(table, trTags)
     trFirst = Tvlisting.getFirstTvProgramme(table)
+
+    Tvlisting.removeFirstBlankCallBack(table)
+
     trFirst.before(trTags)
 
+    Tvlisting.removeOutSideAreaCallBack(table)
+    Tvlisting.prependFirstBlankCallBack(table)
+
   ajaxPrepend:(nowTime, timerange=Tvlisting.TIME_RANGE) ->
+    Tvlisting.removeFirstBlankCallBack(@tvlistingsTable)
+    Tvlisting.prependFirstBlankCallBack(@tvlistingsTable)
+
     url = getJsonProgrammesURL(nowTime, timerange, "GR", @channelname)
     jQuery.ajaxQueue( {url:url
     success:(programmes) => Tvlisting.prependTrCallBack( programmes, @tvlistingsTable)
@@ -316,8 +332,8 @@ class @Tvlisting
   setDisplayArea:( start, stop) ->
     @tvlistingsTable.attr({"start": start})
     @tvlistingsTable.attr({"stop": stop})
-    if(@tvlistingsTable.children('tbody') ||
-       @tvlistingsTable.children('tbody').size() <= 0)
+    tableBody = @tvlistingsTable.children('tbody')
+    if(tableBody.size() <= 0)
       appendStart = start
       appendStop = stop
       prependStart = start
@@ -331,14 +347,14 @@ class @Tvlisting
       prependStop = Number(firstProgramme.attr("start"))
     length = convertMsToMin(appendStop - appendStart)
 
-    @removeFirstBlank()
+    #@removeFirstBlank()
     if(length > 0)
       @ajaxAppend(new Date(appendStart), length)
     length = convertMsToMin(prependStop - prependStart)
     if(length > 0)
       @ajaxPrepend(new Date(prependStart), length)
-    @removeOutSideArea()
-    @prependFirstBlank()
+    #@removeOutSideArea()
+    #@prependFirstBlank()
 
 
 
