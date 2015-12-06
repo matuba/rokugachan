@@ -10,22 +10,18 @@ import org.joda.time.DateTime
 
 object Application extends Controller {
   def index = Action {
-     Ok(views.html.tvlistings.render());
+     Ok(views.html.tvlistings.render())
 //    Ok(views.html.index("Your new application is ready."))
   }
   def testListings = Action {
-     Ok(views.html.tvlistingsTest.render());
-  }
-
-  def nop = Action {
-    Ok("")
+     Ok(views.html.tvlistingsTest.render())
   }
 
   def getJSON = Action {
     val timeZoneJson = {
       val b = Map.newBuilder[String,String]
       TimeZone.getAvailableIDs().foreach{ timeZoneId =>
-        val tz = TimeZone.getTimeZone(timeZoneId);
+        val tz = TimeZone.getTimeZone(timeZoneId)
         b += tz.getDisplayName() -> tz.getID()
       }
       b.result
@@ -41,13 +37,14 @@ object Application extends Controller {
   }
   def getProgrammesJSON(year:String, monthOfYear:String, dayOfMonth:String, hourOfDay:String, minuteOfHour:String, length:String, broadcast:String, ch:String) = Action{
     val litings = new TVListings("public/listings/" + ch + ".xml")
-    val start = new DateTime(year.toInt, monthOfYear.toInt, dayOfMonth.toInt, hourOfDay.toInt, minuteOfHour.toInt);
-    val stop = start.plusMinutes(length.toInt);
-    Ok(litings.toJsonProgrammeList(start, stop));
+    val start = new DateTime(year.toInt, monthOfYear.toInt, dayOfMonth.toInt, hourOfDay.toInt, minuteOfHour.toInt)
+    val stop = start.plusMinutes(length.toInt)
+    var programmeList:Seq[JsValue] = litings.programmeList(start, stop)
+    Ok(Json.toJson(programmeList))
   }
   def getChannelNameJSON(ch:String) = Action{
     val litings = new TVListings("public/listings/" + ch + ".xml")
-    Ok(Json.toJson(litings.channelName));
+    Ok(Json.toJson(litings.channelName))
   }
 
 }

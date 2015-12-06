@@ -32,9 +32,10 @@ class TVListings(filename:String) {
     Json.toJson(programmeList)
   }
 
-  def toJsonProgrammeList( start:DateTime, stop:DateTime): JsValue = {
+  def toJsonProgrammeList( start:DateTime, stop:DateTime): JsValue ={
     var programmeList:Seq[JsValue] = Seq()
     val programmeNodeList = xml.\\("tv").\("programme")
+
     for(e <- programmeNodeList){
       var programme = new TVProgramme(e)
 //      if((programme.start.isEqual(start) || programme.start.isAfter(start))
@@ -46,6 +47,19 @@ class TVListings(filename:String) {
     }
     Json.toJson(programmeList)
   }
+  def programmeList( start:DateTime, stop:DateTime): Seq[JsValue] ={
+    var programmeList:Seq[JsValue] = Seq()
+    val programmeNodeList = xml.\\("tv").\("programme")
+
+    for(e <- programmeNodeList){
+      var programme = new TVProgramme(e)
+      if( programme.start.isBefore(stop) && programme.stop.isAfter(start)){
+        programmeList = programmeList :+ programme.toJson
+      }
+    }
+    programmeList
+  }
+
 // public static Result getProgrammesJSON(
 //String year, String month, String day, String hour, String min, String length, String broadcast, String ch) {
 

@@ -28,16 +28,16 @@ nowTime = new Date();
 prependTime = new Date();
 appendTime = new Date();
 $(function() {
-//  var tvlistingFileNames = new Array("4171.epgdata.ontvjapan", "4161.epgdata.ontvjapan"
-//                                     ,"4181.epgdata.ontvjapan", "4191.epgdata.ontvjapan"
-//                                     ,"4192.epgdata.ontvjapan", "4193.epgdata.ontvjapan"
-//                                     ,"4200.epgdata.ontvjapan", "4201.epgdata.ontvjapan"
-//                                     ,"4202.epgdata.ontvjapan"
-//                                   );
-var tvlistingFileNames = new Array("4181.epgdata.ontvjapan");
+  var tvlistingFileNames = new Array("4171.epgdata.ontvjapan", "4161.epgdata.ontvjapan"
+                                     ,"4181.epgdata.ontvjapan", "4191.epgdata.ontvjapan"
+                                     ,"4192.epgdata.ontvjapan", "4193.epgdata.ontvjapan"
+                                     ,"4200.epgdata.ontvjapan", "4201.epgdata.ontvjapan"
+                                     ,"4202.epgdata.ontvjapan"
+                                   );
+//var tvlistingFileNames = new Array("4181.epgdata.ontvjapan");
 
 //  nowTime = new Date(2013, 9-1, 28, 20, 00, 0);
-  nowTime = new Date(2013, 9-1, 28, 21, 00, 0);
+  nowTime = new Date(2013, 9-1, 29, 8, 00, 0);
   var timeTable = new TimeTable("tvlistings", "timetable", new Date(nowTime.getTime()), 4)
   var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, 4);
 

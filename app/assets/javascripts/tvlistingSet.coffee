@@ -9,10 +9,24 @@ class @TvlistingSet
   heightAppendUnit : ->
     @timeInterval * TvlistingSet.HEIGHT_UNIT_TIME
 
+  setProgrammes:(start, stop, displayStart, displayStop) ->
+    for i in [0..@tvlistings.length-1]
+      @tvlistings[i].setProgrammes(start, stop, displayStart, displayStop)
+
+  getLoadingStatus : ->
+    result = false
+    for i in [0..@tvlistings.length-1]
+      if @tvlistings[i].getTableStatus() == "loading"
+        result = true
+    return result
+
+
+
+
+
   setDisplayArea:(start, stop) ->
     for i in [0..@tvlistings.length-1]
       @tvlistings[i].setDisplayArea(start, stop)
-
 
 
 
