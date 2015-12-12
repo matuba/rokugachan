@@ -59,9 +59,10 @@ $(function() {
     <div id="floating-right">
       <i class="icon-chevron-right icon-white" style="zoom: 150%;"></i>
     </div>
+    <div id="floating-date"></div>
 
     <div class="navbar-inner">
-      <div id="information_on" class="container" style="display:none;">
+      <div id="information_menu" class="container" >
         <div class="nav-collapse collapse">
           <ul class="nav">
             <li class="active" style="font-size:small;">
@@ -74,7 +75,7 @@ $(function() {
               <a href="#" style="padding: 0px 32px 0px 0px;">CS</a>
             </li>
             <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">My Listings</a>
+              <a href="#" style="padding: 0px 32px 0px 0px;">キーワード予約</a>
             </li>
             <li class="active" style="font-size:small;">
               <a href="#" style="padding: 0px 32px 0px 0px;">予約一覧</a>
@@ -88,7 +89,7 @@ $(function() {
           </ul>
         </div>
         </div>
-        <div id="information_off" class="container">
+        <div id="information_listing" class="container" style="display:none;">
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active" style="font-size:small;">
@@ -113,6 +114,7 @@ $(function() {
       </div>
     </div>
   </div>
+
   <div id="tvlistings" style="width:1290px; margin:0 auto 0 auto;" />
 
   <div id="config" class="modal hide">

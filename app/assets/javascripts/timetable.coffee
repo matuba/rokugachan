@@ -82,6 +82,9 @@ class @TimeTable
   getStopTime : ->
     parseInt(@timeTable.attr("stop"),10)
 
+  getNowTime : ->
+    parseInt(@timeTable.attr("start"),10) + convertHourToMs(@timeInterval)
+
   addDisplayAreaStartTime:(timeTable, timeInterval) ->
     start = parseInt(timeTable.attr("start"),10)
     start = start + convertHourToMs(timeInterval)

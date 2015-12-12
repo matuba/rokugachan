@@ -3,6 +3,8 @@ class @Tvlisting
   @TITLE_LINE_LENGTH: 12
   @DAY_OF_WEEK = ["日", "月", "火", "水", "木", "金", "土"]
 
+  @showProgrammeClass = ""
+
   constructor:(@channelname,
                tvlistingsId,
                tvlistingNamesId) ->
@@ -196,6 +198,14 @@ class @Tvlisting
         Tvlisting.adjustProgrammeHeight($(tr), areaStart, areaStop)
         continue
       tr.remove()
+  @setShowProgrammeClass: (showProgrammeClass) ->
+    if showProgrammeClass == ""
+      return
+    for tr in $('tr[name=programme]')
+      $(tr).css("opacity", 1.0)
+      if showProgrammeClass == $(tr).children("td").attr("class")
+        continue
+      $(tr).css("opacity", 0.5)
 
   @createProgrammeTrTag:( programme) ->
     height = Tvlisting.calcProgrammeHeight( programme.start, programme.stop)
@@ -215,7 +225,13 @@ class @Tvlisting
     tr.attr({"stop":programme.stop})
     tr.css("height", height.toString() + "px")
 
+    tr.dblclick ->
+      Tvlisting.showProgrammeClass = $(@).children("td").attr("class")
+      Tvlisting.setShowProgrammeClass(Tvlisting.showProgrammeClass)
+
     tr.hover ->
+      $('#information_listing').show()
+      $('#information_menu').hide()
       fontCol = "<font color='lightcyan'>"
       $('#infoTime').html(fontCol + infoTime + "</font>")
       $('.marquee').html(fontCol + programme.title + "</font>" + programme.desc)
@@ -227,6 +243,10 @@ class @Tvlisting
         duplicated: true,
         pauseOnHover: true
       })
+    ,->
+      $('#information_menu').show()
+      $('#information_listing').hide()
+
     fontSize = Tvlisting.adjustProgrammeFontSize(height)
     value = "<td class='" + programme.category + "'>"
     value = value + "<div class='tvlisting' "
@@ -364,5 +384,6 @@ class @Tvlisting
     success:(programmes) ->
       Tvlisting.mergeProgrammesCallBack(this.table, programmes
       , this.start, this.stop)
+      Tvlisting.setShowProgrammeClass(Tvlisting.showProgrammeClass)
       Tvlisting.setTableStatus(this.table, "finish")
     })
