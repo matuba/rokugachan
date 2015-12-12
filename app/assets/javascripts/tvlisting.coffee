@@ -198,14 +198,25 @@ class @Tvlisting
         Tvlisting.adjustProgrammeHeight($(tr), areaStart, areaStop)
         continue
       tr.remove()
-  @setShowProgrammeClass: (showProgrammeClass) ->
+
+  @setAllShowProgrammeClass: () ->
+    trArray = $('tr[name=programme]')
+    for tr in trArray
+      $(tr).css("opacity", 1.0)
+
+  @setShowProgrammeClass: (table, showProgrammeClass) ->
     if showProgrammeClass == ""
       return
-    for tr in $('tr[name=programme]')
+    if table != null
+      trArray = table.children('tbody').children('tr[name=programme]')
+    else
+      trArray = $('tr[name=programme]')
+
+    for tr in trArray
       $(tr).css("opacity", 1.0)
       if showProgrammeClass == $(tr).children("td").attr("class")
         continue
-      $(tr).css("opacity", 0.5)
+      $(tr).css("opacity", 0.2)
 
   @createProgrammeTrTag:( programme) ->
     height = Tvlisting.calcProgrammeHeight( programme.start, programme.stop)
@@ -227,7 +238,7 @@ class @Tvlisting
 
     tr.dblclick ->
       Tvlisting.showProgrammeClass = $(@).children("td").attr("class")
-      Tvlisting.setShowProgrammeClass(Tvlisting.showProgrammeClass)
+      Tvlisting.setShowProgrammeClass( null, Tvlisting.showProgrammeClass)
 
     tr.hover ->
       $('#information_listing').show()
@@ -384,6 +395,6 @@ class @Tvlisting
     success:(programmes) ->
       Tvlisting.mergeProgrammesCallBack(this.table, programmes
       , this.start, this.stop)
-      Tvlisting.setShowProgrammeClass(Tvlisting.showProgrammeClass)
+      Tvlisting.setShowProgrammeClass(this.table, Tvlisting.showProgrammeClass)
       Tvlisting.setTableStatus(this.table, "finish")
     })

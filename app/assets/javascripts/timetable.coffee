@@ -12,6 +12,11 @@ class @TimeTable
     small.text(showTime)
     td.attr({"class":"timebetween" + showTime});
     tr.css("height", TimeTable.HEIGHT_UNIT_TIME + "px")
+
+    td.dblclick ->
+      Tvlisting.showProgrammeClass = ""
+      Tvlisting.setAllShowProgrammeClass()
+
     small.appendTo(td)
     td.appendTo(tr)
     return tr
