@@ -13,15 +13,6 @@ class @Tvlisting
     @tvlistingsTable = @createListingTable(tvlistingsId, @channelname)
     @ajaxSetChannelName()
 
-  createListingTable:(tvlistingsId, channelname) ->
-    tvlistingsTable = $("<table id='" + channelname + "' />")
-    tvlistingsTable = tvlistingsTable.appendTo("#" + tvlistingsId)
-    tvlistingsTable.addClass("""
-                    table table-bordered table-condensed tvlisting
-                    """)
-    tvlistingsTable.css("width", "140px")
-    tvlistingsTable.css("float", "left")
-
   @setTableStatus:(table, status) ->
     table.attr("status", status)
 
@@ -79,41 +70,9 @@ class @Tvlisting
     if div.size() > 0
       div.text(@adjustProgrammeTitle(div.attr("title"), height))
 
-  @adjustProgrammesHeight:(trTags, areaStart, areaStop) ->
+  @adjustTrArrayHeight:(trTags, areaStart, areaStop) ->
     for trTag in trTags
-      programmeStart = Number(trTag.attr("start"))
-      programmeStop = Number(trTag.attr("stop"))
-      height = Tvlisting.calcProgrammeHeight( programmeStart, programmeStop)
-
-      if programmeStart < areaStart && programmeStop > areaStop
-        height = Tvlisting.calcProgrammeHeight(areaStart, areaStop)
-      else if programmeStart < areaStart
-        height = Tvlisting.calcProgrammeHeight(areaStart, programmeStop)
-      else if programmeStop > areaStop
-        height = Tvlisting.calcProgrammeHeight(programmeStart, areaStop)
-      trTag.height(height)
-
-      trTag.css("font-size", Tvlisting.adjustProgrammeFontSize( height))
-      div = trTag.find('div')
-      div.css("font-size", Tvlisting.adjustProgrammeFontSize( height))
-      if div.size() > 0
-        div.text(@adjustProgrammeTitle(div.attr("title"), height))
-
-  createListingNameTable:(tvlistingNamesId, channelname) ->
-    tvlistingNameTable = $("<table id='" + channelname + "'></table>")
-    tvlistingNameTable = tvlistingNameTable.appendTo("#" + tvlistingNamesId)
-    tvlistingNameTable.addClass("""
-                       table table-bordered table-condensed channelname
-                       """)
-    tvlistingNameTable.append("<tr><td></td></tr>")
-
-  ajaxSetChannelName : ->
-    url = getJsonChannelNameURL(@channelname)
-    jQuery.ajaxQueue({url:url,
-    success:(channelName) =>
-      td = @tvlistingNameTable.children('tbody').children('tr').children('td')
-      td.text(channelName)
-    })
+      Tvlisting.adjustProgrammeHeight(trTag, areaStart, areaStop)
 
   @createSpaceTrTag:( start, stop) ->
     height = Tvlisting.calcProgrammeHeight( start, stop)
@@ -126,7 +85,7 @@ class @Tvlisting
     tr.css("height", height + "px")
     return tr
 
-  createLoadingTrTag:( start, stop) ->
+  @createLoadingTrTag:( start, stop) ->
     height = Tvlisting.calcProgrammeHeight( start, stop)
     if height <= 0
       return null
@@ -141,7 +100,7 @@ class @Tvlisting
     tr.html(td)
     return tr
 
-  updateTrTagHeight:(tr, height) ->
+  @updateTrTagHeight:(tr, height) ->
     if tr == null
       return
     tr.css("height", height.toString() + "px")
@@ -150,7 +109,7 @@ class @Tvlisting
     if div.size() > 0
       div.text(@adjustProgrammeTitle(div.attr("title"), height))
 
-  adjustTableFirstProgramme:(table, areaStart, areaStop) ->
+  @adjustFirstProgramme:(table, areaStart, areaStop) ->
     firstProgramme = Tvlisting.getTableFirstProgramme(table)
     if firstProgramme == null
       return
@@ -159,9 +118,9 @@ class @Tvlisting
     if trStart < areaStart && trStop < areaStop
       trStart = areaStart
       height = Tvlisting.calcProgrammeHeight(trStart, trStop)
-      @updateTrTagHeight(firstProgramme, height)
+      Tvlisting.updateTrTagHeight(firstProgramme, height)
 
-  adjustTableLastProgramme:(table, areaStart, areaStop) ->
+  @adjustLastProgramme:(table, areaStart, areaStop) ->
     lastProgramme = Tvlisting.getTableLastProgramme(table)
     if lastProgramme == null
       return
@@ -170,7 +129,7 @@ class @Tvlisting
     if trStart > areaStart && trStop > areaStop
       trStop = areaStop
       height = Tvlisting.calcProgrammeHeight(trStart, trStop)
-      @updateTrTagHeight(lastProgramme, height)
+      Tvlisting.updateTrTagHeight(lastProgramme, height)
 
   @prependTableFirstBlank:(table, start) ->
     firstProgramme = Tvlisting.getTableFirstProgramme(table)
@@ -187,7 +146,7 @@ class @Tvlisting
     tr = table.children('tbody').children('tr[name=first_blank]')
     tr.remove()
 
-  removeTableOutSideAreaProgramme:(table, areaStart, areaStop) ->
+  @removeOutSideAreaProgramme:(table, areaStart, areaStop) ->
     for tr in table.children('tbody').children('tr')
       trStart = Number($(tr).attr("start"))
       trStop = Number($(tr).attr("stop"))
@@ -237,8 +196,12 @@ class @Tvlisting
     tr.css("height", height.toString() + "px")
 
     tr.dblclick ->
-      Tvlisting.showProgrammeClass = $(@).children("td").attr("class")
-      Tvlisting.setShowProgrammeClass( null, Tvlisting.showProgrammeClass)
+      if Tvlisting.showProgrammeClass != ""
+        Tvlisting.showProgrammeClass = ""
+        Tvlisting.setAllShowProgrammeClass()
+      else
+        Tvlisting.showProgrammeClass = $(@).children("td").attr("class")
+        Tvlisting.setShowProgrammeClass( null, Tvlisting.showProgrammeClass)
 
     tr.hover ->
       $('#information_listing').show()
@@ -270,7 +233,7 @@ class @Tvlisting
     tr.html(value)
     return tr
 
-  @createProgrammeTrTagArray:(programmes) ->
+  @createProgrammeTrArray:(programmes) ->
     if programmes.length is 0
       return
     desIndex = 0
@@ -287,11 +250,11 @@ class @Tvlisting
       spaceStart = programme.stop
     return trTags
 
-  @removeTableSameProgrammes:(table, programmes) ->
+  @removeSameProgrammTrArray:(table, programmes) ->
     for programme in programmes
-      @removeTableProgramm(table, programme.start, programme.stop)
+      Tvlisting.removeSameProgramm(table, programme.start, programme.stop)
 
-  @removeTableProgramm:(table, start, stop) ->
+  @removeSameProgramm:(table, start, stop) ->
     for tr in table.children('tbody').children('tr[name=programme]')
       trStart = Number($(tr).attr("start"))
       trStop = Number($(tr).attr("stop"))
@@ -299,19 +262,47 @@ class @Tvlisting
         continue
       tr.remove()
 
-  prependLoadingTag:(table, start, stop) ->
-    trTag = @createLoadingTrTag(start, stop)
+  @prependLoadingTag:(table, start, stop) ->
+    trTag = Tvlisting.createLoadingTrTag(start, stop)
     table.prepend(trTag)
 
-  appendLoadingTag:(table, start, stop) ->
-    trTag = @createLoadingTrTag(start, stop)
+  @appendLoadingTag:(table, start, stop) ->
+    trTag = Tvlisting.createLoadingTrTag(start, stop)
     table.append(trTag)
+
+  createListingTable:(tvlistingsId, channelname) ->
+    tvlistingsTable = $("<table id='" + channelname + "' />")
+    tvlistingsTable = tvlistingsTable.appendTo("#" + tvlistingsId)
+    tvlistingsTable.addClass("""
+                    table table-bordered table-condensed tvlisting
+                    """)
+    tvlistingsTable.css("width", "140px")
+    tvlistingsTable.css("float", "left")
+
+  createListingNameTable:(tvlistingNamesId, channelname) ->
+    tvlistingNameTable = $("<table id='" + channelname + "'></table>")
+    tvlistingNameTable = tvlistingNameTable.appendTo("#" + tvlistingNamesId)
+    tvlistingNameTable.addClass("""
+                       table table-bordered table-condensed channelname
+                       """)
+    tvlistingNameTable.append("<tr><td></td></tr>")
+
+  ajaxSetChannelName : ->
+    url = getJsonChannelNameURL(@channelname)
+    jQuery.ajaxQueue({url:url,
+    success:(channelName) =>
+      td = @tvlistingNameTable.children('tbody').children('tr').children('td')
+      td.text(channelName)
+    })
+
+  getTableStatus : ->
+    @tvlistingsTable.attr("status")
+
 
   @setProgrammesCallBack:(table, programmes, displayStart, displayStop) ->
     if programmes.length <= 1
       return
-
-    @removeTableSameProgrammes(table, programmes)
+    Tvlisting.removeSameProgrammTrArray(table, programmes)
 
     firstProgramme = Tvlisting.getTableFirstProgramme(table)
     if firstProgramme == null
@@ -321,28 +312,25 @@ class @Tvlisting
     else
       Tvlisting.appendProgrammes(table, programmes)
 
-  getTableStatus : ->
-    @tvlistingsTable.attr("status")
-
   setProgrammes:(areaStart, areaStop) ->
-    @removeTableOutSideAreaProgramme(@tvlistingsTable, areaStart, areaStop)
-    @adjustTableFirstProgramme(@tvlistingsTable, areaStart, areaStop)
-    @adjustTableLastProgramme(@tvlistingsTable, areaStart, areaStop)
+    Tvlisting.removeOutSideAreaProgramme(@tvlistingsTable, areaStart, areaStop)
+    Tvlisting.adjustFirstProgramme(@tvlistingsTable, areaStart, areaStop)
+    Tvlisting.adjustLastProgramme(@tvlistingsTable, areaStart, areaStop)
 
     firstProgramme = Tvlisting.getTableFirstProgramme(@tvlistingsTable)
     lastProgramme = Tvlisting.getTableLastProgramme(@tvlistingsTable)
     if firstProgramme == null && lastProgramme == null
-      @appendLoadingTag(@tvlistingsTable, areaStart, areaStop)
+      Tvlisting.appendLoadingTag(@tvlistingsTable, areaStart, areaStop)
       @ajaxMergeProgrammes(areaStart, areaStop)
     if firstProgramme != null
       firstProgrammeStart = Number(firstProgramme.attr("start"))
       if areaStart < firstProgrammeStart
-        @prependLoadingTag(@tvlistingsTable, areaStart, firstProgrammeStart)
+        Tvlisting.prependLoadingTag(@tvlistingsTable, areaStart, firstProgrammeStart)
         @ajaxMergeProgrammes(areaStart, firstProgrammeStart)
     if lastProgramme != null
       lastProgrammeStop = Number(lastProgramme.attr("stop"))
       if areaStop > lastProgrammeStop
-        @appendLoadingTag(@tvlistingsTable, lastProgrammeStop, areaStop)
+        Tvlisting.appendLoadingTag(@tvlistingsTable, lastProgrammeStop, areaStop)
         @ajaxMergeProgrammes(lastProgrammeStop, areaStop)
 
   @mergeProgrammesCallBack:(table, programmes, start, stop) ->
@@ -354,10 +342,10 @@ class @Tvlisting
       loadingTr.remove()
       return
 
-    programmeTags = @createProgrammeTrTagArray(programmes)
+    programmeTags = @createProgrammeTrArray(programmes)
     if programmeTags.length is 0
       return
-    Tvlisting.adjustProgrammesHeight(programmeTags, start, stop)
+    Tvlisting.adjustTrArrayHeight(programmeTags, start, stop)
 
     programmesFirstTime = programmeTags[0].attr("start")
     programmesLastTime = programmeTags[programmeTags.length-1].attr("stop")
@@ -396,5 +384,6 @@ class @Tvlisting
       Tvlisting.mergeProgrammesCallBack(this.table, programmes
       , this.start, this.stop)
       Tvlisting.setShowProgrammeClass(this.table, Tvlisting.showProgrammeClass)
+    complete: ->
       Tvlisting.setTableStatus(this.table, "finish")
     })
