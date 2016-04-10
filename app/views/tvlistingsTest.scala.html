@@ -5,6 +5,7 @@
 <title></title>
 <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/bootstrap.css")">
 <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
+<link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/bootstrap-datepicker.standalone.min.css")">
 <link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
 
 <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")" type="text/javascript"></script>
@@ -13,9 +14,11 @@
 <script src="@routes.Assets.at("javascripts/jquery.marquee.min.js")" type="text/javascript"></script>
 
 <script src="@routes.Assets.at("javascripts/bootstrap.min.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/bootstrap-datepicker.min.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("javascripts/bootstrap-datepicker.ja.min.js")" type="text/javascript"></script>
+
 <script src="@routes.Assets.at("javascripts/json.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timeUtil.js")" type="text/javascript"></script>
-
 <script src="@routes.Assets.at("javascripts/informationBar.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/timetable.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("javascripts/tvlisting.js")" type="text/javascript"></script>
@@ -27,6 +30,7 @@
 nowTime = new Date();
 prependTime = new Date();
 appendTime = new Date();
+
 $(function() {
   var tvlistingFileNames = new Array("4171.epgdata.ontvjapan", "4161.epgdata.ontvjapan"
                                      ,"4181.epgdata.ontvjapan", "4191.epgdata.ontvjapan"
@@ -34,73 +38,121 @@ $(function() {
                                      ,"4200.epgdata.ontvjapan", "4201.epgdata.ontvjapan"
                                      ,"4202.epgdata.ontvjapan"
                                    );
-//var tvlistingFileNames = new Array("4181.epgdata.ontvjapan");
-
 //  nowTime = new Date(2013, 9-1, 28, 20, 00, 0);
   nowTime = new Date(2013, 9-1, 29, 8, 00, 0);
   var timeTable = new TimeTable("tvlistings", "timetable", new Date(nowTime.getTime()), 4)
-  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, 4);
-
+  var tvlistingSet = new TvlistingSet("tvlistings", "tvlistingNames", tvlistingFileNames, 4)
   var tvlScrollManager = new TvlistingScrollManager($(window), timeTable, tvlistingSet)
-
-//  tvlScrollManager.init($(window), timeTableSet.height()/2);
-//  tvlScrollManager.addScrollEvent("timetableset", timeTableSet)
-//  tvlScrollManager.addScrollEvent("tvlistingset", tvlistingSet)
-
 });
+$(function() {
+    $('#reserve-start-date').datepicker({
+        format: 'yyyy/mm/dd',
+        language: 'ja',
+        autoclose:'true',
+    });
+});
+$(function() {
+    $('#reserve-stop-date').datepicker({
+        format: 'yyyy/mm/dd',
+        language: 'ja',
+        autoclose:'true',
+    });
+});
+function allHideMain(){
+  $('#tvlistingsConfig').hide();
+  $('#tvlistings').hide();
+  $('#tvlistingsBS').hide();
+  $('#tvlistingsCS').hide();
+}
+function clickGR(){
+  allHideMain();
+  $('#tvlistings').show();
+  scrollBy( 0, 1200)
+}
+function clickBS(){
+  allHideMain();
+  $('#tvlistingsBS').show();
+}
+function clickCS(){
+  allHideMain();
+  $('#tvlistingsCS').show();
+}
+function clickReservationProgramme(){
+  ch = $('#reserve-channel-id').val();
+  startDate = $('#reserve-start-date').val();
+  startHour = $('#reserve-start-hh').val();
+  startMin = $('#reserve-start-mm').val();
+
+  stopDate = $('#reserve-stop-date').val();
+  stopHour = $('#reserve-stop-hh').val();
+  stopMin = $('#reserve-stop-mm').val();
+
+  startDateArray = startDate.split("/");
+  stopDateArray = stopDate.split("/");
+
+  start = new Date(startDateArray[0],startDateArray[1]-1,startDateArray[2],startHour,startMin);
+  stop = new Date(stopDateArray[0],stopDateArray[1]-1,stopDateArray[2],stopHour,stopMin);
+  length = ((stop - start) / 1000) / 60;
+
+  url = getJsonReservationURL(start, length, "GR", ch);
+  $.ajax({
+    type : 'post',
+    url : url
+  });
+
+//  $.ajax({
+//    type : 'post',
+//    url : url,
+//    data : JSON.stringify(JSONdata),
+//    contentType: 'application/JSON',
+//    dataType : 'JSON',
+//    scriptCharset: 'utf-8',
+//    success : function(data) {
+//      alert("success");
+//    },
+//    error : function(data) {
+//      alert("error");
+//    }
+//  });
+}
+function clickConfig(){
+  allHideMain();
+  $('#tvlistingsConfig').show();
+}
+
 </script>
 
 </head>
 <body>
   <div id="information" class="navbar navbar-inverse navbar-fixed-top">
-    <div id="floating-left">
-      <i class="icon-chevron-left icon-white" style="zoom: 150%;"></i>
-    </div>
-    <div id="floating-right">
-      <i class="icon-chevron-right icon-white" style="zoom: 150%;"></i>
-    </div>
-    <div id="floating-date"></div>
-
     <div class="navbar-inner">
-      <div id="information_menu" class="container" >
+      <div id="information_listing" class="container">
         <div class="nav-collapse collapse">
           <ul class="nav">
             <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">地上</a>
+              <a href="#" style="padding: 0px 32px 0px 0px;"><div id="infoTime">　</div></a>
             </li>
             <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">BS</a>
-            </li>
-            <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">CS</a>
-            </li>
-            <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">キーワード予約</a>
-            </li>
-            <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">予約一覧</a>
-            </li>
-            <li class="active" style="font-size:small;">
-              <a href="#" style="padding: 0px 32px 0px 0px;">番組検索</a>
-            </li>
-            <li class="active" style="font-size:small;">
-              <a data-toggle="modal" href="#config" style="padding: 0px 0px 0px 0px;">設定</a>
+              <a href="#" style="padding: 0px 0px 0px 0px;"><div class='marquee'>　</div></a>
             </li>
           </ul>
         </div>
+      </div>
+      <div id="information_menu" class="container" >
+        <div class="tabbable">
+          <ul class="nav nav-pills">
+            <li class="active"><a href="javascript:void(0)" onclick="clickGR();" data-toggle="tab">地上</a></li>
+            <li><a href="javascript:void(0)" onclick="clickBS();" data-toggle="tab">BS</a></li>
+            <li><a href="javascript:void(0)" onclick="clickCS();" data-toggle="tab">CS</a></li>
+          </ul>
+          <ul class="nav nav-pills pull-right">
+            <li class="active">
+              <a href="#config-window" role="button" data-toggle="modal">設定</a>
+            </li>
+        </ul>
         </div>
-        <div id="information_listing" class="container" style="display:none;">
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li class="active" style="font-size:small;">
-                <a href="#" style="padding: 0px 32px 0px 0px;"><div id="infoTime">　</div></a>
-              </li>
-              <li class="active" style="font-size:small;">
-                <a href="#" style="padding: 0px 0px 0px 0px;"><div class='marquee'>　</div></a>
-              </li>
-            </ul>
-          </div>
-        </div>
+      </div>
+
         <div style="width:1290px; margin:0 auto 0 auto;">
           <table class="table table-bordered table-condensed" style="margin:0;padding:0;border:0;width: 30px; float: left;">
             <tr>
@@ -115,7 +167,23 @@ $(function() {
     </div>
   </div>
 
-  <div id="tvlistings" style="width:1290px; margin:0 auto 0 auto;" />
+  <div id="tvlistings" style="width:1290px; margin:0 auto 0 auto;"></div>
+  <div id="tvlistingsBS" style="display:none width:1290px; margin:0 auto 0 auto;"></div>
+  <div id="tvlistingsCS" style="display:none width:1290px; margin:0 auto 0 auto;"></div>
+  <div id="tvlistingsConfig" style="display:none width:1290px; margin:0 auto 0 auto;">
+    <form>
+      <fieldset>
+        <legend>設定</legend>
+        <label>録画プログラム</label>
+        <input type="text" placeholder="Type something…">
+        <span class="help-block">Example block-level help text here.</span>
+        <label class="checkbox">
+          <input type="checkbox"> Check me out
+        </label>
+        <button type="submit" class="btn">Submit</button>
+      </fieldset>
+    </form>
+  </div>
 
   <div id="config" class="modal hide">
     <form class="form-horizontal">
@@ -162,6 +230,82 @@ $(function() {
           class="btn" data-dismiss="modal">閉じる</a>
       </div>
     </form>
+  </div>
+
+  <div id="reservation-window" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+      <h3 id="myModalLabel">録画予約</h3>
+    </div>
+    <div class="modal-body">
+
+      <form class="form-horizontal">
+        <div class="control-group">
+          <label class="control-label" for="reserve-channel">チャンネル名</label>
+          <div class="controls">
+            <input type="text" id="reserve-channel" placeholder="チャンネル名"  readonly="readonly">
+            <input type="hidden" id="reserve-channel-id">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="reserve-programme">番組名</label>
+          <div class="controls">
+            <input type="text" class="input-xxlarge" id="reserve-programme" placeholder="番組名">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="reserve-desc">説明</label>
+          <div class="controls">
+            <textarea class="span7" rows="3" id="reserve-desc" readonly="readonly">
+            </textarea>
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="reserve-start-date">開始日程</label>
+          <div class="controls">
+            <input id="reserve-start-date" type="text" class="input-small" placeholder="2000/01/01">
+            <input type="number" min="1" max="24" id="reserve-start-hh" class="input-mini" placeholder="00" required>時
+            <input type="text" id="reserve-start-mm" class="input-mini" placeholder="00">分
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="reserve-stop-date">終了日程</label>
+          <div class="controls">
+            <input id="reserve-stop-date" type="text" class="input-small" placeholder="2000/01/01">
+            <input type="text" id="reserve-stop-hh" class="input-mini" placeholder="00">時
+            <input type="text" id="reserve-stop-mm" class="input-mini" placeholder="00">分
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal" aria-hidden="true">閉じる</button>
+      <button class="btn btn-primary" data-dismiss="modal" aria-hidden="true" onclick="clickReservationProgramme()">予約</button>
+    </div>
+  </div>
+
+
+
+  <div id="config-window" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+      <h3 id="myModalLabel">設定</h3>
+    </div>
+    <div class="modal-body">
+
+      <form class="form-horizontal">
+        <div class="control-group">
+          <label class="control-label" for="save-dir">録画番組保存先</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" id="save-dir" placeholder="保存先パス">
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal" aria-hidden="true">閉じる</button>
+      <button class="btn btn-primary">保存</button>
+    </div>
   </div>
 
 </body>

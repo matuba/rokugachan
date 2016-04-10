@@ -7,7 +7,6 @@ class @TvlistingScrollManager
     @timeTable.prepend()
     @tvlistingSet.setProgrammes(@timeTable.getStartTime()
     , @timeTable.getStopTime())
-    @setNowTime()
 
     scrollBy( 0, @timeTable.heightAppendUnit())
 
@@ -15,15 +14,8 @@ class @TvlistingScrollManager
     @window.bind("scroll", scroll.bind(@))
     scrollBy( 0, position)
 
-  setNowTime: ->
-    nowTime = new Date(@timeTable.getNowTime())
-    nowTimeTxt = (" "+nowTime.getMonth()).slice(-2) + "月"
-    nowTimeTxt = nowTimeTxt + (" "+nowTime.getDate()).slice(-2) + "日"
-    $('#floating-date').html(nowTimeTxt)
-
 
   scroll= ->
-    @setNowTime()
     upperSpace = $(window).scrollTop()
     lowerSpace = ($(document).height() - $(window).scrollTop())
 

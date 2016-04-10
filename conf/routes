@@ -15,6 +15,10 @@ GET     /json/programmes/$year<[0-9]{4}>/$monthOfYear<[0-9]{2}>/$dayOfMonth<[0-9
 #channel name JSON
 GET     /json/name/:ch      		controllers.Application.getChannelNameJSON(ch : String)
 
+GET     /reservation/$year<[0-9]{4}>/$monthOfYear<[0-9]{2}>/$dayOfMonth<[0-9]{2}>/$hourOfDay<[0-9]{2}>/$minuteOfHour<[0-9]{2}>/$length<[0-9]{3}>/:broadcast/:ch      controllers.Application.reservationProgramme(year:String, monthOfYear:String, dayOfMonth:String, hourOfDay:String, minuteOfHour:String, length:String, broadcast:String, ch:String)
+
+
+
 # 画面Test page
 GET     /test/listings                           controllers.Application.testListings
 

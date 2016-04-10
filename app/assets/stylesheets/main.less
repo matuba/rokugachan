@@ -1,3 +1,32 @@
+body { padding-top: 70px; }
+
+#config-window
+{
+    width: 800px;
+}
+#reservation-window
+{
+    width: 800px;
+}
+#reserve-channel
+{
+  cursor: default;
+}
+#reserve-desc
+{
+  cursor: default;
+}
+
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
 div#floating-left {
   position: fixed;
   top: 4px;
@@ -10,8 +39,8 @@ div#floating-left {
 }
 div#floating-right {
   position: fixed;
-  top: 4px;
-  left: -3px;
+  top: 10px;
+  left: -30px;
   text-align:right;
   border: 0px solid #000000;
   border-radius: 10px; /* 角を丸める */
@@ -21,7 +50,7 @@ div#floating-right {
 }
 
 div#floating-date {
-  font-size: 30px;
+  font-size: 12px;
   color: #ffffff;
   position: fixed;
   top: 10px;
@@ -63,42 +92,67 @@ tr.tvlisting{
   line-height: 100%;
 }
 
+@anime_color: #816907;
+@anime_color_bottom: #816907;
+@cinema_color: #4c245e;
+@cinema_color_bottom: #7f3d9d;
+@news_color: #53768d;
+@news_color_bottom: #8bc5ec;
+@information_color: #465660;
+@information_color_bottom: #7690a1;
+@variety_color: #4d8665;
+@variety_color_bottom: #81e0a9;
+@drama_color: #893d58;
+@drama_color_bottom: #e56693;
+@sports_color: #4c5454;
+@sports_color_bottom: #7f8c8d;
+@music_color: #006860;
+@music_color_bottom: #66a49f;
+@etc_color: #8a4b14;
+@etc_color_bottom: #e67e22;
+
+a.anime{
+  color: @anime_color;
+}
+
+
 td.anime{
   &:extend(.td_base all);
-  background: linear-gradient(#816907,#d8b00d);
+  background: linear-gradient(@anime_color,@anime_color_bottom);
 }
 td.cinema{
   &:extend(.td_base all);
-  background: linear-gradient(#4c245e,#7f3d9d);
+  background: linear-gradient(@cinema_color,@cinema_color_bottom);
 }
 td.news{
   &:extend(.td_base all);
-  background: linear-gradient(#53768d,#8bc5ec);
+  background: linear-gradient(@news_color,@news_color_bottom);
 }
 td.information{
   &:extend(.td_base all);
-  background: linear-gradient(#465660,#7690a1);
+  background: linear-gradient(@information_color,@information_color_bottom);
 }
 td.variety{
   &:extend(.td_base all);
-  background: linear-gradient(#4d8665,#81e0a9);
+  background: linear-gradient(@variety_color,@variety_color_bottom);
 }
 td.drama{
   &:extend(.td_base all);
-	background: linear-gradient(#893d58,#e56693);
+	background: linear-gradient(@drama_color,@drama_color_bottom);
 }
 td.sports{
   &:extend(.td_base all);
-  background: linear-gradient(#4c5454,#7f8c8d);
+  background: linear-gradient(@sports_color,@sports_color_bottom);
 }
 td.music{
   &:extend(.td_base all);
-  background: linear-gradient(#006860,#66a49f);
+  background: linear-gradient(@music_color,@music_color_bottom);
 }
 td.etc{
   &:extend(.td_base all);
-  background: linear-gradient(#8a4b14,#e67e22);
+  background: linear-gradient(@etc_color,@etc_color_bottom);
 }
+
 td.loading{
   &:extend(.td_base all);
 	background-image: url("../images/loading.gif");

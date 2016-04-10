@@ -181,7 +181,9 @@ class @Tvlisting
     height = Tvlisting.calcProgrammeHeight( programme.start, programme.stop)
     start = new Date(programme.start)
     stop = new Date(programme.stop)
-    infoTime = (" "+start.getDate()).slice(-2) + "日("
+
+    infoTime = (" "+(start.getMonth()+1)).slice(-2) + "月"
+    infoTime = infoTime + (" "+start.getDate()).slice(-2) + "日("
     infoTime = infoTime + @DAY_OF_WEEK[start.getDay()] + ")"
     infoTime = infoTime + ("0"+start.getHours()).slice(-2) + ":"
     infoTime = infoTime + ("0"+start.getMinutes()).slice(-2)
@@ -195,6 +197,25 @@ class @Tvlisting
     tr.attr({"stop":programme.stop})
     tr.css("height", height.toString() + "px")
 
+    tr.click ->
+      tableName = programme.channel
+      tableName = tableName.replace( /\./g, "\\." )
+      tableName = '#' + tableName + '\\.name'
+      td = $(tableName).children('tbody').children('tr').children('td')
+      channelname = td.text()
+
+      $('#reservation-window').modal('show')
+      $('#reserve-channel-id').val(programme.channel)
+      $('#reserve-channel').val(channelname)
+      $('#reserve-programme').val(programme.title)
+      $('#reserve-start-date').datepicker('setDate', start)
+      $('#reserve-stop-date').datepicker('setDate', stop)
+      $('#reserve-start-hh').val(start.getHours())
+      $('#reserve-start-mm').val(start.getMinutes())
+      $('#reserve-stop-hh').val(stop.getHours())
+      $('#reserve-stop-mm').val(stop.getMinutes())
+      $('#reserve-desc').html(programme.desc)
+
     tr.dblclick ->
       if Tvlisting.showProgrammeClass != ""
         Tvlisting.showProgrammeClass = ""
@@ -204,8 +225,6 @@ class @Tvlisting
         Tvlisting.setShowProgrammeClass( null, Tvlisting.showProgrammeClass)
 
     tr.hover ->
-      $('#information_listing').show()
-      $('#information_menu').hide()
       fontCol = "<font color='lightcyan'>"
       $('#infoTime').html(fontCol + infoTime + "</font>")
       $('.marquee').html(fontCol + programme.title + "</font>" + programme.desc)
@@ -217,9 +236,6 @@ class @Tvlisting
         duplicated: true,
         pauseOnHover: true
       })
-    ,->
-      $('#information_menu').show()
-      $('#information_listing').hide()
 
     fontSize = Tvlisting.adjustProgrammeFontSize(height)
     value = "<td class='" + programme.category + "'>"
@@ -280,7 +296,7 @@ class @Tvlisting
     tvlistingsTable.css("float", "left")
 
   createListingNameTable:(tvlistingNamesId, channelname) ->
-    tvlistingNameTable = $("<table id='" + channelname + "'></table>")
+    tvlistingNameTable = $("<table id='" + channelname + ".name'></table>")
     tvlistingNameTable = tvlistingNameTable.appendTo("#" + tvlistingNamesId)
     tvlistingNameTable.addClass("""
                        table table-bordered table-condensed channelname
