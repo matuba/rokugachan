@@ -1,4 +1,4 @@
-name := """rokugachan"""
+name := """secure-shelf-30837"""
 
 version := "1.0-SNAPSHOT"
 
